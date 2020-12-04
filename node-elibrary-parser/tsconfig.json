@@ -16,7 +16,7 @@
         "resolveJsonModule": true,
         "outDir": "dist",
         "typeRoots": [
-            "./src/types/"
+            "./types/"
         ]
     },
     "include": [
