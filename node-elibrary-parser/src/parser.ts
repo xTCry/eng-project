@@ -1,3 +1,4 @@
+import Fs from 'fs-extra';
 import { load } from 'cheerio';
 import superagent from 'superagent';
 import chTableParser from 'cheerio-tableparser';
@@ -20,6 +21,11 @@ const request = async (url: string): Promise<string> =>
                 }
             })
     );
+
+interface IArticleTitle {
+    title: string;
+    titleEng?: string;
+}
 
 export class Parser {
     public async Start() {
@@ -139,12 +145,12 @@ export class Parser {
             .filter(Boolean) as any;
     }
 
-    public async getArticleTitle(id: number) {
+    public async getArticleTitle(id: number): Promise<IArticleTitle> {
         const body = await this.request(`${URL_EL}/item.asp?id=${id}`);
         const $ = load(body);
 
         let title = $('p.bigtext').text();
-        let titleEng = null;
+        let titleEng = undefined;
 
         chTableParser($);
 
@@ -186,5 +192,17 @@ export class Parser {
             .get()
             .map((e) => parseInt($(e).text()))
             .filter(Boolean);
+    }
+
+    public async ExtractTitles(cacheName: string, toFile: string) {
+        let arTitles = (await cm.read(cacheName)) as IArticleTitle[];
+
+        let dataAll = arTitles.map((e) => `${e.title}\n${e.titleEng}`).join('\n\n');
+        let dataEng = arTitles.map((e) => `${e.titleEng}`).join('\n\n');
+        let dataRus = arTitles.map((e) => `${e.title}`).join('\n\n');
+
+        await Fs.writeFile(`${toFile}.all.txt`, dataAll);
+        await Fs.writeFile(`${toFile}.en.txt`, dataEng);
+        await Fs.writeFile(`${toFile}.ru.txt`, dataRus);
     }
 }
