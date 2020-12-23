@@ -1,39 +1,80 @@
 import Fs from 'fs-extra';
 import md5 from 'md5';
+import logger from './logger';
 
 export class CCacheMan {
-    path: string = './temp/';
+    path: string = './temp';
     cache: any = {};
 
     constructor(path?: string) {
         if (path) {
             this.path = path;
         }
-        Fs.mkdirp(this.path).then();
+        Fs.ensureDir(this.path).then();
     }
 
-    public async create(file: string, data: any) {
+    private async vjuhFilePath(path: string | string[]) {
+        if (Array.isArray(path)) {
+            if (path.length !== 2) {
+                console.error('[cacheman] wrong file! [dir, file]');
+                return undefined;
+            }
+            await Fs.ensureDir(`${this.path}/${path[0]}`);
+            return [path[0], path[1]];
+        }
+        return ['', path];
+    }
+
+    public async create(file: string | string[], data: any) {
         return this.update(file, data);
     }
 
-    public async update(file: string, data: any, timed: number = 36e4) {
+    public async delete(file: string | string[]) {
+        let arFile = await this.vjuhFilePath(file);
+        if (!arFile) {
+            return;
+        }
+        let [apath, afile] = arFile;
+
+        let path = this.getPath(apath, afile);
+        let name = this.genName(afile);
+        try {
+            delete this.cache[name];
+            await Fs.unlink(path);
+        } catch (err) {}
+    }
+
+    public async update(file: string | string[], data: any, timed: number = 36e4) {
         // console.log('\n\n-----', file, data);
 
-        let path = this.getPath(file);
-        let name = this.genName(file);
+        let arFile = await this.vjuhFilePath(file);
+        if (!arFile) {
+            return;
+        }
+        let [apath, afile] = arFile;
 
-        let wrd = {
+        let path = this.getPath(apath, afile);
+        let name = this.genName(afile);
+
+        this.cache[name] = {
             time: this.time,
             timed,
             data,
             source: file,
         };
 
-        this.cache[name] = wrd;
-        await Fs.writeFile(path, JSON.stringify(wrd, null, 2));
+        // this.cache[name] = wrd;
+        await Fs.writeFile(path, JSON.stringify(this.cache[name], null, 2));
     }
 
-    public async read(file: string) {
+    public async read(file: string | string[]) {
+        let arFile = await this.vjuhFilePath(file);
+        if (!arFile) {
+            return;
+        }
+
+        logger.debug(`[cacheman] load cache (${arFile[1]})`);
+
         let _data = await this._read(file);
         if (_data === null) {
             return null;
@@ -48,13 +89,19 @@ export class CCacheMan {
         }
     }
 
-    public async _read(file: string, forceFile: boolean = false) {
-        let name = this.genName(file);
+    public async _read(file: string | string[], forceFile: boolean = false) {
+        let arFile = await this.vjuhFilePath(file);
+        if (!arFile) {
+            return;
+        }
+        let [apath, afile] = arFile;
+
+        let name = this.genName(afile);
         if (!forceFile && this.cache[name]) {
             return this.cache[name];
         }
 
-        let path = this.getPath(file);
+        let path = this.getPath(apath, afile);
         if (!Fs.existsSync(path)) {
             return null;
         }
@@ -68,8 +115,17 @@ export class CCacheMan {
         }
     }
 
-    public isset(file: string, forceFile: boolean = false) {
-        let path = this.getPath(file);
+    public isset(file: string | string[], forceFile: boolean = false) {
+        let apath = '';
+        if (Array.isArray(file)) {
+            if (file.length !== 2) {
+                console.error('[cacheman] wrong file! [dir, file]');
+                return;
+            }
+            [apath, file] = file;
+        }
+
+        let path = this.getPath(apath, file);
         let name = this.genName(file);
         if (!forceFile && this.cache[name]) {
             return true;
@@ -80,7 +136,12 @@ export class CCacheMan {
     /**
      * Is cache file timeout
      */
-    public async isTimed(file: string) {
+    public async isTimed(file: string | string[]) {
+        let arFile = await this.vjuhFilePath(file);
+        if (!arFile) {
+            return;
+        }
+
         let _data = await this._read(file);
         if (_data === null) {
             return null;
@@ -90,8 +151,8 @@ export class CCacheMan {
         return this.time - (time || 0) > timed;
     }
 
-    public getPath(file: string) {
-        return `${this.path}${this.genName(file)}.json`;
+    public getPath(path: string, file: string) {
+        return `${[this.path, path, this.genName(file)].join('/')}.json`;
     }
 
     public genName(str: string) {
