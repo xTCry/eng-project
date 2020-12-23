@@ -1,3 +1,9 @@
+НАУЧНЫЕ ОСНОВЫ СОЗДАНИЯ ПОДЗЕМНЫХ КОМПЛЕКСОВ ДЛЯ РАЗМЕЩЕНИЯ АТОМНЫХ СТАНЦИЙ МАЛОЙ МОЩНОСТИ В УСЛОВИЯХ АРКТИКИ
+SCIENTIFIC BASES TO CONSTRUCT UNDERGROUND COMPLEXES FOR PLACING SMALL NUCLEAR POWER PLANTS IN THE ARCTIC
+
+КРУЖКОВАЯ РАБОТА ПО ТЕХНОЛОГИЧЕСКОМУ ОБРАЗОВАНИЮ ШКОЛЬНИКОВ
+GROUP WORK ON TECHNOLOGICAL EDUCATION OF SCHOOLCHILDREN
+
 ЕЩЕ РАЗ ОБ ЭКЗАМЕНАХ, ОШИБКАХ И АНАЛИЗЕ
 ONCE AGAIN ABOUT EXAMINATIONS, MISTAKES, AND ANALYSIS
 
@@ -13,11 +19,11 @@ ACCELERATED CONSTRUCTION OF A MULTI STOREY RESIDENTIAL BUILDINGS WITH MONOLITHIC
 ЛИНГВОЭТНИЧЕСКИЙ БАРЬЕР И СПОСОБЫ ЕГО ПРЕОДОЛЕНИЯ ПРИ ПЕРЕВОДЕ У СТУДЕНТОВ НЕЯЗЫКОВЫХ ВУЗОВ
 LINGUO-ETHNIC BARRIER AND WAYS TO OVERCOME IT IN TRANSLATION FOR STUDENTS OF NON-LINGUISTIC UNIVERSITIES
 
-ПОЛИТКОРРЕКТНОСТЬ КАК СОЦИОКУЛЬТУРНОЕ ЯВЛЕНИЕ В СОВРЕМЕННОМ АНГЛИЙСКОМ ЯЗЫКЕ
-POLITICAL CORRECTNESS AS A SOCIOCULTURAL AND LINGUISTIC PHENOMENON IN MODERN ENGLISH
-
 СОВРЕМЕННЫЕ ПРОБЛЕМЫ И ПЕРСПЕКТИВЫ ИНФОРМАЦИОННО-ТЕХНОЛОГИЧЕСКОГО ОБЩЕСТВА
 MODERN PROBLEMS AND PROSPECTS OF INFORMATION TECHNOLOGY SOCIETY
+
+К ВОПРОСУ О ЕДИНИЦЕ ДИАЛОГИЧЕСКОГО ДИСКУРСА
+ON A DIALOGICAL DISCOURSE UNIT
 
 ОСНОВНЫЕ ФУНДАМЕНТАЛЬНЫЕ СРЕДСТВА ВЫРАЖЕНИЯ АКТУАЛЬНОГО ЧЛЕНЕНИЯ ПРЕДЛОЖЕНИЯ (НА МАТЕРИАЛЕ АНГЛИЙСКОЙ ЛИТЕРАТУРЫ)
 THE MAIN FUNDAMENTAL MEANS OF EXPRESSION OF ACTUAL DIVISION OF THE SENTENCE (BASED ON THE MATERIAL OF THE ENGLISH LITERATURE)
@@ -30,6 +36,9 @@ OVERVIEW OF INSULATING BUSHES OF TUBULAR ELECTRIC HEATERS
 
 НЕМЕЦКИЙ АНЕКДОТ В СТРУКТУРЕ ЮМОРИСТИЧЕСКОГО ДИАЛОГИЧЕСКОГО ДИСКУРСА
 GERMAN ANECDOTЕ IN THE STRUCTURE OF A HUMOROUS DIALOGICAL DISCOURSE
+
+КВАДРАТИЧНЫЕ КОРРЕЛЯЦИОННЫЕ ФИЛЬТРЫ В ЗАДАЧАХ РАЗЛИЧЕНИЯ ИЗОБРАЖЕНИЙ
+QUADRATIC CORRELATION FILTERS IN PROBLEMS OF IMAGES RECOGNITION
 
 ТЕХНОЛОГИИ ИНТЕГРАЦИИ И СЕМАНТИЧЕСКОЙ ПАУТИНЫ В ЦИФРОВОМ СТРОИТЕЛЬСТВЕ
 INTEGRATION AND SEMANTIC WEB TECHNOLOGIES IN DIGITAL CONSTRUCTION
@@ -109,26 +118,11 @@ EIGENVALUES AND EIGENOPERATORS OF THE COMMUTATOR. I
 ПРИМЕНЕНИЕ МАРКОВСКОЙ ЦЕПИ В МОДЕЛИ СЛУЧАЙНОГО ПРОЦЕССА С ЭФФЕКТАМИ ПАМЯТИ
 APPLICATION OF THE MARKOV CHAIN IN THE MODEL OF A RANDOM PROCESS WITH MEMORY EFFECTS
 
-ВЛИЯНИЕ СОСТАВА МИНЕРАЛЬНОГО ВЯЖУЩЕГО НА ПРОЧНОСТЬ АСФАЛЬТОГРАНУЛОБЕТОНА ПРИ ХОЛОДНОМ РЕСАЙКЛИНГЕ
-INFLUENCE OF THE MINERALCOMPOSITION BINDER FOR STRENGTH ASPHALT GRAINED CONCRETE AT COLD RESYCLING
+НАУЧНЫЕ ОСНОВЫ СОЗДАНИЯ ПОДЗЕМНЫХ КОМПЛЕКСОВ ДЛЯ РАЗМЕЩЕНИЯ АТОМНЫХ СТАНЦИЙ МАЛОЙ МОЩНОСТИ В УСЛОВИЯХ АРКТИКИ
+SCIENTIFIC BASES TO CONSTRUCT UNDERGROUND COMPLEXES FOR PLACING SMALL NUCLEAR POWER PLANTS IN THE ARCTIC
 
-МОДЕЛИРОВАНИЕ БРОУНОВСКОЙ ДИНАМИКИ С ХИМИЧЕСКОЙ РЕАКЦИЕЙ
-MODELLING OF BROWNIAN DYNAMICS WITH CHEMICAL REACTION
-
-ИМИТАЦИОННОЕ МОДЕЛИРОВАНИЕ ПРОЦЕССОВ АГЛОМЕРАЦИИ И ИЗМЕЛЬЧЕНИЯ
-SIMULATION MODELING OF AGROMERATION AND GRINDING PROCESSES
-
-НОВЫЙ ИНСТРУМЕНТ ДЛЯ ЭНЕРГОМОДЕЛИРОВАНИЯ И ОПТИМИЗАЦИИ ЭНЕРГОПОТРЕБЛЕНИЯ
-NEW TOOL FOR ENERGY SIMULATION AND OPTIMIZATION OF ENERGY CONSUMPTION
-
-ОБ УПРАВЛЕНИИ ПЕРЕМЕЩЕНИЕМ ПИКСЕЛЯ В RGB-ПРОСТРАНСТВЕ ПРИ ЯРКОСТНО-КОНТРАСТНЫХ ПРЕОБРАЗОВАНИЯХ ЦВЕТНЫХ ЦИФРОВЫХ ИЗОБРАЖЕНИЙ И АЛГОРИТМЕ ЧАСТОТНО- ПРОПОРЦИОНАЛЬНОГО РАСТЯЖЕНИЯ
-ABOUT THE CONTROL OF MOVEMENT OF A PIXEL IN RGB SPACE IN BRIGHTNESS CONTRAST TRANSFORMATIONS OF COLOR DIGITAL IMAGES AND THE ALGORITHM OF FREQUENCY PROPORTIONAL STRETCHING
-
-О ГРУБОСТИ И БИФУРКАЦИЯХ УРАВНЕНИЙ БЕРНУЛЛИ С ПЕРИОДИЧЕСКИМИ КОЭФФИЦИЕНТАМИ
-ON STRUCTURAL STABILITY AND BIFURCATIONS FOR BERNOULLI EQUATIONS WITH PERIODIC COEFFICIENTS
-
-О ДВИЖУЩЕЙ СИЛЕ ПРОЦЕССА СУШКИ
-ABOUT THE DRIVING FORCE OF THE DRYING PROCESS
+КРУЖКОВАЯ РАБОТА ПО ТЕХНОЛОГИЧЕСКОМУ ОБРАЗОВАНИЮ ШКОЛЬНИКОВ
+GROUP WORK ON TECHNOLOGICAL EDUCATION OF SCHOOLCHILDREN
 
 ЕЩЕ РАЗ ОБ ЭКЗАМЕНАХ, ОШИБКАХ И АНАЛИЗЕ
 ONCE AGAIN ABOUT EXAMINATIONS, MISTAKES, AND ANALYSIS
@@ -145,11 +139,11 @@ ACCELERATED CONSTRUCTION OF A MULTI STOREY RESIDENTIAL BUILDINGS WITH MONOLITHIC
 ЛИНГВОЭТНИЧЕСКИЙ БАРЬЕР И СПОСОБЫ ЕГО ПРЕОДОЛЕНИЯ ПРИ ПЕРЕВОДЕ У СТУДЕНТОВ НЕЯЗЫКОВЫХ ВУЗОВ
 LINGUO-ETHNIC BARRIER AND WAYS TO OVERCOME IT IN TRANSLATION FOR STUDENTS OF NON-LINGUISTIC UNIVERSITIES
 
-ПОЛИТКОРРЕКТНОСТЬ КАК СОЦИОКУЛЬТУРНОЕ ЯВЛЕНИЕ В СОВРЕМЕННОМ АНГЛИЙСКОМ ЯЗЫКЕ
-POLITICAL CORRECTNESS AS A SOCIOCULTURAL AND LINGUISTIC PHENOMENON IN MODERN ENGLISH
-
 СОВРЕМЕННЫЕ ПРОБЛЕМЫ И ПЕРСПЕКТИВЫ ИНФОРМАЦИОННО-ТЕХНОЛОГИЧЕСКОГО ОБЩЕСТВА
 MODERN PROBLEMS AND PROSPECTS OF INFORMATION TECHNOLOGY SOCIETY
+
+К ВОПРОСУ О ЕДИНИЦЕ ДИАЛОГИЧЕСКОГО ДИСКУРСА
+ON A DIALOGICAL DISCOURSE UNIT
 
 ОСНОВНЫЕ ФУНДАМЕНТАЛЬНЫЕ СРЕДСТВА ВЫРАЖЕНИЯ АКТУАЛЬНОГО ЧЛЕНЕНИЯ ПРЕДЛОЖЕНИЯ (НА МАТЕРИАЛЕ АНГЛИЙСКОЙ ЛИТЕРАТУРЫ)
 THE MAIN FUNDAMENTAL MEANS OF EXPRESSION OF ACTUAL DIVISION OF THE SENTENCE (BASED ON THE MATERIAL OF THE ENGLISH LITERATURE)
@@ -162,6 +156,9 @@ OVERVIEW OF INSULATING BUSHES OF TUBULAR ELECTRIC HEATERS
 
 НЕМЕЦКИЙ АНЕКДОТ В СТРУКТУРЕ ЮМОРИСТИЧЕСКОГО ДИАЛОГИЧЕСКОГО ДИСКУРСА
 GERMAN ANECDOTЕ IN THE STRUCTURE OF A HUMOROUS DIALOGICAL DISCOURSE
+
+КВАДРАТИЧНЫЕ КОРРЕЛЯЦИОННЫЕ ФИЛЬТРЫ В ЗАДАЧАХ РАЗЛИЧЕНИЯ ИЗОБРАЖЕНИЙ
+QUADRATIC CORRELATION FILTERS IN PROBLEMS OF IMAGES RECOGNITION
 
 ТЕХНОЛОГИИ ИНТЕГРАЦИИ И СЕМАНТИЧЕСКОЙ ПАУТИНЫ В ЦИФРОВОМ СТРОИТЕЛЬСТВЕ
 INTEGRATION AND SEMANTIC WEB TECHNOLOGIES IN DIGITAL CONSTRUCTION
@@ -274,6 +271,9 @@ PREDICTION OF THE MAXIMUM AMPLITUDE OF THE ASYMMETRICLOADING CYCLE OF HARDENED S
 ВЛИЯНИЕ ДОБАВОК ДВУХЗАРЯДНЫХ ИОНОВ НА АКТИВНОСТЬ И ХИМИЧЕСКУЮ УСТОЙЧИВОСТЬ КАТАЛИТИЧЕСКИ АКТИВНЫХ ФЕРРИТОВ КАЛИЯ
 THE EFFECT OF DOUBLY CHARGED ION ADDITIVES ON THE ACTIVITY AND CHEMICAL STABILITY OF CATALYTICALLY ACTIVE POTASSIUM FERRITES
 
+ВИБРОДИНАМИЧЕСКИЕ ПАРАМЕТРЫ ДВИГАТЕЛЕЙ С АЛЬТЕРНАТИВНЫМИ РАБОЧИМИ ПРОЦЕССАМИ
+VIBRODYNAMIC PARAMETERS OF ENGINES WITH ALTERNATIVE OPERATING PROCESSES
+
 ЖИДКОФАЗНОЕ КАТАЛИТИЧЕСКОЕ ОКИСЛЕНИЕ 3,5 - КСИЛЕНОЛА
 LIQUID PHASE CATALYTIC OXIDATION 3,5 - XYLENOL
 
@@ -286,9 +286,6 @@ ASSESSMENT OF THE ECOLOGICAL STATE OF THE VOLGA RIVER WITHIN THE CITY OF YAROSLA
 СИНТЕЗ ХИНОИДНЫХ ПРОИЗВОДНЫХ БЕНЗАННЕЛИРОВАННЫХ ГЕТЕРОЦИКЛОВ С УЗЛОВЫМ АТОМОМ АЗОТА
 SYNTHESIS OF QUINONE’S DERIVATIVES OF BENZANNELATED HETEROCYCLES WITH A BRIDGEHEAD NITROGEN
 
-ИССЛЕДОВАНИЕ ВИБРОДИНАМИЧЕСКИХ ХАРАКТЕРИСТИК ДВИГАТЕЛЕЙ С ОТКЛЮЧАЕМЫМИ ЦИЛИНДРАМИ
-ON VIBRATIONAL AND DYNAMIC CHARACTERISTICS OF ENGINES WITH DEACTIVATED CYLINDERS
-
 СИНТЕЗ ЗАМЕЩЕННЫХ ПИРАЗОЛО[1,5-A]ХИНОКСАЛИНОВ С ИСПОЛЬЗОВАНИЕМ МЕТОДА ВОССТАНОВИТЕЛЬНОЙ ЦИКЛИЗАЦИИ
 SYNTHESIS OF SUBSTITUTED PYRAZOLO[1,5-A]QUINOXALINES USING THE REDUCTIVE CYCLIZATION
 
@@ -297,3 +294,2312 @@ ANALYSIS OF THE CURRENT STATE OF THE PROBLEMS OF QUALITY MANAGEMENT OF INFORMATI
 
 ДИАГРАММА ДЕФОРМИРОВАНИЯ БЕТОНА, ОГРАНИЧЕННОГО ДИСКРЕТНОЙ КОМПОЗИТНОЙ ОБОЙМОЙ
 STRESS-STRAIN MODEL FOR CONCRETE CONFINED BY A DISCRETE FRP-JACKETS
+
+АНАЛИЗ ЗАКОНОДАТЕЛЬНОЙ И НОРМАТИВНО-МЕТОДИЧЕСКОЙ ДОКУМЕНТАЦИИ, СОДЕРЖАЩЕЙ ТРЕБОВАНИЯ БЕЗОПАСНОСТИ СТРАХОВОЧНЫХ СИСТЕМ ОТ ПАДЕНИЯ С ВЫСОТЫ
+THE ANALYSIS OF LEGISLATIVE, REGULATORY AND METHODICAL DOCUMENTATION CONTAINING SAFETY REQUIREMENTS FOR SAFETY SYSTEMS AGAINST FALLING FROM HEIGHT
+
+ОСОБЕННОСТИ ЖИДКОФАЗНОГО ОКИСЛЕНИЯ МЕТИЛВИНИЛПИРИДИНА
+FEATURES OF LIQUID-PHASE OXIDATION OF METHYLVINYLPYRIDINE
+
+МАТЕМАТИЧЕСКОЕ ОПИСАНИЕ ПРОЦЕССА РАСПЫЛА КОМПОНЕНТОВ СМЕСИ В ЦЕНТРОБЕЖНОМ АППАРАТЕ
+MATHEMATICAL DESCRIPTION OF THE PROCESS OF SPRAYING THE COMPONENTS OF THE MIXTURE IN A CENTRIFUGAL APPARATUS
+
+ИНТЕНСИФИКАЦИЯ ПРОЦЕССА ВЫПАРИВАНИЯ КРИСТАЛЛИЗУЮЩИХСЯ РАСТВОРОВ
+INTENSIFICATION OF THE PROCESS OF EVAPORATION OF CRYSTALLIZING SOLUTIONS
+
+АРОМАТ САКУРЫ. ПРОТИВОСТОЯНИЕ СССР В 1945 ГОДУ СГОВОРУ ГЕРМАНИИ С ЗАПАДОМ
+CHERRY BLOSSOM SCENT. OPPOSITION OF THE USSR IN 1945 TO GERMANY’S COLLUSION WITH THE WEST
+
+ИНТЕГРАЛЬНАЯ ОЦЕНКА ТОЧНОСТИ КРАТКОСРОЧНОГО ПРОГНОЗА НАДЕЖНОСТИ РАДИОТЕХНИЧЕСКИХ СИСТЕМ
+INTEGRATED ACCURACY ASSESSMENT OF SHORT-TERM RELIABILITY FORECAST OF RADIO SYSTEMS
+
+ДИДАКТИЧЕСКАЯ ИГРА "ГРОЗА ДВЕНАДЦАТОГО ГОДА..."
+DIDACTIC GAME "THUNDERSTORM OF THE TWELFTH YEAR..."
+
+ТРАНСПОРТНОЕ СРЕДСТВО ДЛЯ ПЕРЕВОЗКИ СЫПУЧИХ МАТЕРИАЛОВ
+BULK TRANSPORT VEHICLE MATERIALS
+
+ЭЛЕУТЕРОКОКК В ТРЕНИРОВОЧНОМ ПРОЦЕССЕ СПОРТСМЕНОВ-БОРЦОВ
+ELEUTHEROCOCCUS (SIBERIAN GINSENG) IN WRESTLER TRAINING
+
+КЛИМАТИЧЕСКАЯ АДАПТАЦИЯ ДЕХКАНСКИХ И ФЕРМЕРСКИХ ХОЗЯЙСТВ НА ЗАСУШЛИВЫХ ЗЕМЛЯХ ПРИАРАЛЬЯ: ПАРАДИГМА ИЗМЕРЕНИЙ
+CLIMATE ADAPTATION OF FARMS IN THE ARID LANDS OF THE ARAL SEA REGION: MEASUREMENT PARADIGM
+
+РАЗРАБОТКА ЖИЗНЕННОГО ЦИКЛА ЛИТЕЙНОГО КОКСА
+DEVELOPMENT OF THE LIFE CYCLE OF FOUNDRY COKE
+
+I-Я ВСЕРОССИЙСКАЯ НАУЧНО-ПРАКТИЧЕСКАЯ КОНФЕРЕНЦИЯ «ТЕХНИЧЕСКОЕ РЕГУЛИРОВАНИЕ, МЕТРОЛОГИЧЕСКОЕ ОБЕСПЕЧЕНИЕ И УПРАВЛЕНИЕ КАЧЕСТВОМ В КОКСОХИМИЧЕСКОМ ПРОИЗВОДСТВЕ»
+I-ST ALL-RUSSIAN SCIENTIFIC-PRACTICAL CONFERENCE «TECHNICAL REGULATION, METROLOGICAL SUPPORT AND QUALITY MANAGEMENT IN COKE PRODUCTION»
+
+О ВЫБОРЕ ТОЧКИ ВВОДА РАЗДЕЛЯЕМОЙ СМЕСИ В КОЛОННУ МНОГОКОМПОНЕНТНОЙ РЕКТИФИКАЦИИ
+ON SELECTING A POINT FOR INJECTION OF A SEPARATED MIXTURE INTO A MULTICOMPONENT-RECTIFICATION COLUMN
+
+О БИФУРКАЦИЯХ ПЕТЛИ СЕПАРАТРИСЫ ДВУМЕРНОЙ КУСОЧНО-ГЛАДКОЙ ДИНАМИЧЕСКОЙ СИСТЕМЫ
+ON THE SEPARATRIS LOOP BIFURCATIONS OF TWO-DIMENSIONAL PIECEWISE-SMOOTH DYNAMIC SYSTEM
+
+О БИФУРКАЦИЯХ ПЕРИОДИЧЕСКОЙ ТРАЕКТОРИИ "ВОСЬМЕРКА" КУСОЧНО-ГЛАДКОГО ВЕКТОРНОГО ПОЛЯ С СИММЕТРИЕЙ
+ON BIFURCATIONS OF A PERIODIC TRAJECTORY “EIGHT” OF A PIESEWISE SMOOTH VECTOR FIELD WITH SYMMETRY
+
+МАТЕМАТИЧЕСКОЕ МОДЕЛИРОВАНИЕ УПРАВЛЕНИЯ СИСТЕМОЙ ОХЛАЖДЕНИЯ РЛС ДО
+MATHEMATICAL MODELING OF CONTROL OF THE RADAR COOLING SYSTEM
+
+ВЛИЯНИЕ УСЛОВИЙ ИСПЫТАНИЙ НА ПРОЧНОСТНЫЕ СВОЙСТВА ТОНКОСТЕННЫХ РЕЗИНОВЫХ ИЗДЕЛИЙ
+INFLUENCE OF TEST CONDITIONS ON STRENGTH PROPERTIES OF THIN-WALL RUBBER PRODUCTS
+
+УЛУЧШЕННЫЙ СПОСОБ СИНТЕЗА 2,3,4,6-ТЕТРА-О-АЦЕТИЛ-α-D-ГЛЮКОПИРАНОЗИЛГАЛОГЕНОЗ И 2,3,4,6-ТЕТРА-О-АЦЕТИЛ-α,β-D-ГЛЮКОПИРАНОЗЫ - ГЛИКОЗИЛИРУЮЩИХ АГЕНТОВ РАЗЛИЧНЫХ БИОЛОГИЧЕСКИ АКТИВНЫХ СОЕДИНЕНИЙ
+IMPROVED SYNTHESIS OF 2,3,4,6-TETRA-О-ACETYL-α-D-GLUCOPYRANOSYLHALOGENES AND 2,3,4,6-TETRA-О-ACETYL-α,β-D-GLUCOPYRANOSE - GLYCOSYLATING AGENTS OF BIOLOGICALLY ACTIVE COMPOUNDS
+
+РАСЧЕТ ПАРАМЕТРОВ НАДЕЖНОСТИ СТЫКОВЫХ СОЕДИНЕНИЙ СБОРНЫХ ЖЕЛЕЗОБЕТОННЫХ КОНСТРУКЦИЙ С ИСПОЛЬЗОВАНИЕМ МЕТОДА КОНЕЧНЫХ ЭЛЕМЕНТОВ
+COMPUTATION OF RELIABILITY PARAMETERS OF JOINTS OF PREFABRICATED REINFORCED CONCRETE STRUCTURES USING THE FINE ELEMENT METHOD
+
+ПРИМЕНЕНИЕ ФИЗИЧЕСКИХ ЗАКОНОМЕРНОСТЕЙ ПРИ ПОСТРОЕНИИ АЛГОРИТМА СИСТЕМЫ УПРАВЛЕНИЯ ДВИГАТЕЛЕМ ВНУТРЕННЕГО СГОРАНИЯ
+APPLICATION OF PHYSICAL PATTERNS WHEN ELABORATING A CONTROL SYSTEM ALGORITHM FOR AN INTERNAL COMBUSTION ENGINE
+
+СРАВНИТЕЛЬНЫЙ СТОХАСТИЧЕСКИЙ АНАЛИЗ ДВИЖЕНИЯ СЫПУЧИХ МАТЕРИАЛОВ В СМЕСИТЕЛЕ ГРАВИТАЦИОННОГО ТИПА
+COMPARATIVE STOCHASTIC ANALYSIS OF MOVEMENT OF BULK MATERIALS IN A GRAVITATIONAL TYPE MIXER
+
+ДИНАМИЧЕСКИЕ ХАРАКТЕРИСТИКИ ХИМИЧЕСКОГО РЕАКТОРА В ИЗОТЕРМИЧЕСКОМ РЕЖИМЕ РАБОТЫ
+DYNAMIC CHARACTERISTICS OF THE CHEMICAL REACTOR IN ISOTHERMAL MODE OF OPERATION
+
+ЛЮБОВЬ К ДЕТЯМ: ПЕДАГОГИЧЕСКИЙ И ЮРИДИЧЕСКИЙ АСПЕКТЫ
+LOVE FOR CHILDREN: PEDAGOGICAL AND LEGAL ASPECTS
+
+ОСНОВНЫЕ НАПРАВЛЕНИЯ ПОВЫШЕНИЯ НАДЁЖНОСТИ РЕЗЬБОВЫХ СОЕДИНЕНИЙ В УЗЛАХ И АГРЕГАТАХ СОВРЕМЕННЫХ АВТОМОБИЛЕЙ
+THE MAIN DIRECTIONS OF IMPROVING THE RELIABILITY OF THREADED JOINTS IN THE NODES AND ASSEMBLIES OF PRESENT-DAY CARS
+
+"УМНЫЕ" ДВИГАТЕЛИ
+"SMART" ENGINES
+
+МЕТОДЫ ЗАМЕРА НАДПОРШНЕВЫХ ЗАЗОРОВ АВТОТРАНСПОРТНЫХ ДИЗЕЛЬНЫХ ДВИГАТЕЛЕЙ В УСЛОВИЯХ ЭКСПЛУАТАЦИИ
+METHODS OF MEASURING OVER-PISTON CLEARANCES OF AUTOMOTIVE DIESEL ENGINES IN OPERATING CONDITIONS
+
+МОДЕЛИРОВАНИЕ ПРОЦЕССА ИЗВЛЕЧЕНИЯ ЗЁРЕН ИЗ КОЛОСЬЕВ ЗЕРНОВЫХ КУЛЬТУР ВЫТИРАНИЕМ
+PROCESS SIMULATION OF EXTRACTION OF GRAINS FROM GRAIN CROPS EARS BY WIPING
+
+ВЫБОР ПАРАМЕТРОВ ДИАГНОСТИРОВАНИЯ ДЕТАЛЕЙ ЦИЛИНДРОПОРШНЕВОЙ ГРУППЫ АВТОМОБИЛЬНЫХ ДИЗЕЛЬНЫХ ДВИГАТЕЛЕЙ
+SELECTION OF PARAMETERS FOR DIAGNOSTICS OF PARTS OF CYLINDER-PISTON GROUP OF AUTOMOTIVE DIESEL ENGINES
+
+ДИАГНОСТИРОВАНИЕ СИСТЕМЫ СМАЗКИ АВТОТРАКТОРНЫХ ДИЗЕЛЬНЫХ ДВИГАТЕЛЕЙ
+DIAGNOSTICS OF LUBRICATION SYSTEM OF AUTOMOTIVE-TRACTOR DIESEL ENGINES
+
+ИССЛЕДОВАНИЕ РАБОТОСПОСОБНОСТИ ВКЛАДЫШЕЙ КОЛЕНЧАТОГО ВАЛА АВТОТРАКТОРНЫХ ДВИГАТЕЛЕЙ
+WORKING CAPACITY RESEARCH OF THRUST BEARINGS OF MOTOR-AND-TRACTOR ENGINES
+
+ИССЛЕДОВАНИЕ РАБОТОСПОСОБНОСТИ ДЕТАЛЕЙ МЕХАНИЗМА ГАЗОРАСПРЕДЕЛЕНИЯ АВТОТРАКТОРНЫХ ДИЗЕЛЬНЫХ ДВИГАТЕЛЕЙ
+WORKING CAPACITY RESEARCH OF PARTS OF VALVE TIMING GEAR OF MOTOR-AND-TRACTOR DIESEL ENGINES
+
+ПРИВЕДЕНИЕ ГИСТОГРАММЫ ЯРКОСТИ СЛАБОКОНТРАСТНЫХ ЦИФРОВЫХ ИЗОБРАЖЕНИЙ К ДВУХУРОВНЕВОМУ КУСОЧНО-РАВНОМЕРНОМУ РАСПРЕДЕЛЕНИЮ
+BRINGING LUMINANCE HISTOGRAMS OF LOW-CONTRAST DIGITAL IMAGES TO TWO-LEVEL PIECEWISE UNIFORM DISTRIBUTION
+
+ОБ АЛГОРИТМЕ ИЗМЕНЕНИЯ КОНТРАСТА ЦИФРОВОГО ИЗОБРАЖЕНИЯ С УЧЕТОМ ЛОКАЛЬНЫХ СТАТИСТИЧЕСКИХ ХАРАКТЕРИСТИК РАСПРЕДЕЛЕНИЯ ЯРКОСТИ ПИКСЕЛЕЙ
+ALGORITHM OF CHANGING DIGITAL IMAGE CONTRAST TAKING INTO ACCOUNT LOCAL STATISTICAL CHARACTERISTICS OF PIXEL LUMA DISTRIBUTION
+
+УПРАВЛЕНИЕ КОНТРАСТОМ И ЯРКОСТЬЮ ЦИФРОВОГО ИЗОБРАЖЕНИЯ ПУТЕМ ПРЕОБРАЗОВАНИЯ ЯРКОСТИ ПИКСЕЛЕЙ ПОСРЕДСТВОМ СТЕПЕННОЙ ФУНКЦИИ
+CONTROLLING CONTRAST AND LUMA OF DIGITAL IMAGES BY TRANSFORMATION OF PIXEL BRIGHTNESS THROUGH POWER FUNCTION
+
+АЛГОРИТМ ЯРКОСТНО-КОНТРАСТНОЙ ЛУПЫ И ВОЗМОЖНЫЕ ПУТИ ЕГО СОВЕРШЕНСТВОВАНИЯ
+BRIGHTNESS-CONTRAST MAGNIFIER ALGORITHM AND METHODS OF ITS ENHANCING
+
+ТЕРРИТОРИЯ ВЗАИМОДЕЙСТВИЯ: ПСИХОЛОГО-ПЕДАГОГИЧЕСКОЕ СОПРОВОЖДЕНИЕ ДЕТЕЙ С ОВЗ В УСЛОВИЯХ ОБРАЗОВАТЕЛЬНОГО УЧРЕЖДЕНИЯ
+THE TERRITORY OF INTERACTION: PSYCHOLOGICAL AND PEDAGOGICAL SUPPORT OF CHILDREN WITH DISABILITIES IN THE CONDITIONS OF THE EDUCATIONAL INSTITUTION
+
+ЧИСЛЕННАЯ МОДЕЛЬ СЖАТОГО БЕТОННОГО ЭЛЕМЕНТА, УСИЛЕННОГО УГЛЕКОМПОЗИТНОЙ ОБОЙМОЙ
+NUMERICAL MODEL OF A COMPRESSED CONCRETE ELEMENT STRENGTHENED BY FRP JACKETS
+
+СИСТЕМАТИЗАЦИЯ ПОКАЗАТЕЛЕЙ КАЧЕСТВА ИНФОРМАЦИОННОЙ ДЕЯТЕЛЬНОСТИ ПРИБОРОСТРОИТЕЛЬНОГО ПРЕДПРИЯТИЯ
+SYSTEMATIZATION OF QUALITY INDICATORS OF INFORMATION ACTIVITIES OF THE INSTRUMENTAL ENTERPRISE
+
+О НЕКОТОРЫХ БИФУРКАЦИЯХ ОБРАТИМЫХ КУСОЧНО-ГЛАДКИХ ДИНАМИЧЕСКИХ СИСТЕМ НА ПЛОСКОСТИ
+ON SOME BIFURCATIONS OF REVERSIBLE PIECEWISE SMOOTH PLANAR DYNAMICAL SYSTEMS
+
+О СТРУКТУРЕ ПРОСТРАНСТВА ОДНОРОДНЫХ ПОЛИНОМИАЛЬНЫХ ДИФФЕРЕНЦИАЛЬНЫХ УРАВНЕНИЙ НА ОКРУЖНОСТИ
+ON THE STRUCTURE OF THE SPACE OF HOMOGENEOUS POLYNOMIAL DIFFERENTIAL EQUATIONS OF A CIRCLE
+
+О ПОЛИНОМИАЛЬНЫХ ДИФФЕРЕНЦИАЛЬНЫХ УРАВНЕНИЯХ ВТОРОГО ПОРЯДКА НА ОКРУЖНОСТИ, НЕ ИМЕЮЩИХ ОСОБЫХ ТОЧЕК
+ON POLYNOMIAL DIFFERENTIAL EQUATIONS OF THE SECOND ORDER ON A CIRCLE WITHOUT SINGULAR POINTS
+
+СТРУКТУРНО-КОМПОЗИЦИОННЫЙ АНАЛИЗ БЫТОВОГО АНЕКДОТА НА НЕМЕЦКОМ, АНГЛИЙСКОМ И РУССКОМ ЯЗЫКАХ КАК ОБЪЕКТА ЮМОРИСТИЧЕСКОГО ДИАЛОГИЧЕСКОГО ДИСКУРСА
+STRUCTURAL AND COMPOSITIONAL ANALYSIS OF THE GERMAN, ENGLISH AND RUSSIAN EVERYDAY ANECDOTE AS AN ELEMENT OF HUMOROUS DIALOGICAL DISCOURSE
+
+СТАЛИН И МЫ, СЕГОДНЯШНИЕ (ВКЛЮЧАЯСЬ В ДИСКУССИЮ)
+STALIN AND WE, TODAY (JOINING THE DISCUSSION)
+
+ДИАЛЕКТИКА В ФИЛОСОФИИ ДИСКУРСОВ
+DIALECTICS IN THE PHILOSOPHY OF DISCOURSES
+
+ЗАВТРА РОССИЙСКОЙ ЭКОНОМИКИ: СОЕДИНИМЫ ЛИ ЖЕЛАНИЯ С ВОЗМОЖНОСТЯМИ?
+TOMORROW OF THE RUSSIAN ECONOMY: DO WISHES AND OPPORTUNITIES COMBINED?
+
+ТЕОРЕТИЧЕСКАЯ ЭКОНОМИЯ: ОТКРЫВАЯ ДЕСЯТЫЙ ГОД ОБЩЕНИЯ С ЧИТАТЕЛЕМ
+THEORETICAL ECONOMY: FURTHER SEARCH FOR DEVELOPMENT WAYS
+
+ТЕОРЕТИЧЕСКАЯ ЭКОНОМИЯ: ОЧЕРЕДНЫЕ ШАГИ РАЗВИТИЯ
+THEORETICAL ECONOMY: NEXT STEPS OF DEVELOPMENT
+
+ВЕРИФИКАЦИЯ ВЗАИМОСВЯЗИ МЕЖДУ ВЕЛИЧИНОЙ ИНВЕСТИЦИЙ В ОСНОВНОЙ КАПИТАЛ И ИНВЕСТИЦИОННЫМ ПОТЕНЦИАЛОМ РЕГИОНА
+VERIFICATION OF THE INTERRELATION BETWEEN THE SIZE OF INVESTMENTS IN THE FIXED ASSETS AND THE INVESTMENT POTENTIAL OF THE REGION
+
+ТЕОРЕТИЧЕСКАЯ ЭКОНОМИЯ: НОВЫЕ СТУПЕНЬКИ РАЗРАБОТКИ И РАЗВИТИЯ
+THEORETICAL ECONOMY: NEW STEPS OF DEVELOPMENT
+
+ТЕОРЕТИЧЕСКАЯ ЭКОНОМИЯ: НОВЫЕ И ИЗВЕСТНЫЕ ИМЕНА
+THEORETICAL ECONOMY: NEW STEPS OF DEVELOPMENT
+
+О КНИГЕ "КАРЛ МАРКС: КЛАССИКА И СОВРЕМЕННОСТЬ (К 200-ЛЕТИЮ СО ДНЯ РОЖДЕНИЯ) / ПОД РЕД. М.И. ВОЕЙКОВА. - М.: ИЭ РАН, 2018. - 114 С."
+ABOUT THE BOOK "KARL MARX: CLASSICS AND MODERNITY (ON THE 200TH ANNIVERSARY OF BIRTHDAY) / EDITED. M.I. VOEYKOVA. - M.: IE RAS, 2018. - 114 S."
+
+ТЕОРЕТИЧЕСКАЯ ЭКОНОМИЯ: К НОВЫМ ИДЕЯМ
+THEORETICAL ECONOMY: NEW STEPS OF DEVELOPMENT
+
+О КНИГЕ "КАРЛ МАРКС: КЛАССИКА И СОВРЕМЕННОСТЬ (К 200-ЛЕТИЮ СО ДНЯ РОЖДЕНИЯ) / ПОД РЕД. М.И. ВОЕЙКОВА. - М.: ИЭ РАН, 2018. - 114 С."(ПРОДОЛЖЕНИЕ)
+ABOUT THE BOOK "KARL MARX: CLASSICS AND MODERNITY (ON THE 200TH ANNIVERSARY OF BIRTHDAY) / EDITED. M.I. VOEYKOVA. - M.: IE RAS, 2018. - 114 S."
+
+ПАМЯТИ АЛЕКСЕЯ ЮРЬЕВИЧА АРХИПОВА
+IN MEMORY OF ALEXEY YURIEVICH ARKHIPOV
+
+ТЕОРЕТИЧЕСКАЯ ЭКОНОМИЯ: К НОВЫМ ИДЕЯМ
+THEORETICAL ECONOMY: NEW IDEAS, DEEP AND NOT VERY
+
+ТЕОРЕТИЧЕСКАЯ ЭКОНОМИЯ: ИСНОВА К НОВЫМ ИДЕЯМ
+THEORETICAL ECONOMY: NEW IDEAS, DEEP AND NOT VERY
+
+СОЦИАЛИСТЫ ПРОТИВ ЛИБЕРАЛОВ В БОРЬБЕ ЗА ЛИДЕРСТВО В РОССИЙСКОМ ПОЛИТИЧЕСКОМ ПРОЦЕССЕ: ОПЫТ 1917 Г
+SOCIALISTS AGAINST LIBERALS IN THE STRUGGLE FOR LEADERSHIP IN THE RUSSIAN POLITICAL PROCESS: THE EXPERIENCE OF 1917
+
+УПРАВЛЕНИЕ ГРУППАМИ РОБОТОВ УБОРЩИКОВ В ЗДАНИИ
+CONTROL FOR GROUPS OF CLEANING ROBOTS IN A BUILDING
+
+О ДВУХУРОВНЕВЫХ АЛГОРИТМАХ ВЫРАВНИВАНИЯ ЧАСТОТНОЙ И ИНФОРМАЦИОННОЙ МЕДИАН ЯРКОСТНОЙ ГИСТОГРАММЫ ЦИФРОВОГО ИЗОБРАЖЕНИЯ
+ON TWO-LEVEL ALGORITHMS FOR EQUALIZING THE FREQUENCY AND INFORMATION MEDIANS OF THE BRIGHTNESS HISTOGRAM OF A DIGITAL IMAGE
+
+WINDOWS-ПРИЛОЖЕНИЕ ДЛЯ ПОДДЕРЖКИ ПРИНЯТИЯ РЕШЕНИЙ ПРИ ОПТИМИЗАЦИИ ПРОЦЕССА РЕКТИФИКАЦИИ
+WINDOWS-APPLICATION FOR SUPPORT DECISION-MAKING DURING OPTIMIZATION OF RECTIFICATION PROCESS
+
+СИСТЕМА ДЛЯ АВТОМАТИЗАЦИИ ЭНЕРГОМОДЕЛИРОВАНИЯ, ОПТИМИЗАЦИИ ЭНЕРГОПОТРЕБЛЕНИЯ И ПОДГОТОВКИ ЦИФРОВЫХ МОДЕЛЕЙ
+SYSTEM FOR AUTOMATION OF ENERGY MODELING, OPTIMIZATION OF ENERGY CONSUMPTION AND DIGITAL MODELS PREPARATION
+
+О ДВУХ ВОЗМОЖНЫХ МОДИФИКАЦИЯХ АЛГОРИТМА ЧАСТОТНО-ПРОПОРЦИОНАЛЬНОГО РАСТЯЖЕНИЯ ЯРКОСТНОЙ ГИСТОГРАММЫ ЦИФРОВОГО ИЗОБРАЖЕНИЯ
+ON TWO POSSIBLE MODIFICATIONS OF THE ALGORITHM FOR FREQUENCY-PROPORTIONAL STRETCHING OF THE BRIGHTNESS HISTOGRAM OF A DIGITAL IMAGE
+
+МОДЕЛИРОВАНИЕ ПРОЦЕССА РОТАЦИОННОГО СМЕШИВАНИЯ СЫПУЧИХ КОМПОНЕНТОВ НА ПЛАТФОРМЕ КИБЕР-ФИЗИЧЕСКИХ СИСТЕМ
+MODELING OF THE ROTATIONAL MIXING PROCESS OF BULK COMPONENTS ON THE PLATFORM OF CYBER-PHYSICAL SYSTEMS
+
+ИСПОЛЬЗОВАНИЕ ФОРМАЛИЗМА КИБЕР-ФИЗИЧЕСКИХ СИСТЕМ ПРИ ОПИСАНИИ ГИДРОДИНАМИЧЕСКОЙ КАВИТАЦИИ В РЕГУЛИРУЮЩЕМ КЛАПАНЕ
+USE OF THE FORMALISM OF CYBER-PHYSICAL SYSTEMS IN THE DESCRIPTION OF HYDRODYNAMIC CAVITATION IN THE CONTROL VALVE
+
+О ПРИМЕНЕНИИ АЛГОРИТМА ЧАСТОТНО-ПРОПОРЦИОНАЛЬНОГО РАСТЯЖЕНИЯ ЯРКОСТНОЙ ГИСТОГРАММЫ ЦИФРОВОГО ИЗОБРАЖЕНИЯ В ЛОКАЛЬНО-ФРАГМЕНТАРНОЙ СХЕМЕ
+ON THE APPLICATION OF THE ALGORITHM OF FREQUENCY-PROPORTIONAL STRETCHING THE BRIGHTNESS HISTOGRAM OF A DIGITAL IMAGE IN A LOCALLY FRAGMENTARY SCHEME
+
+МОДЕЛИРОВАНИЕ ПРОЦЕССОВ ИЗМЕЛЬЧЕНИЯ И АГЛОМЕРАЦИИ МЕТОДОМ МОНТЕ-КАРЛО
+MODELING OF GRINDING AND AGGLOMERATION PROCESSES BY THE MONTE-CARLO METHOD
+
+МАТЕМАТИЧЕСКОЕ МОДЕЛИРОВАНИЕ ТЕХНОЛОГИЧЕСКИХ ПРОЦЕССОВ НПЗ, НАПРАВЛЕННЫХ НА ВЫПУСК ПРОДУКТОВ НЕФТЕПЕРЕРАБОТКИ
+MATHEMATICAL MODELING OF TECHNOLOGICAL PROCESSES OF REFINERIES AIMED AT THE PRODUCTION OF REFINED PRODUCTS
+
+СМЕШАННЫЕ СТАТИСТИЧЕСКИЕ МОДЕЛИ СОВМЕЩЕННЫХ ПРОЦЕССОВ ИЗМЕЛЬЧЕНИЯ И АГРЕГАЦИИ ЗЕРНИСТЫХ МАТЕРИАЛОВ
+MIXED STATISTICAL MODELS OF COMBINED PROCESSES OF GRINDING AND AGGREGATION OF GRAIN MATERIALS
+
+ИССЛЕДОВАНИЕ УСТОЙЧИВОСТИ ХИМИЧЕСКОГО РЕАКТОРА В РАЗЛИЧНЫХ РЕЖИМАХ РАБОТЫ
+RESEARCH OF STABILITY OF CHEMICAL REACTOR IN VARIOUS OPERATING MODES
+
+РИСК-МЕНЕДЖМЕНТ И УПРАВЛЕНИЕ РИСКАМИ: ПРОБЛЕМЫ ОБОСНОВАНИЯ СУЩНОСТИ ПОНЯТИЙ КАК НАУЧНЫХ КАТЕГОРИЙ ТЕОРИИ И ПРАКТИКИ УПРАВЛЕНИЯ ОРГАНИЗАЦИЯМИ
+RISK MANAGEMENT AND RISK MANAGEMENT: PROBLEMS OF SUBSTANTIATION OF THE ESSENCE OF THE CONCEPTS AS SCIENTIFIC CATEGORIES OF THE THEORY AND PRACTICE OF MANAGEMENT OF ORGANIZATIONS
+
+О ЧИСЛЕ ПЕРИОДИЧЕСКИХ РЕШЕНИЙ НЕКОТОРЫХ ПОЛИНОМИАЛЬНЫХ ДИФФЕРЕНЦИАЛЬНЫХ УРАВНЕНИЙ С ПЕРИОДИЧЕСКИМИ КОЭФФИЦИЕНТАМИ
+ON THE NUMBER OF PERIODIC SOLUTIONS FOR SOME POLYNOMIAL DIFFERENTIAL EQUATIONS WITH PERIODIC COEFFICIENTS
+
+ЛОКАЛЬНЫЕ БИФУРКАЦИИ ОБРАТИМЫХ КУСОЧНО-ГЛАДКИХ ДИНАМИЧЕСКИХ СИСТЕМ НА ПЛОСКОСТИ
+LOCAL BIFURCATIONS OF REVERSIBLE PIECEWISE SMOOTH PLANAR DYNAMICAL SYSTEMS
+
+УПРАВЛЕНИЕ РИСКАМИ В СИСТЕМЕ ЭКОЛОГИЧЕСКОГО МЕНЕДЖМЕНТА НЕФТЕПЕРЕРАБАТЫВАЮЩЕГО ПРЕДПРИЯТИЯ НА ОСНОВЕ НЕЧЕТКИХ МНОЖЕСТВ
+RISK MANAGEMENT IN THE SYSTEM OF ENVIRONMENTAL MANAGEMENT OF OIL REFINING ENTERPRISES ON THE BASIS OF FUZZLE SETS
+
+ПАМЯТЬ И ИСТОРИЧЕСКАЯ ПАМЯТЬ: СООТНОШЕНИЕ ПОНЯТИЙ
+MEMORY AND HISTORICAL MEMORY: TERM CORRELATION
+
+СОХРАНЕНИЕ ПАМЯТНИКОВ УСАДЕБНОЙ КУЛЬТУРЫ ВЛАДИМИРСКОЙ ГУБЕРНИИ В 1920-Х ГГ
+THE PRESERVATION OF MONUMENTS OF MANOR CULTURE OF VLADIMIR PROVINCE IN THE 1920S: ON THE QUESTION OF SOURCES
+
+ОПЫТ МОДЕРНИЗАЦИИ ТРАВЕРСЫ ПОКРАСОЧНОЙ КАМЕРЫ
+EXPERIENCE IN UPGRADING THE TRAVERSE OF THE PAINT CHAMBER
+
+ОБ УЧЕТЕ В МОДЕЛЯХ КАВИТАЦИИ ПРЕДВАРИТЕЛЬНЫХ ЭТАПОВ ОБРАЗОВАНИЯ ПУЗЫРЬКА В ПРОТОЧНОЙ ЧАСТИ КЛАПАНА
+ON ACCOUNTING FOR PRELIMINARY STAGES OF BUBBLE FORMATION IN THE FLOW PART OF THE VALVE IN CAVITATION MODELS
+
+О ЧИСЛЕ ПЕРИОДИЧЕСКИХ РЕШЕНИЙ НЕКОТОРЫХ ДИФФЕРЕНЦИАЛЬНЫХ УРАВНЕНИЙ, ПРАВЫЕ ЧАСТИ КОТОРЫХ ЯВЛЯЮТСЯ ТРИГОНОМЕТРИЧЕСКИМИ ПОЛИНОМАМИ С ПЕРИОДИЧЕСКИМИ КОЭФФИЦИЕНТАМИ
+ON THE NUMBER OF PERIODIC SOLUTIONS OF SOME DIFFERENTIAL EQUATIONS, WHICH RIGHT-HAND SIDES ARE TRIGONOMETRIC POLYNOMIALS WITH PERIODIC COEFFICIENTS
+
+ПРОЕКТИРОВАНИЕ МОНОЛИТНОГО ЖЕЛЕЗОБЕТОННОГО ПЕРЕКРЫТИЯ ПРИ НЕРАВНОМЕРНОМ РАСПРЕДЕЛЕНИИ НАГРУЗКИ
+DESIGN OF A MONOLITHIC REINFORCED CONCRETE FLOOR WITH UNEVEN LOAD DISTRIBUTION
+
+ИССЛЕДОВАНИЕ ТЕХНОЛОГИЙ ОЧИСТКИ МЕДЬСОДЕРЖАЩИХ СТОЧНЫХ ВОД
+RESEARCH OF COPPER CONTAINING WASTE WATER TREATMENT TECHNOLOGIES
+
+ПОЛУЧЕНИЕ МАГНЕТИТА ИЗ МЕТАЛЛУРГИЧЕСКОЙ ПЫЛИ И ОСАДКА СТАНЦИЙ ОБЕЗЖЕЛЕЗИВАНИЯ ВОДЫ
+OBTAINING MAGNETITE FROM METALLURGICAL DUST AND SEDIMENT OF WATER DE-IRONIZATION STATIONS
+
+СНИЖЕНИЕ СОДЕРЖАНИЯ ОКСИДА ЦИНКА В РЕЗИНОВЫХ СМЕСЯХ
+REDUCING OF ZINC OXIDE CONTENT IN RUBBER MIXTURES
+
+ИССЛЕДОВАНИЕ ПАССАЖИРОПОТОКА МОСКОВСКОГО ПРОСПЕКТА Г. ЯРОСЛАВЛЯ
+RESEARCH OF PASSENGER TRAFFIC ON YAROSLAVL'S MOSKOVSKY PROSPEKT
+
+ОПРЕДЕЛЕНИЕ СКОРОСТИ ЦЕПЕЙ И РАЗМЕРОВ ПЛАСТА ГРУНТА, ОТРЕЗАЕМОГО КОВШОМ АГРЕГАТА ДЛЯ УДАЛЕНИЯ ВЕРХНЕГО СЛОЯ ГРУНТА С ПОДСТИЛАЮЩЕГО СЛОЯ АВТОДОРОГИ
+SOIL LAYER CUT OFF BY THE AGGREGATE FOR REMOVING THE TOPSOIL FROM THE ROAD SUBLAYER: DETERMINATION OF THE CHAIN SPEED AND SIZES
+
+АНАЛИЗ ВЗАИМОДЕЙСТВИЯ КРОМКИ ЛЕЗВИЯ КОНСОЛЬНОГО НОЖА С ГРУНТОМ
+ANALYSIS OF INTERACTION OF A CANTILEVER KNIFE BLADE WITH SOIL
+
+АНАЛИЗ ВЗАИМОДЕЙСТВИЯ ПОВЕРХНОСТИ КОНСОЛЬНОГО НОЖА С ГРУНТОМ
+INTERACTION ANALYSIS OF THE CONSOLE KNIFE SURFACE WITH THE SOIL
+
+АНАЛИЗ ВЗАИМОДЕЙСТВИЯ ПРАВОГО НОЖА АГРЕГАТА НЕПРЕРЫВНОГО ДЕЙСТВИЯ С ГРУНТОМ
+CONTINUOUS ACTION RIGHT KNIFE UNIT WITH GROUND INTERACTION ANALYSIS
+
+АНАЛИЗ ВЗАИМОДЕЙСТВИЯ С ГРУНТОМ НИЖНЕГО НОЖА КОВША АГРЕГАТА ДЛЯ ФОРМИРОВАНИЯ ПОДСТИЛАЮЩЕГО СЛОЯ АВТОДОРОГИ
+INTERACTION ANALYSIS OF BUCKET BOTTOM KNIFE WITH SOIL TO BUILD UP SUBBASE
+
+ДИСТАНЦИОННОЕ ОБУЧЕНИЕ СТУДЕНТОВ: ПРОБЛЕМЫ И ПЕРСПЕКТИВЫ ЕГО РАЗВИТИЯ ПОСЛЕ ПАНДЕМИИ КОРОНАВИРУСА
+DISTANCE LEARNING OF STUDENTS: PROBLEMS AND PROSPECTS OF ITS DEVELOPMENT AFTER THE CORONAVIRUS PANDEMIC
+
+АКТУАЛЬНОСТЬ РАЗРАБОТКИ МЕТОДОВ ОСУЩЕСТВЛЕНИЯ ФУНКЦИЙ ГОСУДАРСТВЕННОГО СТРОИТЕЛЬНОГО НАДЗОРА В ЖИЛИЩНОМ СТРОИТЕЛЬСТВЕ ПРИ РИСК-ОРИЕНТИРОВАННОМ ПОДХОДЕ
+THE RELEVANCE OF DEVELOPING METHODS FOR THE IMPLEMENTATION OF THE FUNCTIONS OF STATE CONSTRUCTION SUPERVISION IN HOUSING WITH A RISK-BASED APPROACH
+
+ОСОБЕННОСТИ МОДЕЛИРОВАНИЯ ПРОЦЕССОВ ЗИМНЕГО БЕТОНИРОВАНИЯ ПРИ ФОРМИРОВАНИИ ПЛАНОВ РАБОТ ПРОИЗВОДСТВЕННЫХ ПРОГРАММ
+FEATURES OF MODELING WINTER CONCRETING PROCESSES IN THE FORMATION OF WORK PLANS FOR PRODUCTION PROGRAMS
+
+О СТРУКТУРЕ МНОЖЕСТВА ГРУБЫХ ОДНОРОДНЫХ ПОЛИНОМИАЛЬНЫХ ВЕКТОРНЫХ ПОЛЕЙ НА ПЛОСКОСТИ
+ON THE STRUCTURE OF THE SET OF HOMOGENEOUS POLYNOMIAL VECTOR FIELDS ON THE PLANE
+
+МЕТОДОЛОГИЧЕСКИЕ АСПЕКТЫ ОБУЧЕНИЯ ПЕРЕВОДУ С РУССКОГО НА АНГЛИЙСКИЙ ЯЗЫК ПРОФЕССИОНАЛЬНО ОРИЕНТИРОВАННЫХ ТЕКСТОВ
+METHOTODOLOGY OF TEACHING RUSSIAN-ENGLISH TRANSLATION OF LSP TEXTS
+
+ИСТОРИЧЕСКАЯ ПАМЯТЬ КАК МЕХАНИЗМ РЕГУЛИРОВАНИЯ ВОСПОМИНАНИЙ ОБЩЕСТВА
+HISTORICAL MEMORY AS A MECHANISM FOR THE REGULATION OF SOCIETY MEMORY LANE
+
+МОДЕЛИРОВАНИЕ ПРОЦЕССОВ ОХЛАЖДЕНИЯ ТЕХНОЛОГИЧЕСКИХ ЖИДКОСТЕЙ В ПРЯМОТОЧНЫХ РАСПЫЛИТЕЛЬНЫХ АППАРАТАХ
+MODELING OF COOLING PROCESSES OF PROCESS LIQUIDS IN DIRECT-FLOW SPRAY APPARATUSES
+
+ИЗМЕНЕНИЕ СТРУКТУРЫ ДИСПЕРСНОГО МАТЕРИАЛА ПРИ ВОЗДЕЙСТВИИ ДИНАМИЧЕСКИХ НАГРУЗОК
+THE CHANGE OF STRUCTURE OF DISPERSION MATERIAL UNDER DYNAMIC LOADS
+
+НОВЫЙ ПОКАЗАТЕЛЬ ДЛЯ СИСТЕМ НЕПРЕРЫВНОГО КОНТРОЛЯ УПЛОТНЕНИЯ ГРУНТА ВИБРАЦИОННЫМИ КАТКАМИ
+NEW CRITERION FOR CONTINUOUS COMPACTION CONTROL SYSTEMS BY SOIL VIBRATORY ROLLERS
+
+К ВОПРОСУ О ПРОБЛЕМАХ ОБУЧЕНИЯ РЕФЕРАТИВНОМУ ПЕРЕВОДУ НАУЧНО-ТЕХНИЧЕСКИХ СТАТЕЙ СТУДЕНТОВ НЕЯЗЫКОВЫХ ВУЗОВ
+ON THE PROBLEMS OF TEACHING STUDENTS FROM NON-LINGUISTIC UNIVERSITIES HOW TO DO SUMMARY TRANSLATIONS OF SCIENTIFIC AND TECHNICAL ARTICLES
+
+АНАЛИЗ ВЗАИМОДЕЙСТВИЯ РАБОЧЕГО ОРГАНА СТРОИТЕЛЬНЫХ И ДОРОЖНЫХ МАШИН ПРИ РАЗРАБОТКЕ ПРОЧНЫХ МАТЕРИАЛОВ
+ANALYSIS OF INTERACTION OF THE WORKING BODY OF CONSTRUCTION AND ROAD MACHINES IN THE DEVELOPMENT OF STRENGTH MATERIALS
+
+ОРГАНИЗАЦИЯ ДОПОЛНИТЕЛЬНОЙ ОБРАЗОВАТЕЛЬНОЙ ПРОГРАММЫ "РЕФЕРЕНТ-ПЕРЕВОДЧИК В СФЕРЕ ПРОФЕССИОНАЛЬНОЙ КОММУНИКАЦИИ"
+ORGANIZATION OF ADDITIONAL EDUCATIONAL PROGRAM "REFERENT-TRANSLATOR IN THE FIELD OF PROFESSIONAL COMMUNICATION
+
+СТАНДАРТИЗАЦИЯ ПРОЦЕССОВ УПРАВЛЕНИЯ ЗНАНИЯМИ В ИНФОРМАЦИОННОЙ СРЕДЕ ПРЕДПРИЯТИЯ
+STANDARDIZATION OF KNOWLEDGE MANAGEMENT PROCESSES IN THE SYSTEM OF INFORMATION SUPPORT OF THE ENTERPRISE
+
+АСФАЛЬТОБЕТОН - КАК ОБЪЕКТ РАЗРУШЕНИЯ РАБОЧИМИ ОРГАНАМИ ФРЕЗЕРНЫХ МАШИН
+ASPHALT CONCRETE AS AN OBJECT OF DESTRUCTION BY THE OPERATING UNITS OF MILLING MACHINES
+
+РАЗРАБОТКА ТЕМЫ "ТУРИЗМ" В РАМКАХ ПРОГРАММЫ "РЕФЕРЕНТ-ПЕРЕВОДЧИК В СФЕРЕ ПРОФЕССИОНАЛЬНОЙ КОММУНИКАЦИИ"
+DEVELOPING "TOURISM" TOPIC WITHIN THE FRAMEWORK OF THE PROGRAM "TRANSLATOR IN THE SPHERE OF PROFESSIONAL COMMUNICATION"
+
+К ОБОСНОВАНИЮ ВЛИЯНИЯ КОЛИЧЕСТВА АМОРТИЗАТОРОВ НА ХАРАКТЕРИСТИКИ КОЛЕБАНИЙ ВАЛЬЦА И РАМЫ ВИБРАЦИОННОГО КАТКА
+STUDY OF THE IMPACT OF THE AMOUNT OF SHOCK ABSORBERS ON THE PARAMETERS OF VIBRATIONS OF THE DRUM AND THE FRAME OF A VIBRATING ROLLER
+
+УПРАВЛЕНИЕ БЕЗОПАСНОСТЬЮ ПИЩЕВОЙ ПРОДУКЦИИ НА ОСНОВЕ ТРЕБОВАНИЙ FSSC 22000
+FOOD PRODUCT SAFETY MANAGEMENT BASED ON FSSC 22000 REQUIREMENTS
+
+ОСОБЕННОСТИ ИЗУЧЕНИЯ АНГЛИЙСКОГО ЯЗЫКА ДЛЯ НАЧИНАЮЩИХ ГРУПП
+FEATURES OF STUDYING THE ENGLISH LANGUAGE FOR BEGINNERS GROUPS
+
+МОДЕЛИРОВАНИЕ ПРОЦЕССОВ ДЕКАРБОНИЗАЦИИ ПРИРОДНЫХ ВОД В ПРЯМОТОЧНЫХ РАСПЫЛИТЕЛЬНЫХ АППАРАТАХ ВОДОПОДГОТОВКИ
+MODELING OF NATURAL WATER DECARBONIZATION PROCESSES IN DIRECT-FLOW SPRAY WATER TREATMENT APPARATUS
+
+ГОРНЫЕ ПРИЮТЫ
+MOUNTAIN SHELTERS
+
+ИСПОЛЬЗОВАНИЕ ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ И МУЛЬТИМЕДИА ДЛЯ ОБУЧЕНИЯ СТУДЕНТОВ НЕЯЗЫКОВЫХ ВУЗОВ АУДИРОВАНИЮ
+THE USE OF INFORMATION TECHNOLOGIES AND MULTIMEDIA FOR TEACHING OF NON-LINGUISTIC STUDENTS LISTENING
+
+ПРИМЕНЕНИЕ ИМИТАЦИОННОГО МОДЕЛИРОВАНИЯ ДЛЯ ОЦЕНКИ РИСКОВ ИНВЕСТИЦИОННЫХ ПРОЕКТОВ
+APPLICATION OF SIMULATION MODELING FOR EVALUATION OF PROJECT RISKS
+
+ПРОЦЕССЫ ДЕАЭРАЦИИ В ПРЯМОТОЧНЫХ РАСПЫЛИТЕЛЬНЫХ АППАРАТАХ ВОДОПОДГОТОВКИ
+DEAERATION PROCESSES IN DIRECT-FLOW SPRAY DEVICES OF WATER TREATMENT
+
+КАДРОВАЯ ЛОГИСТИКА КАК ИНСТРУМЕНТ ПОВЫШЕНИЯ ЭФФЕКТИВНОСТИ УПРАВЛЕНИЯ В БАНКОВСКОЙ СФЕРЕ
+PERSONNEL LOGISTICS AS A TOOL FOR INCREASING MANAGEMENT EFFICIENCY IN THE BANKING SPHERE
+
+ПРОБЛЕМЫ ОБУЧЕНИЯ ИНОСТРАННОМУ ЯЗЫКУ КАК ПРЕМЕТУ, СОПРОВОЖДАЮЩЕМУ И ДОПОЛНЯЮЩЕМУ ПРОФЕССИОНАЛЬНОЕ ОБРАЗОВАНИЕ В НЕЯЗЫКОВЫХ ВУЗАХ
+THE PROBLEMS OF TEACHING OF FOREIGN LANGUAGES AS A SUBJECT OF THE ACCOMPANYING AND COMPLEMENTARY PROFESSIONAL EDUCATION IN NON-LINGUISTIC UNIVERSITIES
+
+ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ ТЕХНОЛОГИИ В ЯЗЫКОВОМ ОБУЧЕНИИ В НЕЯЗЫКОВОМ ВУЗЕ
+INFORMATION AND COMMUNICATION TECHNOLOGIES IN LANGUAGE TRAINING IN A NON-LANGUAGE UNIVERSITY
+
+ПОВЫШЕНИЕ КАЧЕСТВА ПОДГОТОВКИ ВЫПУСКНИКОВ ЧЕРЕЗ ВЗАИМОДЕЙСТВИЕ ВУЗА И РАБОТОДАТЕЛЯ
+IMPROVEMENT OF QUALITI OF TRAINING OF GRADUATES THROUGH INTERACTION OF A HIGHER EDUCATIONAL INSTITUTION AND THE EMPLOYER
+
+БОЛЬШОЕ ВИДИТСЯ НА РАССТОЯНИИ (О СТАЛИНСКОЙ НАРОДНОХОЗЯЙСТВЕННОЙ МОДЕЛИ РОСТА ПРОИЗВОДИТЕЛЬНОСТИ ТРУДА)
+LARGESEEEDATDISTANCE (ON THE STALINIST ECONOMIC MODEL OF LABOR PRODUCTIVITY GROWTH)
+
+МОНИТОРИНГ УДОВЛЕТВОРЕННОСТИ ПОТРЕБИТЕЛЕЙ КАК ИНСТРУМЕНТ ПОВЫШЕНИЯ КОНКУРЕНТОСПОСОБНОСТИ ЭКСПОРТИРУЕМОЙ ПРОДУКЦИИ
+MONITORING OF CUSTOMER SATISFACTION AS A TOOL TO IMPROVE THECOMPETITIVENESS OF EXPORTED PRODUCTS
+
+ВЫРАВНИВАНИЕ ТЕХНОЛОГИЧЕСКОГО УРОВНЯ СТРАН-УЧАСТНИЦ ИНТЕГРАЦИОННОГО ОБЪЕДИНЕНИЯ: СЛУЧАЙ ЕАЭС
+ALIGNMENT OF THE TECHNOLOGICAL LEVEL OF THE INTEGRATION ASSOCIATION MEMBERS: THE CASE OF EAEU
+
+ТЕМАТИЧЕСКИЙ БЛОГ НА ИНОСТРАННОМ ЯЗЫКЕ КАК ОДНО ИЗ СРЕДСТВ ЭЛЕКТРОННЫХ ОБРАЗОВАТЕЛЬНЫХ ТЕХНОЛОГИЙ
+A THEMATIC BLOG IN A FOREIGN LANGUAGE AS ONE OF ELECTRONIC EDUCATIONAL TECHNOLOGIES
+
+АЭРАЦИЯ ПРИРОДНЫХ ВОД В ПРЯМОТОЧНЫХ РАСПЫЛИТЕЛЬНЫХ АППАРАТАХ: ГИДРОДИНАМИКА И МАССООБМЕН
+AERATION OF NATURAL WATERS IN DIRECT-FLOW SPRAY APPARATUS: HYDRODYNAMICS AND MASS TRANSFER
+
+ОН-ЛАЙН ОБРАЗОВАНИЕ КАК СПОСОБ МЕЖКУЛЬТУРНОЙ КОММУНИКАЦИИ
+ONLINE EDUCATION AS A WAY OF INTERCULTURAL COMMUNICATION
+
+ОБОСНОВАНИЕ ЦЕЛЕСООБРАЗНОСТИ ПРИОБРЕТЕНИЯ ТРАНСПОРТНОГО СРЕДСТВА
+THE JUSTIFICATION OF THE VALIDITY OF PURCHASING A VEHICLE
+
+ЭКСПЕРИМЕНТАЛЬНАЯ ОЦЕНКА РАЦИОНАЛЬНЫХ УГЛОВ ЗАОСТРЕНИЯ ЗУБЬЕВ МАШИН ДЛЯ РАЗРАБОТКИ ПРОЧНЫХ ДОРОЖНО-СТРОИТЕЛЬНЫХ МАТЕРИАЛОВ
+EXPERIMENTAL ASSESSMENT OF RATIONAL ANGLES OF SHARPENING OF THE TEETH OF THE MACHINERY FOR THE DEVELOPMENT OF DURABLE ROAD CONSTRUCTION MATERIALS
+
+МЕХАНИЗМЫ ФОРМИРОВАНИЯ ИСТОРИЧЕСКОЙ ПАМЯТИ
+THE FORMATION MECHANISMS OF HISTORICAL MEMORY
+
+ИЗ ОПЫТА ПРЕПОДАВАНИЯ РУССКОГО ЯЗЫКА КАК ИНОСТРАННОГО ДЛЯ СТУДЕНТОВ ИЗ ТАДЖИКИСТАНА В ЯРОСЛАВСКОМ ГОСУДАРСТВЕННОМ ТЕХНИЧЕСКОМ УНИВЕРСИТЕТЕ
+FROM THE PRACTICAL EXPERIENCE OF TEACHING RUSSIAN AS A FOREIGN LANGUAGE TO THE STUDENTS FROM TAJIKISTAN IN YAROSLAVL STATE TECHNICAL UNIVERSITY
+
+ИЗ ОПЫТА РАБОТЫ ПРИ СОСТАВЛЕНИИ И ОРГАНИЗАЦИИ ЛИНГВИСТИЧЕСКОЙ ИГРЫ В ЯГТУ
+FROM THE EXPERIENCE OF WORK AT COMPILING AND ORGANIZING LINGUISTIC GAME AT YSTU
+
+КУЛЬТУРА РЕЧИ
+CULTURE OF LANGUAGE
+
+ПРОЕКТИРОВАНИЕ И РАСЧЕТ ПРЯМОТОЧНЫХ РАСПЫЛИТЕЛЬНЫХ АППАРАТОВ ДЛЯ ПРОВЕДЕНИЯ ПРОЦЕССОВ ИСПАРИТЕЛЬНОГО ОХЛАЖДЕНИЯ
+DESIGN AND CALCULATION OF FLOW OF THE SPRAY APPARATUS FOR CARRYING OUT THE PROCESSES OF EVAPORATIVE COOLING
+
+СИНТЕЗ ЗАМЕЩЕННЫХ 5-ГИДРОКСИПИРАЗОЛО[1,5-A]ХИНОКСАЛИН-4-ОНОВ И ИССЛЕДОВАНИЕ ИХ БИОЛОГИЧЕСКИХ СВОЙСТВ
+SYNTHESIS OF SUBSTITUTED 5-HYDROXYPYRAZOLO[1,5-A]QUINOXALIN-4-ONES AND INVESTIGATION OF THEIR BIOLOGICAL PROPERTIES
+
+ФОРМИРОВАНИЕ И УПРАВЛЕНИЕ ЛОЯЛЬНОСТЬЮ КЛИЕНТОВ НА ОСНОВЕ ЦИФРОВЫХ ТЕХНОЛОГИЙ
+FORMATION AND MANAGEMENT OF CUSTOMER LOYALTY BASED ON DIGITAL TECHNOLOGIES
+
+УПРАВЛЕНИЕ БИЗНЕС-ПРОЦЕССАМИ НА ОСНОВЕ СОВРЕМЕННЫХ ТЕХНОЛОГИЙ
+BUSINESS PROCESS MANAGEMENT BASED ON MODERN TECHNOLOGIES
+
+АНАЛИЗ РЫНКА ГАЗИРОВАННОЙ ВОДЫ В ЯРОСЛАВСКОМ РЕГИОНЕ
+ANALYSIS OF GASED WATER MARKET IN YAROSLAVL REGION
+
+ПРОБЛЕМЫ АДАПТАЦИИ ВУЗОВ В ПОДГОТОВКЕ СТУДЕНТОВ К ИЗМЕНЯЮЩИМСЯ ТРЕБОВАНИЯМ ОПЕРЕЖАЮЩЕГО РАЗВИТИЯ НАЦИОНАЛЬНОЙ ЭКОНОМИКИ
+PROBLEMS OF ADAPTATION OF HIGHER EDUCATION INSTITUTIONS IN PREPARATION OF STUDENTS FOR CHANGING REQUIREMENTS OF THE FOREIGN FOREIGN DEVELOPMENT OF THE NATIONAL ECONOMY
+
+ТРАНСФОРМАЦИЯ ПРЕДПРИЯТИЯ ПИЩЕВОЙ ПРОМЫШЛЕННОСТИ В КОНТЕКСТЕ ЦИФРОВИЗАЦИИ
+TRANSFORMATION OF FOOD INDUSTRY IN THE CONTEXT OF DIGITIZATION
+
+ПАМЯТЬ И ВОСПОМИНАНИЯ КАК НЕОБХОДИМЫЕ ЭЛЕМЕНТЫ РАЗВИТИЯ ОБЩЕСТВА
+MEMORY AND MEMORY LANE AS ESSENTIAL ELEMENTS IN THE DEVELOPMENT OF SOCIETY
+
+РАСШИРЕНИЕ ВОЗМОЖНОСТЕЙ ANYLOGIC С ПОМОЩЬЮ ВНЕШНИХ JAVAБИБЛИОТЕК ПРИ МОДЕЛИРОВАНИИ ФУНКЦИОНИРОВАНИЯ ЗДАНИЯ
+USING EXTERNAL JAVA LIBRARIES FOR ANYLOGIC EXTENSION IN MODELING FUNCTIONING OF THE BUILDING
+
+ПОДХОДЫ К УПРАВЛЕНИЮ ДЕЯТЕЛЬНОСТЬЮ ОРГАНИЗАЦИИ НА ПРИМЕРЕ ОАО "РЖД"
+APPROACHES TO THE MANAGEMENT OF THE ORGANIZATION ON THE EXAMPLE OF "RZD"
+
+АВТОМАТИЗАЦИЯ СКЛАДСКОЙ ДЕЯТЕЛЬНОСТИ ПРЕДПРИЯТИЯ НА ООО «ARVATO BERTELSMANN»
+AUTOMATION OF THE ENTERPRISE'S STORAGE ACTIVITY AT ARVATO BERTEL SMANN LLC
+
+БРЕНД СТУДЕНТА КАК ЭЛЕМЕНТ СОЦИАЛЬНО-ЭКОНОМИЧЕСКОГО РАЗВИТИЯ ОБЩЕСТВА
+STUDENT BRAND AS AN ELEMENT OF SOCIAL AND ECONOMIC DEVELOPMENT OF SOCIETY
+
+АНАЛИЗ ВЛИЯНИЯ ФАКТОРОВ МАКРОСРЕДЫ НА ДЕЯТЕЛЬНОСТЬ ПРЕДПРИЯТИЯ
+ANALYSIS OF THE EFFECT OF MACRO ENVIRONMENT FACTORS ON ENTERPRISE ACTIVITIES
+
+ЗНАЧЕНИЕ КОРПОРАТИВНОЙ КУЛЬТУРЫ В БИЗНЕСЕ
+THE IMPORTANCE OF CORPORATE CULTURE IN BUSINESS
+
+ВЛИЯНИЕ КОРПОРАТИВНОЙ КУЛЬТУРЫ НА ДЕЯТЕЛЬНОСТЬ ОРГАНИЗАЦИИ
+IMPACT OF CORPORATE CULTURE ON THE ACTIVITIES OF THE ORGANIZATION
+
+МОДЕРНИЗАЦИЯ ОБРАЗОВАНИЯ И НЕКОТОРЫЕ ПРОТИВОРЕЧИЯ ЦИФРОВОЙ ТРАНСФОРМАЦИИ ЭКОНОМИКИ
+MODERNIZATION OF EDUCATION AND SOME CONTRADICTIONS OF THE DIGITAL TRANSFORMATION OF THE ECONOMY
+
+РЕАЛИЗАЦИЯ КОМПЕТЕНТНОСТНОГО ПОДХОДА ПРИ РАЗРАБОТКЕ СИСТЕМ СТИМУЛИРОВАНИЯ ПЕРСОНАЛА
+DIGITALIZATION OF THE PROCEDURE FOR EVALUATING PROFESSIONAL COMPETENCES OF ORGANIZATION PERSONNEL
+
+САМОРЕГУЛИРОВАНИЕ В СТРОИТЕЛЬСТВЕ КАК ИНСТРУМЕНТ УПРАВЛЕНИЯ В ЭПОХУ ТРАНСФОРМАЦИИ ЭКОНОМИКИ
+SELF-REGULATION IN CONSTRUCTION AS A TOOL OF MANAGEMENT IN THE ERA OF TRANSFORMATION OF ECONOMY
+
+ЦИФРОВАЯ ТРАНСФОРМАЦИЯ ВУЗОВ КАК ФАКТОР ОПЕРЕЖАЮЩЕГО РАЗВИТИЯ ЭКОНОМИКИ РЕГИОНА
+DIGITAL TRANSFORMATION OF UNIVERSITIES AS A FACTOR OF LEADING DEVELOPMENT OF THE ECONOMY OF THE REGION
+
+ПОВЫШЕНИЕ ЭФФЕКТИВНОСТИ ПРОИЗВОДСТВА ЗА СЧЕТ РАЗРАБОТКИ КОНСТРУКЦИИ ПЕРЕМЕШИВАЮЩЕГО УСТРОЙСТВА
+INCREASE OF PRODUCTION EFFICIENCY DUE TO DEVELOPMENT OF MIXING DEVICE DESIGN
+
+ОЦЕНКА ЭФФЕКТИВНОСТИ ИСПОЛЬЗОВАНИЯ ТРУДОВЫХ РЕСУРСОВ ПРЕДПРИЯТИЯ
+ASSESSMENT OF EFFICIENCY OF USE OF LABOR RESOURCES OF THE ENTERPRISE
+
+ОЦЕНКА ЭФФЕКТИВНОСТИ КРЕДИТА
+ASSESSMENT OF EFFICIENCY OF THE CREDIT
+
+ЦИФРОВАЯ ТРАНСФОРМАЦИЯ ПРЕДПРИЯТИЯ ПИЩЕВОЙ ПРОМЫШЛЕННОСТИ
+DIGITAL TRANSFORMATION OF THE FOOD INDUSTRY
+
+АВТОМАТИЗАЦИЯ И ПРОГРАММНАЯ СИСТЕМАТИЗАЦИЯ ПРЕДПРИЯТИЯ НА ПРИМЕРЕ ООО "ARVATO BERTELSMANN"
+AUTOMATION AND SOFTWARE SYSTEMATIZATION OF THE ENTERPRISE ON THE EXAMPLE OF "ARVATO BERTELSMANN"
+
+ОЦЕНКА ТУРИСТИЧЕСКОЙ ПРИВЛЕКАТЕЛЬНОСТИ КАРГОПОЛЬСКОГО РАЙОНА, КАК ФАКТОР РАЗВИТИЯ ТУРИЗМА В МУНИЦИПАЛЬНОМ ОКРУГЕ
+ASSESSMENT OF TOURIST ATTRACTIVENESS OF KARGOPOL DISTRICT AS A FACTOR OF TOURISM DEVELOPMENT IN THE MUNICIPAL DISTRICT
+
+МОТИВАЦИЯ ПЕРСОНАЛА КАК ИНСТРУМЕНТ УПРАВЛЕНИЯ ЧЕЛОВЕЧЕСКИМИ РЕСУРСАМИ ОРГАНИЗАЦИИ, НА ПРИМЕРЕ АССОЦИАЦИИ САМОРЕГУЛИРУЕМОЙ ОРГАНИЗАЦИИ ЯРОСЛАВСКОЙ ОБЛАСТИ "ГЛАВВЕРХНЕВОЛЖСКСТРОЙ"
+STAFF MOTIVATION AS A TOOL OF MANAGEMENT OF HUMAN RESOURCES OF THE ORGANIZATION BY THE EXAMPLE OF AN SRO'S ASSOCIATION OF THE YAROSLAVL REGION "GLAVVERHNEVOLZHSKSTROJ"
+
+ДВИЖЕНИЕ ДЕНЕЖНЫХ ПОТОКОВ В УСЛОВИЯХ ЦИФРОВИЗАЦИИ ЭКОНОМИКИ (НА ПРИМЕРЕ ОАО "СЛАВНЕФТЬ-ЯНОС")
+CASH FLOWS MOTION UNDER CONDITIONS OF DIGITALIZATION OF ECONOMY (ON THE EXAMPLE OF "SLAVNEFT-YANOS")
+
+СРАВНЕНИЕ ПОКАЗАТЕЛЕЙ РОССИЙСКОЙ И МЕЖДУНАРОДНОЙ ОТЧЁТНОСТИ ДЛЯ ИХ ПРИМЕНЕНИЯ В ФИНАНСОВОМ АНАЛИЗЕ
+COMPARISON OF RUSSIAN AND INTERNATIONAL REPORTING INDICATORS FOR THEIR APPLICATION IN FINANCIAL ANALYSIS
+
+СОВЕРШЕНСТВОВАНИЕ ТЕХНОЛОГИИ ИСПОЛЬЗОВАНИЯ В УЧЕБНОМ ПРОЦЕССЕ ЭЛЕКТРОННЫХ РЕСУРСОВ И ПРОГРАММ
+IMPROVEMENT OF USE TECHNOLOGIES IN THE EDUCATIONAL PROCESS OF ELECTRONIC RESOURCES AND PROGRAMS
+
+О ПРОБЛЕМАХ ОБУЧЕНИЯ МАГИСТРАНТОВ И АСПИРАНТОВ ПОДГОТОВКЕ СТАТЕЙ К ПУБЛИКАЦИИ В ЗАРУБЕЖНЫХ НАУЧНЫХ ЖУРНАЛАХ (НА ПРИМЕРЕ АНГЛИЙСКОГО ЯЗЫКА)
+ON THE PROBLEMS OF TEACHING UNDERGRADUATE AND POST-GRADUATE STUDENTS TO PREPARE ARTICLES FOR PUBLICATION IN FOREIGN SCIENTIFIC JOURNALS (THE ENGLISH LANGUAGE BEING THE CASE)
+
+ПРОБЛЕМА КОРРУПЦИИ В СОВРЕМЕННОЙ РОССИИ
+THE PROBLEM OF CORRUPTION IN MODERN RUSSIA
+
+СТУДЕНЧЕСКОЕ ОЛИМПИАДНОЕ ДВИЖЕНИЕ В КОЛЛЕДЖЕ: ПРИНЦИПЫ ОРГАНИЗАЦИИ И ОПЫТ ПРОВЕДЕНИЯ
+STUDENT OLYMPIAD MOVEMENT IN COLLEGE: PRINCIPLES OF ORGANIZATION AND EXPERIENCE
+
+КАДРОВАЯ ЛОГИСТИКА - ИННОВАЦИОННЫЙ ПОДХОД К УПРАВЛЕНИЮ ЧЕЛОВЕЧЕСКИМИ РЕСУРСАМИ
+PERSONNEL LOGISTICS - INNOVATIVE APPROACH TO HUMAN RESOURCE MANAGEMENT
+
+ИСТОЧНИКИ ФОРМИРОВАНИЯ ИСТОРИЧЕСКОЙ ПАМЯТИ
+SOURCES OF HISTORICAL MEMORY FORMATION
+
+ИСПОЛЬЗОВАНИЕ СОВРЕМЕННЫХ НАСТОЛЬНЫХ ИГР В ПРОЦЕССЕ ГРУППОВОГО ИЗУЧЕНИЯ РАЗГОВОРНОГО ИНОСТРАННОГО ЯЗЫКА
+THE USE OF MODERN BOARD GAMES IN SPOKEN FOREIGN LANGUAGE STUDY GROUPS
+
+ИНФОРМАЦИОННАЯ ПОДГОТОВКА К ПЕРЕВОДУ ПРОФЕССИОНАЛЬНО ОРИЕНТИРОВАННЫХ ТЕКСТОВ НА ОСНОВЕ ОТРАСЛЕВЫХ НОРМАТИВНЫХ ДОКУМЕНТОВ
+BACKGROUND DEVELOPMENT FOR TRANSLATION OF PROFESSION-ORIENTED TEXTS BASED ON INDUSTRIAL REGULATIONS
+
+ПРОСМОТР АУТЕНТИЧНЫХ ФИЛЬМОВ КАК СПОСОБ СОВЕРШЕНСТВОВАНИЯ КОММУНИКАТИВНОЙ КОМПЕТЕНЦИИ АНГЛИЙСКОГО ЯЗЫКА
+REVIEW OF AUTHENTIC FILMS AS THE WAY OF IMPROVING OF COMMUNICATIVE COMPETENCE IN ENGLISH
+
+ТРАМБОВКА УДАРНОГО ДЕЙСТВИЯ ДЛЯ УПЛОТНЕНИЯ ГРУНТОВ ЕСТЕСТВЕННОГО СЛОЖЕНИЯ
+IMPACT RAMMING FOR COMPACTION OF SOILS OF NATURAL ADDITION
+
+ВЛИЯНИЕ ЗАПАДНОЙ КУЛЬТУРЫ НА СОВРЕМЕННУЮ МОЛОДЕЖЬ
+THE INFLUENCE OF OCCIDETAL CULTURE ON MODERN YOUTH
+
+ИМИТАЦИОННОЕ МАТЕМАТИЧЕСКОЕ МОДЕЛИРОВАНИЕ КАК ИНСТРУМЕНТ, ПРИМЕНЯЕМЫЙ НА ЭТАПЕ ПРОЕКТИРОВАНИЯ И РАЗРАБОТКИ ПРОДУКЦИИ
+IMITATION MATHEMATICAL MODELING AS A TOOL APPLIED AT THE STAGE OF DESIGN AND PRODUCT DEVELOPMENT
+
+ОНЛАЙН-ОБУЧЕНИЕ: ПЕРСПЕКТИВЫ И ПРОБЛЕМЫ В СОВРЕМЕННОМ ВЫСШЕМ ОБРАЗОВАНИИ В ПОДГОТОВКЕ ПРОФЕССИОНАЛЬНЫХ КАДРОВ ДЛЯ ОТЕЧЕСТВЕННЫХ ОРГАНИЗАЦИЙ
+ON-LINE TRAINING: PROSPECTS AND PROBLEMS IN MODERN HIGHER EDUCATION IN TRAINING OF TRAINING PERSONNEL FOR DOMESTIC ORGANIZATIONS
+
+УПРАВЛЕНИЕ КАЧЕСТВОМ: ПРОБЛЕМЫ И ЗАДАЧИ В РАЗВИТИИ ОТЕЧЕСТВЕННОЙ ЭКОНОМИКИ
+QUALITY MANAGEMENT: PROBLEMS AND TASKS IN THE DEVELOPMENT OF THE DOMESTIC ECONOMY
+
+ИНТЕРПРЕТАЦИЯ КАК КОНФРОНТАЦИЯ: ФИЛОСОФСКИЙ АСПЕКТ
+INTERPRETATION AS CONFRONTATION: A PHILOSOPHICAL ASPECT
+
+ИССЛЕДОВАНИЕ ВИБРОБЕЗОПАСНОСТИ ОПЕРАТОРА ВИБРАЦИОННОГО КАТКА DM-617 ПРИ УПЛОТНЕНИИ ГРУНТА
+THE STUDY OF VIBRATION SAFETY OPERATOR VIBRATION ROLLER DM-617 OF SOIL COMPACTION
+
+О ЖИЗНЕННОМ ЦИКЛЕ ПРОДУКЦИИ И ЕГО ВЛИЯНИИ НА СВОЙСТВА ЛИТЕЙНОГО КОКСА
+ABOUT PRODUCT LIFE CYCLE OF AND ITS IMPACT ON THE FOUNDRY COKE
+
+ТЕОРЕТИЧЕСКАЯ ЭКОНОМИЯ КАК МЕТОДОЛОГИЧЕСКАЯ ОСНОВА ИССЛЕДОВАНИЯ ЦИФРОВОЙ ЭКОНОМИКИ
+THEORETICAL ECONOMY AS A METHODOLOGICAL BASIS FOR THE STUDY OF DIGITAL ECONOMY
+
+ЭКОЛОГИЧЕСКАЯ СТРАТЕГИЯ РАЗВИТИЯ СТАРООСВОЕННОГО РЕГИОНА: ПРИМЕР ЯРОСЛАВСКОЙ ОБЛАСТИ
+ENVIRONMENTAL DEVELOPMENT STRATEGY FOR EARLY DEVELOPED REGIONS: EXAMPLE OF YAROSLAVL REGION
+
+НЕКОТОРЫЕ СПОСОБЫ И ПРИМЕРЫ ДОСТИЖЕНИЯ ЭКВИВАЛЕНТНОСТИ И АДЕКВАТНОСТИ ПРИ ПЕРЕВОДЕ НАУЧНО-ТЕХНИЧЕСКОГО ТЕКСТА С АНГЛИЙСКОГО ЯЗЫКА НА РУССКИЙ ЯЗЫК
+SOME WAYS AND EXAMPLES OF ACHIEVING OF EQUIVALENCE AND ADEQUACY AT SCIENTIFIC-TECHNICAL TEXT TRANSLATION FROM ENGLISH INTO RUSSIAN
+
+МНОГОКОМПОНЕНТНЫЕ СТРОИТЕЛЬНЫЕ И АРХИТЕКТУРНЫЕ ТЕРМИНЫ, ПРОБЛЕМЫ И СПОСОБЫ ПЕРЕВОДА НА РУССКИЙ ЯЗЫК
+MULTICOMPONENT CONSTRUCTION AND ARCHITECTURAL TERMS, PROBLEMS AND WAYS OF THE TRANSLATION INTO THE RUSSIAN LANGUAGE
+
+ХВОСТ ВИЛЯЕТ СОБАКОЙ: РОКИРОВКА ЦЕЛИ И СРЕДСТВА РАЗВИТИЯ В УСЛОВИЯХ ФИНАНСОМИКИ
+THE TAIL WAGGING THE DOG: CASTLING GOALS AND MEANS OF DEVELOPMENT IN TERMS OF FINANCIAL ECONOMY
+
+ДИСКУРС С ТОЧКИ ЗРЕНИЯ КОРПУСНОЙ ЛИНГВИСТИКИ
+DISCOURSE FROM THE POINT OF VIEW OF CORPUS LINGUISTICS
+
+ИССЛЕДОВАНИЕ ПРОЦЕССА ОТВЕРЖДЕНИЯ АЛКИДНЫХ МАТЕРИАЛОВ, НАПОЛНЕННЫХ КЕРНОВЫМИ ПИГМЕНТАМИ С ОБОЛОЧКОЙ ИЗ ПОЛИАНИЛИНА
+STUDY OF CURING PROCESS OF ALKYD MATERIALS PIGMENTED WITH CORE/SHELL PIGMENTS WITH POLYANILINE SHELL
+
+ВЛИЯНИЕ СТРУКТУРЫ МОДИФИЦИРОВАННОГО АМИННОГО ОТВЕРДИТЕЛЯ НА РЕОЛОГИЧЕСКИЕ СВОЙСТВА ЭПОКСИДНЫХ КОМПОЗИЦИЙ
+INFLUENCE OF THE STRUCTURE OF A MODIFIED AMINE CURING AGENT ON RHEOLOGICAL PROPERTIES OF EPOXY COMPOSITIONS
+
+СИНТЕЗ КИСЛОРОДСОДЕРЖАЩИХ ПРОИЗВОДНЫХ БЕНЗОЛА НА ОСНОВЕ НЕФТЕХИМИЧЕСКОГО СЫРЬЯ
+SYNTHESIS OF OXYGEN-CONTAINING DERIVATIVES OF BENZENE BASED ON PETROCHEMICAL RAW MATERIALS
+
+БЛОКЧЕЙН КАК РЕСУРСОСБЕРЕГАЮЩАЯ ТЕХНОЛОГИЯ В ОТРАСЛЕВЫХ ПРОЕКТАХ (СТРОИТЕЛЬСТВО)
+THE BLOCKCHAIN AS RESOURCE-SAVING TECHNOLOGY IN INDUSTRY PROJECTS (CONSTRUCTION)
+
+АЛКИЛИРОВАНИЕ 1-ГИДРОКСИПИРРОЛО[3,4-F]ИНДОЛ-5,7-ДИОНОВ
+ALKYLATION OF 1-HYDROXYPYRROLO[3,4-F]-INDOL-5,7-DIONES
+
+ПУТИ УМЕНЬШЕНИЯ ЗАТРАТ ЭНЕРГИИ НА ОБРАБОТКУ ПОЧВЫ АКТИВНЫМИ РАБОЧИМИ ОРГАНАМИ АГРЕГАТА
+WAYS TO REDUCE ENERGY COSTS FOR TILLAGE ACTIVE WORKING PARTS OF THE UNIT
+
+МЕТОДОЛОГИЧЕСКИЕ ОСОБЕННОСТИ ПЕРЕВОДА БЕЗЭКВИВАЛЕНТНОЙ ЛЕКСИКИ С АНГЛИЙСКОГО НА РУССКИЙ ЯЗЫК В ТЕКСТАХ ЭКОНОМИЧЕСКОЙ ТЕМАТИКИ
+SPECIFIC METHODOLOGICAL ASPECTS OF TRANSLATION OF NON-EQUIVALENT ECONOMICAL TERMS FROM ENGLISH INTO RUSSIAN
+
+ПРОБЛЕМЫ ПОВЫШЕНИЯ ЭФФЕКТИВНОСТИ И КАЧЕСТВА ГОРОДСКИХ ПАССАЖИРСКИХ ПЕРЕВОЗОК
+THE PROBLEM OF IMPROVING THE EFFICIENCY AND QUALITY OF URBAN PASSENGER TRANSPORT
+
+О НЕКОТОРЫХ СОВРЕМЕННЫХ МЕТОДАХ ОБУЧЕНИЯ ИНОСТРАННОМУ ЯЗЫКУ С ЦЕЛЬЮ ПОВЫШЕНИЯ ЭФФЕКТИВНОСТИ УЧЕБНОГО ПРОЦЕССА
+SOME MODERN METHODS OF FOREIGN LANGUAGE TEACHING USED TO IMPROVE THE EFFICIENCY OF LEARNING PROCESS
+
+ИНТЕРНЕТ-ТЕХНОЛОГИИ КАК СРЕДСТВО ИНТЕНСИФИКАЦИИ САМОСТОЯТЕЛЬНОЙ РАБОТЫ ПРИ ИЗУЧЕНИИ ИНОСТРАННОГО ЯЗЫКА
+INTERNET TECHNOLOGIES AS A MEANS OF INTENSIFICATION OF SELF-WORK IN THE STUDY OF A FOREIGN LANGUAGE
+
+ТЕНДЕНЦИИ РАЗВИТИЯ ПАССАЖИРСКИХ ПЕРЕВОЗОК: ОТРАСЛЕВОЙ И РЕГИОНАЛЬНЫЙ АСПЕКТЫ
+TRENDS OF DEVELOPMENT OF PASSENGER TRANSPORTATION: INDUSTRY AND REGIONAL ASPECTS
+
+МЕЖКУЛЬТУРНАЯ КОММУНИКАЦИЯ КАК НЕОТЪЕМЛЕМЫЙ КОМПОНЕНТ ПРОЦЕССА ОБУЧЕНИЯ РУССКОМУ ЯЗЫКУ КАК ИНОСТРАННОМУ
+INTERCULTURAL COMMUNICATION AS AN INTEGRAL PART THE THEACHING PROCESS OF THE RUSSIAN LANGUAGE AS A FOREIGN ONE
+
+ИСПОЛЬЗОВАНИЕ МЕТОДИКИ CLIL В ПРОЦЕССЕ ОБУЧЕНИЯ АНГЛИЙСКОМУ ЯЗЫКУ СТУДЕНТОВ НЕЯЗЫКОВЫХ ВУЗОВ
+USE OF THE CLIL SYSTEM FOR ELT IN NON-LINGUISTICS INSTITUTIONS
+
+ОПОРА НА МЕЖКУЛЬТУРНЫЕ КОМПЕТЕНЦИИ В ОБУЧЕНИИ НЕМЕЦКОМУ ЯЗЫКУ ПОСЛЕ АНГЛИЙСКОГО
+SUPPORT OF INTERCULTURAL COMPETENCE IN TEACHING THE GERMAN LANGUAGE AFTER THE ENGLISH
+
+ОСОБЕННОСТИ ОПРЕДЕЛЕНИЯ ДЕФОРМАТИВНЫХ ХАРАКТЕРИСТИК СЦЕПЛЕНИЯ В РАСЧЕТАХ ЖЕЛЕЗОБЕТОННЫХ СТЕРЖНЕВЫХ КОНСТРУКЦИЙ ПРИ РЕЖИМНЫХ НАГРУЖЕНИЯХ
+FEATURES OF THE DETERMINATION OF THE DEFORMATION CHARACTERISTICS OF BOND IN THE CALCULATIONS OF REINFORCED CONCRETE BAR STRUCTURES UNDER REGIME LOADS
+
+КОЭФФИЦИЕНТ ИНЖЕКЦИИ ЖИДКОГАЗОВЫХ ИНЖЕКЦИОННЫХ АППАРАТОВ
+COEFFICIENT OF THE INJECTION OF LIQUID-GAS INJECTION DEVICES
+
+МОДЕЛИРОВАНИЕ СЛУЧАЙНОГО ТРАНСПОРТА В ОГРАНИЧЕННОЙ СРЕДЕ С ЛОВУШКАМИ
+MODELING OF RANDOM TRANSPORT IN A BOUNDED MEDIUM WITH TRAPS
+
+МОДЕЛИРОВАНИЕ ТЕХНОЛОГИЧЕСКОГО ПРОЦЕССА УПЛОТНЕНИЯ АСФАЛЬТОБЕТОННЫХ ПОКРЫТИЙ
+MODELING OF TECHNOLOGICAL PROCESS OF COMPACTION OF ASPHALT-CONCRETE PAVEMENTS
+
+МАТЕМАТИЧЕСКАЯ ВЕРОЯТНОСТЬ ПРИ РАСЧЕТЕ ВОЗНИКНОВЕНИЯ ОТКАЗОВ
+MATHEMATICAL PROBABILITY AT CALCULATION OF CANCELLATION OF FAILURES
+
+РАСЧЕТ ИНСТРУМЕНТА ДЛЯ ОБРАБОТКИ СЛОЖНОПРОФИЛЬНЫХ ВНУТРЕННИХ ПОВЕРХНОСТЕЙ НА МНОГОЦЕЛЕВЫХ СТАНКАХ МЕТОДОМ ПРОТЯГИВАНИЯ
+CALCULATION TOOL FOR PROCESSING COMPLEX-HOLES IN MULTI-TASK MACHINES METHOD OF BROACHING
+
+ЭКСПЕРИМЕНТАЛЬНАЯ ОЦЕНКА РАЦИОНАЛЬНЫХ УГЛОВ ЗАОСТРЕНИЯ ЗУБЬЕВ МАШИН ДЛЯ РАЗРАБОТКИ ПРОЧНЫХ ДОРОЖНО-СТРОИТЕЛЬНЫХ МАТЕРИАЛОВ
+EXPERIMENTAL ASSESSMENT OF RATIONAL ANGLES OF SHARPENING OF THE TEETH OF THE MACHINERY FOR THE DEVELOPMENT OF DURABLE ROAD CONSTRUCTION MATERIALS
+
+МОДЕЛИРОВАНИЕ СИНТЕЗА СИСТЕМ РЕГУЛИРОВАНИЯ МНОГОСВЯЗНЫХ ОБЪЕКТОВ С ИСПОЛЬЗОВАНИЕМ ДОБРОТНОСТИ СИСТЕМЫ
+MODELING OF THE SYNTHESIS OF CONTROL SYSTEMS FOR MULTIVARIABLE OBJECTS BY USING THE Q-FACTOR OF THE SYSTEM
+
+ОБ ОДНОМ ПРИЛОЖЕНИИ ФОРМУЛЫ ТАППЕРА К СТЕГАНОГРАФИИ
+ON ONE APPLICATION OF TUPPER`S SELF-REFERENTIAL FORMULA TO STEGANOGRAPHY
+
+МОДЕЛИРОВАНИЕ СИСТЕМЫ СМЕШАННОГО УПРАВЛЕНИЯ С РАЗНЫМИ ТИПАМИ РЕГУЛЯТОРОВ
+SIMULATION OF A MIXED CONTROL SYSTEM WITH DIFFERENT TYPES OF REGULATORS
+
+ОБ ИССЛЕДОВАНИИ АДАПТАЦИИ ЖИВОТНЫХ МЕТОДОМ КОРРЕЛЯЦИОННОЙ АДАПТОМЕТРИИ
+ON THE RESEARCH OF ANIMAL ADAPTATION BY THE METHOD OF CORRELATION ADAPTOMETRY
+
+ЗОНДОВАЯ МЕССБАУЭРОВСКАЯ ДИАГНОСТИКА СТРУКТУРЫ КВАЗИЖИДКОГО СЛОЯ ПОВЕРХНОСТНОГО ЛЬДА ПРИ КОНТАКТЕ С ПРИРОДНОЙ ГЛИНОЙ
+PROBE MÖSSBAUER DIAGNOSIS THE STRUCTURE OF THE QUASI-LIQUID LAYER OF SURFACE ICE UPON CONTACT WITH NATURAL CLAY
+
+ОБ ОДНОЙ ПЛОСКОЙ МОДЕЛИ ЧЕТЫРЕХМЕРНОГО ПРОЕКТИВНОГО ПРОСТРАНСТВА
+ON A PLANE MODEL ON THE FOUR-DIMENSIONAL PROJECTIVE SPACE
+
+О БИФУРКАЦИЯХ ВЕКТОРНЫХ ПОЛЕЙ НА ПЛОСКОСТИ, ИНВАРИАНТНЫХ ОТНОСИТЕЛЬНО ВРАЩЕНИЙ
+ON BIFURCATIONS OF VECTOR FIELDS ON THE PLANE THAT ARE INVARIANT UNDER ROTATIONS
+
+БАРИCИНТЕЗ МНОГОМЕРНОГО ИЗОСПЕКТРАЛЬНОГО УРАВНЕНИЯ ШРЕДИНГЕРА
+THE BARISYNTESIS OF A MULTIDIMENSIONAL ISOSPECTRAL SCHRÖDINGER EQUATION
+
+О ПРЕПОДАВАНИИ ТЕМЫ: КОДЫ ХЭММИНГА
+ABOUT THE TEACHING OF THE THEME: HAMMING CODES
+
+ОРГАНИЗАЦИЯ ИЗУЧЕНИЯ ТЕХНИЧЕСКОЙ ДИСЦИПЛИНЫ В ВУЗЕ
+THE ORGANIZATION OF THE STUDY OF TECHNICAL DISCIPLINE IN THE UNIVERSITY
+
+К ВЫВОДУ ОСНОВНОГО УРАВНЕНИЯ ЦЕНТРОБЕЖНОГО НАСОСА
+TO THE CONCLUSION OF THE BASIC EQUATIONS OF THE CENTRIFUGAL PUMP
+
+ОПРЕДЕЛЕНИЕ КОЭФФИЦИЕНТА ГИДРАВЛИЧЕСКОГО ТРЕНИЯ
+DETERMINATION OF THE COEFFICIENT OF HYDRAULIC FRICTION
+
+О ЯРОСЛАВСКИХ СТУДЕНЧЕСКИХ МАТЕМАТИЧЕСКИХ ОЛИМПИАДАХ 2018 ГОДА
+ABOUT YAROSLAVL STUDENT MATHEMATICAL OLYMPIADS IN 2018
+
+1,2,4-ОКСАДИАЗОЛЫ - ПЕРСПЕКТИВНЫЕ АНТИБАКТЕРИАЛЬНЫЕ АГЕНТЫ
+1,2,4-OXADIAZOLES AS PROMISING ANTIBACTERIAL AGENTS
+
+ОБ АЛКИЛИРОВАНИИ АРЕНОВ ЦИКЛОАЛКЕНДИКАРБОНОВЫМИ КИСЛОТАМИ
+ABOUT ALKYLATION OF ARENES WITH CYCLOALKENDICARBOXYLIC ACIDS
+
+ПОЛУЧЕНИЕ 5-АЛКЕНИЛ-1,2,4-ОКСАДИАЗОЛОВ
+SYNTHESIS OF 5-ALKENYL-1,2,4-OXADIAZOLES
+
+ВЫБОР ОПТИМАЛЬНЫХ ПАРАМЕТРОВ МЕТОДИКИ ОПРЕДЕЛЕНИЯ СУЛЬФАТ-ИОНОВ В МИНЕРАЛЬНЫХ ВОДАХ МЕТОДОМ ТУРБИДИМЕТРИЧЕСКОГО ТИТРОВАНИЯ
+SELECTION OF OPTIMAL PARAMETERS OF THE METHOD FOR DETERMINING SULFATE-IONS IN MINERAL WATER BY TURBIDIMETRIC TITRATION
+
+ОПРЕДЕЛЕНИЕ ФИЗИКО-ХИМИЧЕСКИХ ХАРАКТЕРИСТИК ХЛОРАМФЕНИКОЛА РАЗЛИЧНЫХ ПРОИЗВОДИТЕЛЕЙ
+DEFINITION OF PHYSICAL AND CHEMICAL CHARACTERISTICS OF CHLORAMPHENICOL FROM VARIOUS PRODUCERS
+
+ЭКСПЕРИМЕНТАЛЬНЫЕ ИССЛЕДОВАНИЯ РАБОТЫ ПРЕРЫВИСТО-ЛЕНТОЧНОЙ МЕШАЛКИ
+EXPERIMENTAL RESEARCH OF INTERMITTENTLY-BAND MIXER WORK
+
+ОБ ЭФФЕКТИВНОСТИ НАПОРНОГО ГИДРОЦИКЛОНА
+THE EFFICIACY OF PRESSURE HYDROCYCLONE
+
+ВЛИЯНИЕ ФРАКЦИОННОГО СОСТАВА УЛАВЛИВАЕМОЙ ПЫЛИ НА ПРИНЦИП РАБОТЫ ПЫЛЕУЛОВИТЕЛЯ-КЛАССИФИКАТОРА
+INFLUENCE OF FRACTIONAL COMPOSITION OF SEPARATED DUST ON THE OPERATIONAL CONCEPT OF FLUE- DUST COLLECTOR-SEPARATOR
+
+ВЗАИМОСВЯЗЬ ТЕМПЕРАТУРЫ ВОЗДУХА И СТАБИЛЬНОСТЬ РАБОТЫ АППАРАТОВ ВОЗДУШНОГО ОХЛАЖДЕНИЯ НА УСТАНОВКЕ СЕКЦИИ 200 ПРОИЗВОДСТВА КМ-2 ОАО "СЛАВНЕФТЬ-ЯНОС"
+THE INTERRELATION BETWEEN AIR TEMPERATURE AND STABLE PERFORMANCE OF AIR- COOLED HEAT EXCHANGERS ON REFINERY PROCESS UNIT 200 KM-2 OJSC "SLAVNEFT-YANOS"
+
+ПИНЧ АНАЛИЗ СЕКЦИИ 200 ПРОИЗВОДСТВА КМ-2 ОАО "СЛАВНЕФТЬ-ЯНОС" КАК ИНСТРУМЕНТ УВЕЛИЧЕНИЯ ОБЪЕМА ВЫПУСКА ПРОДУКЦИИ
+PINCH ANALYSIS OF REFINERY PROCESS UNIT 200 KM-2 OJSC "SLAVNEFT-YANOS" AS A MEANS OF OUTPUT EXPANSION
+
+О НЕОБХОДИМОСТИ УЛУЧШЕНИЯ ОЧИСТКИ ТОВАРНЫХ ПАРАФИНОВ И ЦЕРЕЗИНОВ ОТ МАСЕЛ
+THE GRADE AND CERESINE WAX FROM OILS REFINING AND IMPROVING NECESSITY
+
+МОДЕЛИРОВАНИЕ ФАЗОВОГО РАВНОВЕСИЯ ЖИДКОСТЬ - ПАР В МНОГОКОМПОНЕНТНОЙ СИСТЕМЕ МЭК - ВОДА - ТОЛУОЛ С ПОМОЩЬЮ МОДИФИЦИРОВАННЫХ ПАРАМЕТРОВ МОДЕЛИ UNIFAC
+MODELING OF LIQUID - VAPOR EQUILIBRIUM AT THE MULTICOMPONENT SYSTEM MEK - WATER - TOLUENE USING THE MODIFIED PARAMETERS OF UNIFAC MODEL
+
+ИССЛЕДОВАНИЕ ЗАВИСИМОСТИ РАСТВОРИМОСТИ ВОДЫ В РАСТВОРИТЕЛЕ ДЕПАРАФИНИЗАЦИИ ОТ СОДЕРЖАНИЯ НЕФТЕПРОДУКТА В РАСТВОРЕ МЭК - ВОДА - ТОЛУОЛ - НЕФТЕПРОДУКТ
+STUDY OF THE DEPENDENCE OF THE SOLUBILITY OF WATER IN THE SOLVENT OF DEPARAPHINIZATION ON THE CONTENT OF OIL PRODUCT IN SOLUTION MEK - WATER - TOLUOL - PETROLEUM PRODUCT
+
+ИЗУЧЕНИЕ РЕАКЦИИ ЭТЕРИФИКАЦИИ ЖИРНЫХ КИСЛОТ ДИСТИЛЛИРОВАННОГО ТАЛЛОВОГО МАСЛА
+THE REACTION OF FATTY ACIDS ESTERIFICATION OF DISTILLED TALL OIL STUDYING
+
+КАТАЛИТИЧЕСКОЕ ОКИСЛЕНИЕ ЦИКЛОГЕКСЕНА БЕЗВОДНЫМ ПЕРОКСИДОМ ВОДОРОДА В РАСТВОРЕ ЭТИЛАЦЕТАТА
+CATALYTIC OXIDATION OF CYCLOHEXENE BY ANHYDROUS HYDROGEN PEROXIDE IN SOLUTION OF ETHYLACETATE
+
+ВЗАИМНЫЕ ПРЕВРАЩЕНИЯ ПРОДУКТОВ СИНТЕЗА ПРИ КАРБОКСИЛИРОВАНИИ 1,2-ЭПОКСИЦИКЛОПЕНТАНА
+CONVERSION OF CYCLOPENTENECARBONATE SYNTHESIS PRODUCTS AT THE CARBOXYLATION OF 1,2-EPOXYCLOPENTANE
+
+РАЗРАБОТКА МЕТОДИКИ ПОЛУЧЕНИЯ 4-НИТРО-N-МЕТИЛФТАЛИМИДА - ПОЛУПРОДУКТА В СИНТЕЗЕ ПОЛИЭФИРИМИДОВ
+DEVELOPMENT OF PREPARATION METHODOLOGY OF 4-NITRO-N-METHYL PHTHALIMIDE - AN INTERMEDIATE PRODUCT FOR SYNTHESIS OF POLYESTERIMIDES
+
+СИНТЕЗ 4-АРИЛОКСИЗАМЕЩЕННЫХ N-МЕТИЛФТАЛИМИДОВ
+SYNTHESIS OF 4-ARYLOXY-N-METHYL PHTHALIMIDES
+
+ВУЗ - ОБРАЗОВАНИЕ БУДУЩЕГО: МИР НЕ СТОИТ НА МЕСТЕ
+THE UNIVERSITY EDUCATION OF THE FUTURE: THE WORLD IS NOT STANDING STILL
+
+ИССЛЕДОВАНИЕ ТЕМПЕРАТУРНОЙ ЗАВИСИМОСТИ ПЛОТНОСТИ И ВЯЗКОСТИ ЦИКЛОПЕНТЕНКАРБОНАТА
+TEMPERATURE DEPENDENCE OF DENSITY AND VISCOSITY FOR CYCLOPENTENECARBONATE
+
+РАЗРАБОТКА ТЕХНОЛОГИИ ПОЛУЧЕНИЯ СМАЗОЧНО-ОХЛАЖДАЮЩЕЙ ЖИДКОСТИ ДЛЯ МАШИНОСТРОИТЕЛЬНЫХ ПРЕДПРИЯТИЙ ЯРОСЛАВСКОЙ ОБЛАСТИ
+PRODUCTION ENGINEERING OF CUTTING OIL FOR MECHANICAL ENGINEERING INDUSTRY OF THE YAROSLAVL REGION
+
+РАЗРАБОТКА ТЕХНОЛОГИИ ПОЛУЧЕНИЯ КОНСЕРВАЦИОННЫХ СОСТАВОВ ДЛЯ МАШИНОСТРОЕНИЯ
+THE PROCESS DEVELOPMENT OF CONSERVATIVE COMPOSITIONS FOR MANUFACTORING ENGINEERING
+
+СПОСОБЫ ГЛИКОЗИЛИРОВАНИЯ АМИНОКИСЛОТНЫХ ПРОИЗВОДНЫХ 4-(1-АДАМАНТИЛ)БЕНЗОЙНОЙ КИСЛОТЫ В СИНТЕЗЕ НОВЫХ ПРОЛЕКАРСТВ НЕСТЕРОИДНЫХ ПРОТИВОВОСПАЛИТЕЛЬНЫХ СРЕДСТВ
+METHODS OF GLYCOSYLATION OF AMINO ACID DERIVATIVES OF 4- (1-ADAMANTHYL) BENZOIC ACID IN THE SYNTHESIS OF NEW PRODRUGS OF NONSTEROIDAL ANTI-INFLAMMATORY DRUGS
+
+СИНТЕЗ МОДИФИЦИРОВАННЫХ ДИПЕПТИДОВ НА ОСНОВЕ 4-(1-АДАМАНТИЛ)БЕНЗОЙНОЙ КИСЛОТЫ
+SYNTHESIS OF MODIFIED DIPEPTIDES ON THE BASIS OF 4-(1-ADAMANTYL)BENZOIC ACID
+
+БИОГРАФИЯ И ЛЕЧЕНИЕ РАКА
+CANCER BIOGRAPHY AND TREATMENT
+
+ВОДОРАСТВОРИМЫЕ ПОЛИФУНКЦИОНАЛЬНЫЕ ОЛИГОБУТАДИЕНЫ И БИОЛОГИЧЕСКИ АКТИВНЫЕ ТЕРМОСТОЙКИЕ КОМПОЗИЦИИ НА ИХ ОСНОВЕ
+WATER-SOLUBLE POLYFUNCTIONAL OLIGOBUTADIENES AND BIOLOGICALLY ACTIVE HEAT-RESISTANT COMPOSITIONS BASED ON THEM
+
+ВОДОРАСТВОРИМЫЕ АМИНОЭПОКСИАДДУКТЫ И ИХ ВЛИЯНИЕ НА РАЗЛИЧНЫЕ ТИПЫ МИКРООРГАНИЗМОВ
+WATER-SOLUBLE AMINOEPOXY ADDUCTS AND THEIR EFFECT ON DIFFERENT TYPES OF MICROORGANISMS
+
+МЕТАЛЛОСОДЕРЖАЩИЕ ПОЛИМЕРНЫЕ КОМПОЗИЦИИ НА ОСНОВЕ ВОДОРАСТВОРИМЫХ МОДИФИЦИРОВАННЫХ ЭПОКСИОЛИГОБУТАДИЕНОВ С БАКТЕРИЦИДНЫМИ СВОЙСТВАМИ
+METAL-CONTAINING POLYMER COMPOSITIONS ON THE BASIS OF WATER-SOLUBLE MODIFIED EPOXYLOGUTADIENES WITH BACTERICIDAL PROPERTIES
+
+КВАНТОВО-ХИМИЧЕСКОЕ МОДЕЛИРОВАНИЕ СУЛЬФИДИРУЮЩЕГО КОМПЛЕКСА СЕРЫ И СУЛЬФЕНАМИДА Ц
+QUANTUM-CHEMICAL MODELING OF SULPHIDING COMPLEX AND SULPHENAMIDE C
+
+ВЯЗКОУПРУГИЕ И ВУЛКАНИЗАЦИОННЫЕ ХАРАКТЕРИСТИКИ РЕЗИН С ОБОЛОЧКОВЫМИ АКТИВАТОРАМИ ВУЛКАНИЗАЦИИ
+VISCOELASTIC AND VULCANIZATION CHARACTERISTICS OF RUBBERS WITH SHELL VULCANIZATION ACTIVATORS
+
+ДЕФОРМАЦИОННО-ПРОЧНОСТНЫЕ СВОЙСТВА РЕЗИН НА ОСНОВЕ НК С ОБОЛОЧКОВЫМИ АКТИВАТОРАМИ ВУЛКАНИЗАЦИИ
+DEFORMATION-STRENGTH PROPERTIES OF RUBBERS BASED ON NATURAL RUBBER WITH SHELL VULCANIZATION ACTIVATORS
+
+ВЯЗКОУПРУГИЕ И ВУЛКАНИЗАЦИОННЫЕ ХАРАКТЕРИСТИКИ РЕЗИНОВЫХ СМЕСЕЙ С ТВЕРДЫМ УГЛЕРОДНЫМ ОСТАТКОМ ПИРОЛИЗА ШИН
+VISCOELASTIC AND VULCANIZATION CHARACTERISTICS OF RUBBER MIXTURES WITH A SOLID CARBON RESIDUE OF TIRE PYROLYSIS
+
+ВЛИЯНИЕ ТИПА ПЛАСТИФИЦИРУЮЩЕГО АГЕНТА НА КОГЕЗИОННУЮ ПРОЧНОСТЬ ПРОТЕКТОРНЫХ РЕЗИНОВЫХ СМЕСЕЙ
+INFLUENCE OF THE TYPE OF PLASTICIZING AGENT ON COHESIVE STRENGTH OF TREAD RUBBER COMPOUNDS
+
+"ЦИФРОВИЗАЦИЯ" В ТРУДОУСТРОЙСТВЕ ВЫПУСКНИКОВ ВУЗОВ: ПРОБЛЕМЫ И ПУТИ РЕШЕНИЯ
+"DIGITALIZATION" IN THE EMPLOYMENT OF UNIVERSITY GRADUATES: PROBLEMS AND SOLUTIONS
+
+ИЗУЧЕНИЕ КИСЛОТНОГО РАЗЛОЖЕНИЯ ГИДРОПЕРОКСИДОВ АЛКИЛАРОМАТИЧЕСКИХ УГЛЕВОДОРОДОВ
+STUDY OF ACID DECOMPOSITION OF HYDROPEROXIDES OF ALKYLAROMATIC HYDROCARBONS
+
+ЛАБОРАТОРНЫЙ СТЕНД ДЛЯ ОЦЕНКИ КОЭФФИЦИЕНТА ЗВУКОПОГЛОЩЕНИЯ МАТЕРИАЛОВ
+LABORATORY BENCH FOR ASSESSING OF ACOUSTIC ABSORPTION EFFECT OF MATERIALS
+
+ПЛАСТИФИКАТОРЫ НА ОСНОВЕ ЖИРНЫХ КИСЛОТ ТАЛЛОВОГО МАСЛА ДЛЯ ЭЛАСТОМЕРНЫХ КОМПОЗИЦИЙ
+PLASTICIZERS BASED ON TALL OIL FATTY ACIDS FOR ELASTOMER COMPOSITIONS
+
+РАЗРАБОТКА ПРОЦЕССА ПОЛУЧЕНИЯ ПЛАСТИФИКАТОРА НА ОСНОВЕ СОАПСТОКА РАСТИТЕЛЬНОГО МАСЛА ДЛЯ ЭЛАСТОМЕРНЫХ КОМПОЗИЦИЙ
+DEVELOPMENT OF PROCESS FOR PRODUCING PLASTICIZER BASED ON THE VEGETABLE OIL SOAPSTOCK FOR ELASTOMERIC COMPOSITIONS
+
+ТЕХНОЛОГИЧЕСКИЕ ОСНОВЫ ПОЛУЧЕНИЯ СМАЗОЧНО-ОХЛАЖДАЮЩЕЙ ЖИДКОСТИ ДЛЯ МЕТАЛЛООБРАБОТКИ
+BACKGROUND TECHNOLOGY Y FOR PRODUCING LUBRICATING COOLING LIQUID FOR METAL TREATMENT
+
+СИНТЕЗ КЕРНОВОГО ОКСИДА ЦИНКА
+SYNTHESIS OF CORE-SHELL ZINC OXIDE
+
+СИНТЕЗ ПИГМЕНТОВ С ИСПОЛЬЗОВАНИЕМ УГЛЕРОДСОДЕРЖАЩИХ ОКСИДОВ КРЕМНИЯ
+SYNTESYS OF PIGEMNTS WITH CARBONACEOUS SILICIUM OXIDE
+
+ПИГМЕНТЫ НА ОСНОВЕ АМОРФНОГО ОКСИДА КРЕМНИЯ
+PIGMENTS BASED ON THE AMORPHOUS SILICON OXIDE
+
+ИНТЕНСИФИКАЦИЯ ПРОЦЕССА ЖИДКОФАЗНОГО ОКИСЛЕНИЯ ЦИКЛОГЕКСАНА
+INTENSIFICATION OF THE CYCLOHEXANE LIQUID PHASE OXIDATION PROCESS
+
+ИССЛЕДОВАНИЕ КОРРОЗИОННЫХ СВОЙСТВ НИКЕЛЬФТОРОПЛАСТОВЫХ ПОКРЫТИЙ В СРАВНЕНИИ С НИКЕЛЕВЫМИ
+THE CORROSION PROPERTIES OF NICKELIFEROUS COATINGS IN COMPARISON WITH THE SAME OF NICKEL STUDY
+
+ДЕКОРАТИВНАЯ ЭЛЕКТРОХИМИЧЕСКАЯ ОТДЕЛКА ХУДОЖЕСТВЕННОГО ИЗДЕЛИЯ СЕРЕБРОМ ИЗ БЕСЦИАНИСТОГО ЭЛЕКТРОЛИТА
+FINISHING ELECTROCHEMICAL DECORATION OF ARTIFACT WITH NON-CYANIDE SILVERING ELECTROLYTE
+
+О КОРРЕЛЯЦИИ ЗНАЧЕНИЙ КАЛИБРА ПОКРЫТИЯ НИКЕЛЬ-ВОЛЬФРАМ С ПОКАЗАТЕЛЯМИ МИКРОТВЁРДОСТИ
+THE CORRELATION OF NICKEL-TUNGSTEN COATINGS WITH INDICATORS OF MICROHARDNESS CALIBRE VALUES
+
+ИНДУЦИРОВАННОЕ ЭЛЕКТРОХИМИЧЕСКОЕ СООСАЖДЕНИЕ НИКЕЛЬ-ВОЛЬФРАМА ПРИ ДИФФУЗИОННОМ ОГРАНИЧЕНИИ
+INDUCED ELECTROCHEMICAL CO-DEPOSITION OF NICKEL-TUNGSTEN UNDER DIFFUSION LIMITATION
+
+ВЛИЯНИЕ НЕФТЯНОГО БИТУМА НА ФАЗОВЫЕ И ФИЗИЧЕСКИЕ ПЕРЕХОДЫ ПОЛИЭТИЛЕНТЕРЕФТАЛАТА
+THE IMPACT OF BITUM ON THE PHASE AND THE PHYSICAL STATE OF POLYETHYLENE TEREPHTHALATE
+
+СИНТЕЗ БЕЛЫХ КЕРНОВЫХ ПИГМЕНТОВ
+SYNTHESYS OF WHITE CORE PIGMENT
+
+МОДЕЛИРОВАНИЕ АДСОРБЦИИ ОРГАНИЧЕСКИХ КАТИОНОВ НА ГРАНИЦЕ ЭЛЕКТРОД - РАСТВОР СУЛЬФАТА ТЕТРАМЕТИЛАММОНИЙ В ОТСУТСТВИИ ЭЛЕКТРОЛИТА ФОНА
+MODELING OF THE ADSORPTION OF ORGANIC CATIONS ON THE INTERFACE BARRIER OF ELECTRODE - TETRAMETHYLMMONIUM SULFATE SOLUTION IN THE ABSENCE OF ELECTROLYTE BACKGROUND
+
+СИНТЕЗ П-ИЗОАМИЛКУМОЛА АЛКИЛИРОВАНИЕМ КУМОЛА ИЗОАМИЛОВЫМ СПИРТОМ
+SYNTHESIS OF P-ISOAMYLCUMENE BY THE ALKYLATION OF CUMENE WITH AN ISOAMYL ALCOHOL
+
+РЕГУЛИРОВАНИЕ РЕОЛОГИЧЕСКИХ СВОЙСТВ ЛАКОКРАСОЧНЫХ МАТЕРИАЛОВ НА ОСНОВЕ ВОДНЫХ РАСТВОРОВ СИЛИКАТОВ ЩЕЛОЧНЫХ МЕТАЛЛОВ
+REGULATION OF RHEOLOGICAL PROPERTIES OF PAINT MATERIALS BASED ON ALKALI METAL SILICATES AQUEOUS SOLUTIONS
+
+РАЗРАБОТКА ГАЛЬВАНИЧЕСКОГО БРОНЗОВОГО ПОКРЫТИЯ ДЛЯ ПОДСЛОЯ ПРИ СПЕКАНИИ ФРИКЦИОННЫХ МАТЕРИАЛОВ
+ELECTROPLATED BRONZE COATING SUBLAYER DEVELOPMENT FOR FRICTION MATERIALS BONDING
+
+ПРОДУКТЫ ЭЛЕКТРОЛИЗА ВОДНЫХ РАСТВОРОВ ПОВАРЕННОЙ СОЛИ КАК СРЕДСТВО БОРЬБЫ С БОРЩЕВИКОМ СОСНОВСКОГО
+PRODUCTS OF ELECTROLYSIS OF AQUEOUS SOLUTIONS OF SODIUM CLORIDE AS A MEANS OF DEALING WITH SOSNOWSKI'S COW PARSNIP
+
+ИССЛЕДОВАНИЕ СВОЙСТВ ПОКРЫТИЙ, СФОРМИРОВАННЫХ ИЗ ВОДОРАЗБАВЛЯЕМЫХ КОМПОЗИЦИЙ
+INVESTIGATIONS OF THE PROPERTIES OF WATER - DILUTING COMPOSED COATINGS
+
+АДГЕЗИЯ АКРИЛУРЕТАНОВЫХ ПОКРЫТИЙ
+ADHESION OF ACRYLURETHANE COATINGS
+
+ЖЕЛЕЗНЕНИЕ КАК СПОСОБ ВОССТАНОВЛЕНИЯ ИЗНОШЕННЫХ ДЕТАЛЕЙ
+IRONING AS A WAY TO RESTORE WORN PARTS
+
+ИССЛЕДОВАНИЕ ВОЗМОЖНОСТИ ОЧИСТКИ ВОДЫ ОТ ОТХОДОВ "ЗЕЛЁНОГО МАСЛА"
+STUDY OF THE POSSIBILITY TO PURIFY WATER FROM "GREEN OIL"
+
+ИССЛЕДОВАНИЕ ВОЗМОЖНОСТИ ИСПОЛЬЗОВАНИЯ НЕФТЕ- И ЖЕЛЕЗОСОДЕРЖАЩИХ ОТХОДОВ ДЛЯ ПРИГОТОВЛЕНИЯ ВСПУЧИВАЮЩЕЙ ДОБАВКИ В ПРОИЗВОДСТВЕ КЕРАМЗИТА
+STUDY OF THE POSSIBILITY TO USE OIL AND IRON-CONTAINING WASTE FOR MANUFACTURING BLOATERS TO PRODUCE EXPANDED CLAY
+
+АЛЬТЕРНАТИВНЫЕ МЕТОДЫ ПОЛУЧЕНИЯ ЭПОКСИДА ЦИКЛООКТЕНА
+ALTERNATIVE METHODS FOR THE PREPARATION OF CYCLOOCTENE EPOXIDE
+
+ОЦЕНКА КАЧЕСТВА ВОДЫ В РЕКЕ РЫКУША ТУТАЕВСКОГО РАЙОНА ЯРОСЛАВСКОЙ ОБЛАСТИ
+ASSESSMENT OF WATER QUALITY IN THE RIVER RYKUSHA, TUTAEV DISTRICT, YAROSLAVL REGION
+
+ИССЛЕДОВАНИЕ МЕТОДА НЕЙТРАЛИЗАЦИИ "КИСЛОЙ ВОДЫ", КРУПНОТОННАЖНОГО ОТХОДА НЕФТЕХИМИЧЕСКОЙ ПРОМЫШЛЕННОСТИ
+RESEARCH OF THE METHOD OF NEUTRALIZING "ACID WATER", LARGE-CAPACITY WASTE OF PETROCHEMICAL INDUSTRY
+
+СНИЖЕНИЕ АНТРОПОГЕННОЙ НАГРУЗКИ НА ОКРУЖАЮЩУЮ СРЕДУ, ПУТЁМ НЕЙТРАЛИЗАЦИИ "КИСЛОЙ ВОДЫ" С КИСЛОГУДРОННЫХ ПРУДОВ НПЗ ИМ. Д.И. МЕНДЕЛЕЕВА
+REDUCTION OF ANTHROPOGENIC LOADS TO THE ENVIRONMENT THROUGH NEUTRALIZATION OF "ACID WATER" FROM THE ACID-TAR PONDS LOCATED AT D.I. MENDELEEV OIL REFINERY
+
+ИССЛЕДОВАНИЕ СОСТАВА "КИСЛОЙ ВОДЫ" ИЗ КИСЛО-ГУДРОННЫХ ПРУДОВ НПЗ ИМ. Д.И. МЕНДЕЛЕЕВА
+STUDY OF THE COMPOSITION OF "ACID WATER" FROM THE ACID TAR PONDS AT D.I. MENDELEEV OIL REFINTERY
+
+АНАЛИЗ ГАЛЬВАНОШЛАМА СОВРЕМЕННЫМИ ФИЗИКО-ХИМИЧЕСКИМИ МЕТОДАМИ
+GALVANIC SLUDGE ANALYSIS CONDUCTED BY MEANS OF MODERN PHYSICAL AND CHEMICAL METHODS
+
+АНАЛИЗ ОСАДКА ИЗ ПОДЗЕМНЫХ ВОД СОВРЕМЕННЫМИ ФИЗИКО-ХИМИЧЕСКИМИ МЕТОДАМИ
+ANALYSIS OF THE SEDIMENT FROM GROUNDWATER THROUGH ADVANCED PHYSICOCHEMICAL METHODS
+
+СОПОСТАВИТЕЛЬНОЕ ГИДРИРОВАНИЕ АЛИЦИКЛИЧЕСКИХ ДИЕНОВ РАЗЛИЧНОЙ СТРУКТУРЫ ВОДОРОДОМ В ЖИДКОЙ ФАЗЕ
+COMPARATIVE HYDROGENATION OF ALICYCLIC DIENES OF VARIOUS STRUCTURES WITH HYDROGEN IN THE LIQUID PHASE
+
+ОПРЕДЕЛЕНИЕ ФИТОТОКСИЧНОСТИ АНТИГОЛОЛЕДНЫХ РЕАГЕНТОВ
+DETERMINATION OF PHYTOTOXICITY OF DE-ICING REAGENTS
+
+ИЗУЧЕНИЕ ПРОДУКТА НЕЙТРАЛИЗАЦИИ КИСЛЫХ ГУДРОНОВ ПРУДОВ-НАКОПИТЕЛЕЙ НПЗ ИМ. Д.И. МЕНДЕЛЕЕВА
+STUDY OF THE PRODUCT FOR NEUTRALIZATION OF ACID-TARIN THE PONDS-RESERVOIRS LOCATED AT D.I. MENDELEYEVOIL REFINERY
+
+ИССЛЕДОВАНИЕ РЕЧНОЙ ДОЛИНЫ РЕКИ РЫКУША ТУТАЕВСКОГО РАЙОНА ЯРОСЛАВСКОЙ ОБЛАСТИ
+STUDY OF THE RIVER RYKUSHA VALLEY, TUTAEV DISTRICT, YAROSLAVL REGION
+
+ОЦЕНКА СОДЕРЖАНИЯ ТЯЖЕЛЫХ МЕТАЛЛОВ В ПОЧВАХ ПРОМЫШЛЕННОЙ ЗОНЫ
+EVALUATION OF THE HEAVY METALS ACCUMUTION IN THE INDUSTRIAL ZONE SOILS
+
+СОВЕРШЕНСТВОВАНИЕ ТЕХНОЛОГИИ ОЧИСТКИ ОТРАБОТАННЫХ РАСТВОРОВ МЕДНЕНИЯ
+IMPROVEMENT OF THE TECHNOLOGY TO PURIFY THE USED COPPER PLATING SOLUTIONS
+
+ИССЛЕДОВАНИЕ ПРОЦЕССА УЛАВЛИВАНИЯ ПЫЛИ В РАЗЛИЧНЫХ СЕПАРАТОРАХ
+RESEARCH OF THE PROCESS OF COLLECTING DUST IN VARIOUS SEPARATORS
+
+ТЕХНОЛОГИЯ ПОЛУЧЕНИЯ ТОПЛИВНЫХ БРИКЕТОВ ИЗ УГЛЕРОДСОДЕРЖАЩЕГО СЫРЬЯ
+TECHNOLOGY TO PRODUCE FUEL BRIQUETTES FROM CARBON-BEARING RAW MATERIALS
+
+ПРОБЛЕМА ИЗВЛЕЧЕНИЯ ПЛАТИНЫ ИЗ ОТРАБОТАННОГО КАТАЛИЗАТОРА
+THE PROBLEM OF EXTRACTING PLATINUM FROM USED CATALYST
+
+РАСЧЕТ ВЫБРОСОВ ОТ АВТОТРАНСПОРТА
+CALCULATION OF EMISSIONS FROM MOTOR TRANSPORT
+
+КОМБИНИРОВАННОЕ ИСПОЛЬЗОВАНИЕ ИНГИБИТОРОВ ТИРОЗИНКИНАЗЫ БРУТОНА И ИНГИБИТОРОВ ИММУННЫХ КОНТРОЛЬНЫХ ТОЧЕК С ЦЕЛЬЮ ЛЕЧЕНИЯ ОНКОЛОГИЧЕСКИХ ЗАБОЛЕВАНИЙ
+COMBINED USE OF BRUTON TYROSIN KINASE INHIBITORS AND INHIBITOR OF IMMUNE CONTROL POINTS FOR THE TREATMENT OF CANCER
+
+ОЧИСТКА СТОЧНОЙ ВОДЫ ОТ ИОНОВ НИКЕЛЯ С ПОМОЩЬЮ МАГНЕТИТА ИЗ ОТХОДОВ
+WASTE WATER TREATMENT FROM IONS OF NICKEL WITH MAGNETITE FROM WASTE
+
+ЭФФЕКТИВНАЯ КОАГУЛЯЦИОННО-ФЛОКУЛЯЦИОННАЯ КОМПОЗИЦИЯ ДЛЯ ОЧИСТКИ ВОДЫ ПРУДОВ-НАКОПИТЕЛЕЙ КИСЛОГО ГУДРОНА
+EFFECTIVE COAGULATION-FLOCCULATION COMPOSITION TO PURIFY WATER FROM PONDS-RESEVOIRS OF ACID TAR
+
+"THE OCEAN CLEANUP" - КРУПНЕЙШИЙ ПРОЕКТ ПО ОЧИСТКЕ МИРОВОГО ОКЕАНА
+"THE OCEAN CLEANUP" IS THE BIGGEST WORLD OCEAN CLEANING PROJECT
+
+ПРЕИМУЩЕСТВА ВНЕДРЕНИЯ КОЛЛЕКТИВНОЙ КАРТОГРАФИИ ДЛЯ ОЦЕНКИ СЕРВИСОВ ЭКОСИСТЕМ В РОССИИ
+ADVANTAGES OF IMPLEMENTATION OF PARTICIPATORY MAPPING FOR THE ASSESSMENT OF ECOSYSTEM SERVICES IN RUSSIA
+
+ВЛИЯНИЕ МОДИФИЦИРОВАННЫХ ОЛИГОНУКЛЕОТИДОВ НА РОСТ ОПУХОЛЕВЫХ КЛЕТОК
+INFLUENCE OF MODIFIED OLIGONUCLEOTIDES ON THE GROWTH OF TUMOR CELLS
+
+РАСЧЕТ ГЕОМЕТРИЧЕСКИХ ПАРАМЕТРОВ НАСАДОЧНОЙ КОЛОННЫ ДЛЯ УЛАВЛИВАНИЯ ПАРОВ АЗЕОТРОПНОЙ СМЕСИ
+CALCULATION OF GEOMETRICAL PARAMETERS OF THE PACKED COLUMNS FOR TRAPPING VAPORS OF AZEOTROPIC MIXTURE
+
+РАЗРАБОТКА ТЕХНОЛОГИЧЕСКОЙ СХЕМЫ ПЕРЕРАБОТКИ ФИЛЬТРАТА ПОЛИГОНА ТКО "СКОКОВО"
+DEVELOPMENT OF THE TECHNOLOGICAL SCHEME OF PROCESSING FILTRATE OF THE MSW "SKOKOVO" LANDFILL
+
+К РАСЧЕТУ ПАРАМЕТРОВ ЖИДКОГАЗОВОГО ИНЖЕКЦИОННОГО АППАРАТА
+ON THE CALCULATION OF THE PARAMETERS OF LIQUID-GAS INJECTION APPARATUS
+
+ИСПОЛЬЗОВАНИЕ ИСКУССТВЕННОЙ ШЕРОХОВАТОСТИ ПОВЕРХНОСТИ КАК СПОСОБ ЭНЕРГОСБЕРЕЖЕНИЯ В РЕКУПЕРАТИВНЫХ ТЕПЛООБМЕННИКАХ
+THE USE OF ARTIFICIAL ROUGHNESS OF THE SURFACE AS A WAY TO SAVE ENERGY IN RECUPERATIVE HEAT EXCHANGERS
+
+СИНТЕЗ 1,2,3,4-ТЕТРАГИДРОХИНОКСАЛИН-6,7-ДИКАРБОНИТРИЛОВ
+SYNTHESIS OF 1,2,3,4-TETRAHYDROQUINOXALINE-6,7-DICARBONITRILES
+
+О ПРИМЕНЕНИИ МОБИЛЬНОГО ИНТЕРНЕТА ПРИ ИЗУЧЕНИИ МАТЕМАТИКИ
+THE USE OF MOBILE INTERNET WHEN STUDYING MATHEMATICS
+
+ИСПОЛЬЗОВАНИЕ АКСЕЛЕРОМЕТРА СМАРТФОНА ДЛЯ ИЗУЧЕНИЯ МЕХАНИЧЕСКОГО ДВИЖЕНИЯ
+SMARTPHONE ACCELEROMETER TO STUDY MECHANICAL MOTION USING
+
+ПОЛУЧЕНИЕ НОВЫХ ГЕТЕРОЦИКЛОВ МОДИФИКАЦИЕЙ 2-АМИНО-1-ГИДРОКСИИНДОЛОВ
+PREPARATION OF NEW HETEROCYCLES BY MODIFICATION OF 2-AMINO-1-HYDROXYINDOLES
+
+УПРАВЛЯЕМЫЙ ТЕРМОЯДЕРНЫЙ СИНТЕЗ КАК АЛЬТЕРНАТИВНЫЙ ИСТОЧНИК ЭНЕРГИИ
+CONTROLLED THERMONUCLEAR FUSION AS AN ALTERNATIVE ENERGY SOURCE
+
+СИНТЕЗ ЗАМЕЩЕННЫХ ПИРРОЛО[3,4-F]ИНДОЛ-5,7-ДИОНОВ - ЭФФЕКТИВНЫХ ИНГИБИТОРОВ МОНОАМИНОКСИДАЗ
+SYNTHESIS OF SUBSTITUTED PYRROLO[3,4-F]INDOLE-5,7-DIONE AS EFFECTIVE INHIBITOR OF THE MONOAMINOOXIDASE
+
+УПЛОТНЕНИЕ ГРУНТОВ ТРАМБОВКАМИ УДАРНОГО ДЕЙСТВИЯ
+HAMMER-BLOW TAMPERS SOIL COMPACTION
+
+ОСОБЕННОСТИ ОПРЕДЕЛЕНИЯ ДОПУСТИМОГО УРОВНЯ ЛОКАЛЬНОЙ ВИБРАЦИИ ВИБРАЦИОННОЙ МАШИНЫ
+DETERMINING ASPECTS OF THE PERMISSIBLE LEVEL OF VIBRATING MACHINES LOKAL VIBRATION
+
+О ПРОБЛЕМАХ СОЗДАНИЯ ОТЕЧЕСТВЕННОГО "ИНТЕЛЛЕКТУАЛЬНОГО" КАТКА
+THE PROBLEMS OF THE DOMESTIC "INTELLECTUAL" ROLLER CREATING
+
+ОБЗОР РЫНКА МИНИ-КРАНОВ ДЛЯ ЛЕГКОВЫХ АВТОМОБИЛЕЙ
+MOTO-CARS MINI-CRANES MARKET REVIEW
+
+УКРЕПЛЕНИЕ ОТКОСОВ ДОРОГ ПОСЕВОМ ТРАВ
+REINFORCING OF THE RAMPS BY GRASS SOWING
+
+ОБОСНОВАНИЕ ПАРАМЕТРОВ СПЕКТРА УСКОРЕНИЙ ВИБРАЦИОННОГО ВАЛЬЦА ДЛЯ РАСЧЁТА ПОКАЗАТЕЛЕЙ СТЕПЕНИ УПЛОТНЕНИЯ ГРУНТА
+JUSTIFICATION OF THE PARAMETERS OF THE ACCELERATION SPECTRUM OF THE VIBRATING ROLL FOR INDICATORS OF COMPACTION DEGREE CALCULATION
+
+СИНТЕЗ МОНОМЕРОВ АВ-ТИПА ДЛЯ ЗВЕЗДООБРАЗНЫХ ОЛИГОИМИДОВ
+SYNTHESIS OF AB-TYPE MONOMERS FOR STAR-SHAPED OLIGOIMIDES
+
+ОСОБЕННОСТИ ПРОЕКТИРОВАНИЯ НАВЕСНЫХ ДОРОЖНЫХ ФРЕЗ НА МИНИПОГРУЗЧИК
+HINGED PAVEMENT PROFILER SKID STEER DESIGN FEATURES
+
+АНАЛИЗ КОНСТРУКЦИЙ ПОДЪЁМНИКОВ ЛЕГКОВЫХ АВТОМОБИЛЕЙ ДЛЯ ГАРАЖЕЙ И АВТОСЕРВИСОВ
+THE ELEVATING MACHINES FOR GARAGES AND SERVICE STATIONS STRUCTURAL ANALYSIS
+
+ЭКСПЕРИМЕНТАЛЬНОЕ ОПРЕДЕЛЕНИЕ НАГРУЗОК НА РАБОЧИЕ ОРГАНЫ БЕТОНОЛОМА
+EXPERIMENTAL DETERMINATION IMPACTS ON WORKING ORGANS OF CONCRETE BREAKER
+
+ОБОРУДОВАНИЕ ДЛЯ УДАЛЕНИЯ НАЛЕДИ И УПЛОТНЁННОГО СНЕГА С ДОРОЖНЫХ ПОКРЫТИЙ
+ICE MOUND AND SNOWCRETE ROAD SURFACE DISPOSABLE EQUIPMENT
+
+ПРОБЛЕМА ОБОСНОВАНИЯ ТЕХНОЛОГИЧЕСКИХ ВОЗМОЖНОСТЕЙ НАВЕСНЫХ ЭКСКАВАТОРНЫХ ВИБРОПЛИТ
+PROBLEM OF JUSTIFICATION OF PROCESSING CAPABILITIES OF HINGED EXCAVATING VIBROPLATES
+
+МОДЕРНИЗАЦИЯ ВИБРАЦИОННОГО КАТКА
+THE VIBRATING ROLLER MODERNIZATION
+
+МАТЕМАТИЧЕСКАЯ МОДЕЛЬ ПРОЦЕССА ФРЕЗЕРОВАНИЯ АСФАЛЬТОБЕТОНА
+MATHEMATICAL MODEL OF THE ASPHALT CONCRETE MILLING PROCESS
+
+ОСОБЕННОСТИ ДЕЙСТВИЯ ГЛУТАТИОНА ПРИ ОКИСЛЕНИИ МЕТИЛЛИНОЛЕАТА В МИЦЕЛЛАХ TRITON X-100
+FEATURES OF BEHAVIOR OF GLUTATHIONE IN OXIDATION OF METHYL LINOLEATE IN MICELLES OF TRITON-X-100
+
+ПОДХОДЫ К КЛАССИФИКАЦИИ МАШИН УДАРНОГО ДЕЙСТВИЯ
+IMPACT MACHINES CLASSIFICATION APPROACHES
+
+ПОДЪЁМНИК ГИДРАВЛИЧЕСКИЙ С КРАНОВЫМ ОБОРУДОВАНИЕМ
+HYDRAULIC LIFT WITH CRANAGE EQUIPMENT
+
+ЭВОЛЮЦИЯ ЗАЖИМНЫХ ГРУЗОЗАХВАТНЫХ УСТРОЙСТВ
+LIFTING AIDS EVOLUTION
+
+МОДЕРНИЗАЦИЯ ГРУЗОЗАХВАТНОГО ПРИСПОСОБЛЕНИЯ ДЛЯ ВИЛОЧНОГО ПОГРУЗЧИКА
+FORKLIFT HOISTING DEVICE MODERNIZATION
+
+ИЗУЧЕНИЕ АНТИОКСИДАНТНОЙ АКТИВНОСТИ 2-КАРБОКСИ-6-ГИДРОКСИ-2,5,7,8-ТЕТРАМЕТИЛБЕНЗОХРОМАНА ПРИ ОКИСЛЕНИИ МЕТИЛЛИНОЛЕАТА В МИЦЕЛЛАХ ДОДЕЦИЛСУЛЬФАТА НАТРИЯ
+THE STUDY OF AN ANTIOXIDANT ACTIVITY OF 2-CARBOXY-6-HYDROXY-2,5,7,8-TETRAMETHYLBENZENECHROMANE IN OXIDATION OF METHYL LINOLEATE IN MICELLES OF SODIUM DODECYL SULFATE
+
+ОБЗОР ГРУЗОПОДЪЕМНЫХ СИСТЕМ ПОРТАЛЬНОГО ТИПА
+REVIEW OF GANTRY TYPE LOADING SYSTEMS
+
+ЭКСПЕРИМЕНТАЛЬНАЯ ОЦЕНКА СОПРОТИВЛЯЕМОСТИ РЕЗАНИЮ ДОРОЖНЫХ АСФАЛЬТОБЕТОНОВ
+ROAD ASPHALT CONCRETE CUTTABILITY EXPERIMENTAL EVALUATION
+
+ИССЛЕДОВАНИЕ ПРОЦЕССА РЕЗАНИЯ ДРЕВЕСИНЫ С ПРИМЕНЕНИЕМ СТЕНДА МАЯТНИКОВОГО ТИПА
+RESEARCH OF WOOD CUTTING PROCESS WITH APPLICATION OF A PENDULUM TYPE STAND
+
+УЧЕБНЫЙ СТЕНД НА БАЗЕ БЕНЗИНОВОГО ДВИГАТЕЛЯ ЗАЗ968М 8-КЛАПАННОГО ДВИГАТЕЛЯ
+ENGINE ZAZ968M FOR A 8-VALVE ENGINE TRAINING SIMULATOR
+
+РАЗРАБОТКА МЕТОДИК ОПРЕДЕЛЕНИЯ СКОРОСТИ АВТОМОБИЛЯ ПО ОТБРОСУ ПЕШЕХОДА
+DEVELOPMENT OF A VEHICLE SPEED DETERMINATION TECHNIQUE BY PEDESTRIAN'S BODY SPEED IN CAR ACCIDENTS
+
+ИССЛЕДОВАНИЕ ВАРИАНТОВ ПРОВЕРОК ТОПЛИВНЫХ ФОРСУНОК БЕНЗИНОВОГО ДВИГАТЕЛЯ
+PETROL ENGINE FUEL INJECTORS OPTIONS CHECKS ANALYSIS
+
+ИССЛЕДОВАНИЕ ТРУДОЁМКОСТИ ТЕХНИЧЕСКОГО ОБСЛУЖИВАНИЯ СОВРЕМЕННЫХ АВТОМОБИЛЕЙ
+THE MODERN CARS MAINTENANCE BURDEN STUDY
+
+ИССЛЕДОВАНИЕ АЛЬТЕРНАТИВНЫХ ВАРИАНТОВ ДЛЯ УПРАВЛЕНИЯ РАБОТОЙ ДВИГАТЕЛЯ ПРОЕКТА "ФОРМУЛА СТУДЕНТ ЯГТУ"
+ANALYSIS OF THE PETROL ENGINE FUEL INJECTORS OPTIONS CHECKS FOR THE PROJECT "FORMULA STUDENT YSTU"
+
+ИСТОРИЯ ЗОЛОТОЙ МЕДАЛИ ПО ТРИБОЛОГИИ И РОССИЙСКИЕ ЛАУРЕАТЫ
+HISTORY OF THE GOLD MEDAL IN TRIBOLOGY AND RUSSIAN WINNERS
+
+СТЕНД УЧЕБНЫЙ ТРЕНИРОВОЧНЫЙ ДЛЯ ИЗУЧЕНИЯ МЕХАНИЗМОВ СЦЕПЛЕНИЯ
+TRAINING STAND FOR STUDYING THE MECHANISMS OF THE CLUTCH
+
+МЕТОДЫ ОБЕСПЕЧЕНИЯ РАБОТОСПОСОБНОСТИ МАНЖЕТ КОЛЕНЧАТОГО ВАЛА НА АВТОМОБИЛЬНЫХ ДИЗЕЛЬНЫХ ДВИГАТЕЛЯХ
+PERFORMANS ASSURANCE OF THE CRANKSHAFT CUFFS OF AUTOMOTIVE DIESEL ENGINES
+
+ИССЛЕДОВАНИЕ ПЕРИОДИЧНОСТИ ЗАМЕНЫ МАСЛА НА АВТОМОБИЛЬНЫХ ДИЗЕЛЬНЫХ ДВИГАТЕЛЯХ
+THE STUDY OF OIL REPLACEMENT FREQUENCY OF AUTOMOTIVE DIESEL ENGINES
+
+РАЗРАБОТКА УНИВЕРСАЛЬНОГО УСТРОЙСТВА ПОМОЩИ ВОДИТЕЛЮ В КРИТИЧЕСКОЙ СИТУАЦИИ
+THE DEVELOPMENT OF A UNIVERSAL DRIVER ASSISTANCE IN CRITICAL SITUATIONS DEVICE
+
+КОГЕНЕРАЦИОННАЯ УСТАНОВКА С ДИЗЕЛЬНЫМ ЭЛЕКТРОАГРЕГАТОМ
+COGENERATION PLANT WITH DIESEL GENERATOR UNIT
+
+СОСТАВ И СВОЙСТВА СЛАДКИХ ГАЗИРОВАННЫХ НАПИТКОВ
+COMPOSITION AND PROPERTIES SWEET CARBONATED DRINKS
+
+ПРИРОДНЫЕ ИНДИКАТОРЫ
+NATURAL INDICATORS
+
+АНАЛИЗ МЕТОДОВ ОЧИСТКИ СТОЧНЫХ ВОД
+THE ANALYSIS OF WASTEWATER TREATMENT METHODS
+
+РЕОЛОГИЧЕСКИЕ ХАРАКТЕРИСТИКИ ОКСИДА ЖЕЛЕЗА
+RHEOLOGICAL CHARACTERISTICS OF IRON OXIDE
+
+ЭЛЕКТРОННАЯ ПРОВОДИМОСТЬ ЛЕГИРОВАННЫХ ПОЛИФЕРРИТОВ КАЛИЯ
+ELECTRONIC CONDUCTIVITY OF DOPED POTASSIUM POLYFERRITES
+
+КОРРОЗИОННАЯ СТОЙКОСТЬ ПОЛИФЕРРИТОВ КАЛИЯ, ЛЕГИРОВАННЫХ ДВУХЗАРЯДНЫМИ КАТИОНАМИ
+CORROSION RESISTANCE OF POTASSIUM POLYFERRITES DOPED BY TWO-CHARGED CATIONES
+
+МАЛОЭТАЖНЫЕ ЗДАНИЯ ИЗ ПЕНОПОЛИСТИРОЛБЕТОННЫХ БЛОКОВ, ПОЛУЧЕННЫХ МЕТОДОМ САМОУПЛОТНЯЮЩИХСЯ МАСС
+LOW-RISE BUILDINGS MADE OF EXPANDABLE POLYSTYRENE CONCRETE BLOCKS OBTAINED WITH THE SELF-SEALING MASSES METHOD
+
+РАЗРАБОТКА УЗЛОВ СОПРЯЖЕНИЯ ПЕРЕКРЫТИЙ С КЛАДКОЙ ИЗ ПОЛИСТИРОЛБЕТОННЫХ БЛОКОВ. АНАЛИЗ ЭКОНОМИЧЕСКОГО ЭФФЕКТА
+THE DEVELOPMENT OF JOINTS OF FLOOR DECKS BY LAYING POLYSTYRENE CONCRETE BLOCKS. ANALYSIS OF THE ECONOMIC EFFECT
+
+ПРИМЕНЕНИЕ НАЛИВНЫХ ПОКРЫТИЙ В ПРОИЗВОДСТВЕННЫХ ЗДАНИЯХ. РАСЧЁТ СОВМЕСТНОЙ РАБОТЫ ЭЛЕМЕНТОВ КОНСТРУКЦИЙ ПОЛОВ В СИСТЕМЕ SCAD
+APPLICATION OF POURED COATINGS IN INDUSTRIAL BUILDINGS. CALCULATION OF THE JOINT WORK OF THE FLOOR CONSTRUCTION ELEMENTS IN THE SCAD SYSTEM
+
+ЭКСПЛУАТИРУЕМЫЕ КРОВЛИ В РОССИИ - МИФ ИЛИ РЕАЛЬНОСТЬ?
+OPERATED BY THE ROOF IN RUSSIA - MYTH OR REALITY?
+
+ПРИМЕНЕНИЕ ЧУГУНОВ С ВЕРМИКУЛЯРНЫМ ГРАФИТОМ ДЛЯ СОЗДАНИЯ ПОРШНЕЙ ГАЗОВЫХ ДВИГАТЕЛЕЙ
+APPLICATION OF CAST IRON INCLUDING VERMICULAR GRAPHITE FOR A PISTON OF GAS ENGINE CREATING
+
+К ВОПРОСУ О ВЛИЯНИИ МАСЕЛ НА БЕТОН
+THE INFLUENCE OF OIL ON CONCRETE
+
+РАЗРАБОТКА БЛОКОВ НА ОСНОВЕ ЛЕГКОГО БЕТОНА ДЛЯ ВЕНТИЛЯЦИОННЫХ КАНАЛОВ
+DEVELOPMENT OF LIGHTWEIGHT CONCRETE-BASED BLOCKS FOR VENTILATION DUCTS
+
+ОСОБЕННОСТИ РЕКОНСТРУКЦИИ ЗДАНИЙ И СООРУЖЕНИЙ С НЕСУЩИМИ КОНСТРУКЦИЯМИ ИЗ СИЛИКАТНОГО КИРПИЧА
+RECONSTRUCTION OF BUILDINGS WITH CARRYING STRUCTURES FROM SAND-LIME BRICK
+
+РАЗРАБОТКА КРУПНОФОРМАТНЫХ СТЕНОВЫХ БЛОКОВ ИЗ КЕРАМЗИТОБЕТОНА
+THE DEVELOPMENT OF LARGE LECA BLOCKS
+
+МЕТОДИКА ОПРЕДЕЛЕНИЯ КОМПЕТЕНТНОСТИ АУДИТОРА СИСТЕМ МЕНЕДЖМЕНТА
+THE METHOD OF DETERMINING THE COMPETENCE OF MANAGEMENT SYSTEMS AUDITOR
+
+РАЗРАБОТКА СТРАТЕГИИ ПОВЫШЕНИЯ КАЧЕСТВА ПРОДУКЦИИ ООО «СЛАВЯНСКИЙ ХЛЕБ»
+DEVELOPMENT OF STRATEGY TO IMPROVE PRODUCT QUALITY OF THE ENTERPRISE «SLAVYANSKIJ HLEB»
+
+ИНТЕГРИРОВАННАЯ СИСТЕМА МЕНЕДЖМЕНТА НЕФТЕПЕРЕРАБАТЫВАЮЩЕГО ПРЕДПРИЯТИЯ ОАО «СЛАВНЕФТЬ-ЯНОС» И ПРОБЛЕМЫ ЕЕ ПРОЕКТИРОВАНИЯ
+THE INTEGRATED MANAGEMENT SYSTEM OF THE REFINERY JSC «SLAVNEFT-YANOS» AND ITS DESIGN PROBLEMS
+
+ПРИМЕНЕНИЕ МЕТОДА ДЕЛЬФИ ПРИ ПРИНЯТИИ УПРАВЛЕНЧЕСКИХ РЕШЕНИЙ
+APPLICATION OF THE DELPHI METHOD IN MAKING MANAGEMENT DECISIONS
+
+СТРАТЕГИЯ ВНЕДРЕНИЯ CALS-ТЕХНОЛОГИЙ НА РОССИЙСКИХ ПРЕДПРИЯТИЯХ
+THE STRATEGY OF CALS TECHNOLOGIES IMPLEMENTATION AT THE RUSSIAN ENTERPRISES
+
+УДАРНЫЕ ПРОЦЕССЫ В ФОРСУНКАХ ДИЗЕЛЕЙ
+IMPACT PROCESSES IN DIESEL INJECTORS
+
+ВСТРАИВАЕМЫЕ ИНСТРУМЕНТЫ КОНТРОЛЯ КАЧЕСТВА НА ПРЕДПРИЯТИЯХ С УЧЁТОМ «ИНДУСТРИИ 4.0»
+BUILT-IN QUALITY CONTROL INSTRUMENTS AT ENTERPRISES TAKING INTO ACCOUNT «INDUSTRY 4.0»
+
+РАЗРАБОТКА ПРОЦЕДУРЫ ПРОЦЕССА «ОЦЕНКА УДОВЛЕТВОРЕННОСТИ ПОТРЕБИТЕЛЕЙ ПРОДУКЦИЕЙ» (НА ПРИМЕРЕ ФИЛИАЛА АКЦИОНЕРНОГО ОБЩЕСТВА «Р-ФАРМ» В ГОРОДЕ РОСТОВ «ЗАВОД АКТИВНЫХ ФАРМАЦЕВТИЧЕСКИХ СУБСТАНЦИЙ «ФАРМОСЛАВЛЬ»)
+PROCEDURE OF THE PROCESS «EVALUATION OF CONSUMER SATISFACTION WITH PRODUCTS» DEVELOPMENT (ON THE EXAMPLE OF BRANCH OF JOINT-STOCK COMPANIES «R-PHARM» IN ROSTOV CITY,YAROSLAVL REGION «PLANT OF ACTIVE PHARMACEUTICAL INGREDIENTS «FARMOSLAVL»)
+
+РОЛЬ ИДЕНТИФИКАЦИОННОЙ ЭКСПЕРТИЗЫ ПРИ ОЦЕНКЕ СТЕПЕНИ СООТВЕТСТВИЯ ПРОДУКЦИИ
+THE ROLE OF IDENTIFICATION EXAMINATION IN EVALUATING THE PRODUCT CONFORMITY DEGREE
+
+ПРОБЛЕМЫ ОРГАНИЗАЦИИ ОЦЕНКИ УДОВЛЕТВОРЕННОСТИ ПОТРЕБИТЕЛЕЙ ТОВАРОВ И УСЛУГ МНОГОПРОФИЛЬНОЙ ОРГАНИЗАЦИИ
+PROBLEMS OF ESTIMATION OF CONSUMERS SATISFACTION OF GOODS AND SERVICES OF A DIVERSIFIED ORGANIZATION
+
+ПРИМЕНЕНИЕ 3D-СКАНИРОВАНИЯ В ОБЛАСТИ ОБЕСПЕЧЕНИЯ ЕДИНСТВА ИЗМЕРЕНИЙ
+THE USE OF 3D SCANNING IN THE FIELD OF ASSURANCE OF UNIFORMITY OF MEASUREMENTS
+
+ПРЕДПОСЫЛКИ К ВНЕДРЕНИЮ МАССОВЫХ ОТКРЫТЫХ ОНЛАЙН-КУРСОВ В ОБРАЗОВАТЕЛЬНУЮ ДЕЯТЕЛЬНОСТЬ УНИВЕРСИТЕТА
+BACKGROUND TO THE INTRODUCTION OF MASSIVE OPEN ONLINE COURSES TO THE EDUCATIONAL ACTIVITIES OF THE UNIVERSITY
+
+УПРАВЛЕНИЕ ВЗАИМООТНОШЕНИЯМИ С ПОТРЕБИТЕЛЯМИ
+CUSTOMER RELATIONSHIP MANAGEMENT
+
+КОНЦЕПЦИЯ И ФИЛОСОФИЯ РИСК МЕНЕДЖМЕНТА В МЕЖДУНАРОДНЫХ И НАЦИОНАЛЬНЫХ СТАНДАРТАХ
+THE THEORY AND PHILOSOPHY OF RISK MANAGEMENT FOR INTERNATIONAL AND NATIONAL STANDARDS
+
+МЕТОДЫ И СИСТЕМЫ ВНУТРЕННЕЙ ОЦЕНКИ КАЧЕСТВА (НА ПРИМЕРЕ ФГБОУ ВО «ЯГТУ»)
+METHODS AND THE SYSTEMS OF INTERNAL QUALITY ASSESSMENT (TROUGH THE EXAMPLE OF YSTU)
+
+МЕТОДИКА АНАЛИЗА РЕЗУЛЬТАТИВНОСТИ ИНТЕГРИРОВАННОЙ СИСТЕМЫ МЕНЕДЖМЕНТА ПРЕДПРИЯТИЯ (НА ПРИМЕРЕ ОАО «СЛАВНЕФТЬ-ЯНОС»)
+THE PERFORMANCE OF THE INTEGRATED MANAGEMENT SYSTEM OF THE ENTERPRISE ANALYSIS TECHNIQUE (TROUGH THE EXAMPLE OF OJSC «SLAVNEFT-YANOS»)
+
+ПУТИ СОВЕРШЕНСТВОВАНИЯ ПРОИЗВОДСТВЕННЫХ ПРОЦЕССОВ В УСЛОВИЯХ ИНТЕГРИРОВАНИЯ БЕСПРОВОДНЫХ ТЕХНОЛОГИЙ ИЗМЕРЕНИЙ
+WAYS TO IMPROVE PRODUCTION PROCESSES IN THE CONDITIONS OF INTEGRATING WIRELESS TECHNOLOGIES OF MEASUREMENTS
+
+ИСПОЛЬЗОВАНИЕ СТРУИ ВЫСОКОГО ДАВЛЕНИЯ ДЛЯ РАЗРУШЕНИЯ ВОДОНЕФТЯНЫХ ЭМУЛЬСИЙ
+THE USE OF HIGH-PRESSURE JET FOR BREAKING OIL-WATER EMULSIONS
+
+ПРОГРАММА ЛОЯЛЬНОСТИ ОРГАНИЗАЦИИ КАК ЭЛЕМЕНТ СИСТЕМЫ ВЗАИМОДЕЙСТВИЯ С ПОТРЕБИТЕЛЯМИ
+PROGRAM OF LOYALTY OF THE ORGANIZATION AS AN ELEMENT OF THE CONSUMERS INTERACTION SYSTEM
+
+СТАТИСТИЧЕСКИЙ ПРИЕМОЧНЫЙ КОНТРОЛЬ КАЧЕСТВА ПРОДУКЦИИ
+STATISTICAL ACCEPTANCE PRODUCTS QUALITY CONTROL
+
+СОВРЕМЕННЫЕ ТЕНДЕНЦИИ В ВАЛИДАЦИИ ОБРАЗОВАТЕЛЬНОЙ ДЕЯТЕЛЬНОСТИ В ВУЗЕ
+CURRENT TRENDS IN VALIDATION OF EDUCATIONAL ACTIVITIES AT THE UNIVERSITY
+
+ФОРМЫ ОТВЕТСТВЕННОСТИ ПРЕДПРИЯТИЙ ЗА НЕСОБЛЮДЕНИЕ ТРЕБОВАНИЙ К КАЧЕСТВУ ПРОИЗВОДИМОЙ ПРОДУКЦИИ
+ENTERPRISES RESPONSIBILITY FORMS FOR NON-COMPLIANCE WITH THE REQUIREMENTS TO THE PRODUCTION QUALITY
+
+МЕНЕДЖМЕНТ ЗНАНИЙ: ПРАКТИКА И ПРИМЕНЕНИЕ НА ПРЕДПРИЯТИЯХ
+KNOWLEDGE MANAGEMENT: PRACTICE AND APPLICATION IN A BUSINESS ENVIRONMENT
+
+ПРИМЕНЕНИЕ АДДИТИВНЫХ ТЕХНОЛОГИЙ В ЛИТЕЙНОМ ПРОИЗВОДСТВЕ
+APPLICATION OF ADDITIVE TECHNOLOGIES IN CASTING INDUSTRY
+
+ПРЕДПОСЫЛКИ РАЗРАБОТКИ МЕТОДИКИ УПРАВЛЕНИЯ ПЕРСОНАЛОМ (НА ПРИМЕРЕ ПАО РОСБАНК)
+BACKGROUND OF PERSONNEL MANAGEMENT DEVELOPMENT TECHNIQUES (ON THE EXAMPLE OF PAO ROSBANK)
+
+РАЗРАБОТКА МЕРОПРИЯТИЙ ПО УВЕЛИЧЕНИЮ УДЕЛЬНОЙ МОЩНОСТИ АВТОМОБИЛЬНОГО ДВИГАТЕЛЯ С ПРИНУДИТЕЛЬНЫМ ЗАЖИГАНИЕМ
+DEVELOPMENT OF MEASURES FOR INCREASING THE SPECIFIC CAPACITY OF A CAR ENGINE WITH A FORCED IGNITION
+
+РАЗРАБОТКА НОВОЙ КОНСТРУКЦИИ РЕАКТОРА ДЛЯ ПОЛУЧЕНИЯ АКТИВНЫХ МАРОК ТЕХНИЧЕСКОГО УГЛЕРОДА
+A NEW REACTOR DESIGN FOR OBTAINING ACTIVE SORTS OF TECHNICAL CARBON
+
+К ВОПРОСУ О ВЫБОРЕ ПАРАМЕТРОВ ПРОЦЕССА СМЕШИВАНИЯ СЫПУЧИХ КОМПОНЕНТОВ
+THE QUESTION ABOUT THE CHOICE OF THE MIXING PROCESS OF THE BULK COMPONENTS PARAMETERS
+
+К АНАЛИЗУ ОСНОВНЫХ ПРИНЦИПОВ МАТЕМАТИЧЕСКОГО МОДЕЛИРОВАНИЯ ТЕХНОЛОГИЧЕСКИХ ПРОЦЕССОВ
+THE ANALYSIS OF THE BASIC PRINCIPLES OF MATHEMATICAL SIMULATION OF TECHNOLOGICAL PROCESSES
+
+О СПОСОБЕ МОДЕЛИРОВАНИЯ КОЭФФИЦИЕНТА СЖАТИЯ СТРУИ ЖИДКОСТИ
+THE METHOD OF SIMULATION OF THE COEFFICIENT OF LIQUID FLOW COMPRESSION
+
+О СОВРЕМЕННЫХ СПОСОБАХ ОЦЕНКИ КАЧЕСТВА СЫПУЧИХ СМЕСЕЙ НА ПРИМЕРЕ РАБОТЫ ЩЕТОЧНЫХ УСТРОЙСТВ
+THE MODERN METHODS OF QUALITY CONTROL OF THE BULK MIXTURES ON THE EXAMPLE OF WORK OF THE BRUSH DEVICES
+
+К РАСЧЕТУ ХАРАКТЕРИСТИЧЕСКИХ УГЛОВ ПРИ УДАРНОМ ВЗАИМОДЕЙСТВИИ ФАКЕЛА СЫПУЧЕЙ СРЕДЫ С ОТБОЙНИКОМ
+CALCULATION OF CHARACTERISTIC ANGLES BY IMPACT INTERACTION OF THE FLARE OF THE BULK MEDIUM WITH THE BUMP STOP
+
+К РЕГРЕССИОННОМУ АНАЛИЗУ СТЕПЕНИ ОДНОРОДНОСТИ СЫПУЧЕЙ СМЕСИ ПОСЛЕ УДАРА КОМПОНЕНТОВ ОБ ОТБОЙНИК
+REGRESSION ANALYSIS OF THE UNIFORMITY DEGREE OF A BULK MIXTURE AFTER AN IMPACT OF COMPONENTS WITH THE BUMP STOP
+
+СОВРЕМЕННОЕ СОСТОЯНИЕ НОРМАТИВНОЙ ДОКУМЕНТАЦИИ. ИЗМЕНЕНИЯ В ОБЛАСТИ ПРОЕКТИРОВАНИЯ СОСУДОВ И АППАРАТОВ
+CURRENT STATUS OF REGULATORY DOCUMENTS. CHANGES IN THE FIELD OF DESIGNING VESSELS AND APPARATUS
+
+ОСОБЕННОСТИ ПРИНЦИПА РАБОТЫ ГРАВИТАЦИОННОГО СМЕСИТЕЛЯ СЫПУЧИХ МАТЕРИАЛОВ
+WORKING PRINCIPLE FEATURES OF THE BULK MATERIALS GRAVITY MIXER
+
+ОБ ОСОБЕННОСТЯХ КОНСТРУКЦИИ ОСЕВОГО КЛАПАНА С ПОВОРОТНЫМ ЗАПИРАЮЩИМ ОРГАНОМ
+THE PECULIARITIES OF THE DESIGN OF AXIAL VALVE WITH ROTARY LOCKING MEMBER
+
+ПЕРСПЕКТИВЫ РАЗВИТИЯ ДИСКОВОГО КРИСТАЛЛИЗАТОРА ДЕПАРАФИНИЗАЦИИ МАСЕЛ
+PERSPECTIVES OF DEVELOPMENT OF DISK CRYSTALLIZER FOR OIL DEPARAFFINATION
+
+ИЗУЧЕНИЕ ОБРАЗОВАНИЯ СЛЕДОВ В ВЯЗКОУПРУГОМ ПОТОКЕ ПРИ ШТИФТОВОЙ ЭКСТРУЗИИ ПОЛИМЕРОВ
+STUDY OF TRACK FORMATION IN A VISCOELASTIC FLOW DURING A PIN EXTRUSION OF POLYMERS
+
+К ВОПРОСУ ОБ ОПИСАНИИ КАВИТАЦИОННЫХ ПУЗЫРЕЙ В ФАЗОВОМ ОБЪЕМЕ
+THE QUESTION OF THE DESCRIPTION OF CAVITATION BUBBLES IN PHASE VOLUME
+
+ОБ УСЛОВНОЙ КЛАССИФИКАЦИИ РЕГУЛИРУЮЩИХ КЛАПАНОВ ПО РАЗЛИЧНЫМ КОНСТРУКТИВНЫМ ПРИЗНАКАМ
+CONDITIONAL CLASSIFICATION OF CONTROL VALVES BY DIFFERENT CONSTRUCTIVE SIGNS
+
+ПРИМЕНЕНИЕ СТОХАСТИЧЕСКОГО ПОДХОДА ДЛЯ ОПИСАНИЯ ПОВЕДЕНИЯ СЫПУЧЕЙ СРЕДЫ В РАЗРЕЖЕННОМ ФАКЕЛЕ
+APPLICATION OF THE STOCHASTIC APPROACH TO THE BEHAVIOR OF A BULK MEDIUM WITHIN EXHAUSTED FLARE DESCRIBING
+
+К ВОПРОСУ ОБ УСОВЕРШЕНСТВОВАНИИ КОНСТРУКЦИИ КАСКАДНОГО РЕАКТОРА СЕРНОКИСЛОТНОГО АЛКИЛИРОВАНИЯ
+THE QUESTION OF THE DESIGN CASCADE REACTOR OF SULFURIC ACID ALKYLATION REFINEMENTS
+
+ЧИСЛЕННОЕ ИЗУЧЕНИЕ СТРУКТУРЫ ПОТОКОВ В ГОРИЗОНТАЛЬНОМ КАСКАДНОМ РЕАКТОРЕ СЕРНОКИСЛОТНОГО АЛКИЛИРОВАНИЯ
+THE HORIZONTAL CASCADE REACTOR FOR SULFURIC ACID ALKYLATION CONSTRUCTION STRUCTURAL DETERMINATION
+
+МЕТОДИКА ПРОВЕДЕНИЯ ЭКСПЕРИМЕНТА В БАРАБАННО-ЛОПАСТНОМ СМЕСИТЕЛЕ СЫПУЧИХ МАТЕРИАЛОВ НЕПРЕРЫВНОГО ДЕЙСТВИЯ
+EXPERIMENT TECHNIQUE FOR THE DRUM AND BLADED BULK MIXER OF CONTINUOUS ACTION
+
+ОН-ЛАЙН ОБУЧЕНИЕ КАК ПРОБЛЕМА СОВРЕМЕННОГО ВЫСШЕГО ОБРАЗОВАНИЯ
+ON-LINE TRAINING AS A PROBLEM OF MODERN HIGHER EDUCATION
+
+ОЦИФРОВКА РЕЗУЛЬТАТОВ ИССЛЕДОВАНИЯ ДИФФУЗИОННОЙ МОДЕЛИ
+DIFFUSION MODEL RESULTS DIGITAZING
+
+ИССЛЕДОВАНИЕ СВОЙСТВ ФУТЕРОВКИ МНОГОКАНАЛЬНОГО ПЕЧНОГО РЕАКТОРА ДЛЯ ПРОИЗВОДСТВА ТЕХУГЛЕРОДА
+THE STUDY OF THE PROPERTIES OF LINING THE FURNACE MULTI-CHANNEL REACTOR FOR PRODUCING CARBON BLACK
+
+ПРОЕКТНЫЙ РАСЧЕТ ФРЕЗЕРНОГО СТАНКА С ЧПУ
+CNC CONTINUOUS MILLING MACHINE DESIGN CALCULATION
+
+ПРОЦЕСС СОЗДАНИЯ ПРОЕКТА В AUTODESK FUSION TEAM И СОВМЕСТНАЯ РАБОТА НАД НИМ С ДРУГИМИ УЧАСТНИКАМИ ПРОЕКТА
+AUTODESK FUSION TEAM PROJECT COLLOBORATIVE DERIVATION PROCESS
+
+МОДЕЛИРОВАНИЕ УЧАСТКА ПО ИЗГОТОВЛЕНИЮ ПРЕСС-ФОРМ ДЛЯ ПОВЫШЕНИЯ ЭФФЕКТИВНОСТИ РАБОТЫ
+SIMULATION OF MOULD CONSTRUCTION FOR ENHANCEMENT OF OPERATING EFFICIENCY
+
+РАЗРАБОТКА РОБОТА-МАНИПУЛЯТОРА НА ПЛАТФОРМЕ ARDUINO С ПРИМЕНЕНИЕМ АДДИТИВНЫХ ТЕХНОЛОГИЙ
+DEVELOPMENT AND PROGRAMMING OF THE ARDUINO ROBOTIC ARM USING ADDICTIVE TECHNOLOGY
+
+АВТОМАТИЗАЦИЯ СБОРОЧНОЙ ОПЕРАЦИИ С ПРИМЕНЕНИЕМ РОБОТА-МАНИПУЛЯТОРА PASCAL OMEGA
+ROBOT- MANIPULATOR PASCAL OMEGA ASSISTED ASSEMBLY AUTOMATION
+
+ИССЛЕДОВАНИЕ ВОЗМОЖНОСТЕЙ ЯЗЫКА PYTHON ПРИ ПРОГРАММНОМ ПРОЕКТИРОВАНИИ МАШИНОСТРОИТЕЛЬНЫХ ОБЪЕКТОВ В СРЕДЕ FUSION 360
+THE OPPORTUNITY OF THE PYTHON LANGUAGE RESEARCH BY BATCH DESIGN OF MACHINE BUILDING IN THE FUSION 360 ENVIRONMENT
+
+ИССЛЕДОВАНИЕ СИСТЕМ УПРАВЛЕНИЯ MACH3 И NC STUDIO ДЛЯ МОДЕРНИЗАЦИИ СТАНКА С ЧПУ
+MACH3 AND NC STUDIO MANAGEMENT SYSTEM RESEARCH FOR CNC MACHINE-TOOL RETROFIT
+
+ЭКРАННАЯ СБОРКА УСП В СРЕДЕ INVENTOR 2019 ПРИ КОНСТРУКТОРСКО-ТЕХНОЛОГИЧЕСКОЙ ПОДГОТОВКЕ ПРОИЗВОДСТВА
+SCREEN ASSEMBLY OF UNIVERSAL PREFABRICATED DEVICES DESIGN ENGENEERING PREPRODUCTION IN THE INVENTOR-2019 ENVIRONMENT
+
+К ВОПРОСУ ИСПОЛЬЗОВАНИЯ 3D-СКАНИРОВАНИЯ В УЧЕБНОМ ПРОЦЕССЕ НА КАФЕДРЕ КИ ТМС
+THE QUESTION OF USING 3D SCANNING IN THE EDUCATIONAL PROCESS AT THE DEPARTMENT OF CI TMS
+
+МОДЕЛИРОВАНИЕ ЕДИНОГО ИНФОРМАЦИОННОГО ПРОСТРАНСТВА ПРИ КОНСТРУКТОРСКО-ТЕХНОЛОГИЧЕСКОЙ ПОДГОТОВКЕ ПРОИЗВОДСТВА
+SIMULATION OF CONSOLIDATED INFORMATION FOR DESIGN ENGENEERING PREPRODUCTION
+
+ОСОБЕННОСТИ ТЕХНОЛОГИЧЕСКОЙ ПОДГОТОВКИ FDM/FFF 3D-ПРИНТЕРА В БЫСТРОМ ПРОТОТИПИРОВАНИИ
+RAPID PROTOTYPING COMPUTER-ASSISTED PLANNING OF FDM/FFF 3D PRINTER SPECIAL FEATURES
+
+СБОРКА И ПРОГРАММИРОВАНИЕ МАНИПУЛЯТОРА НА ПЛАТФОРМЕ ARDUINO С УПРАВЛЕНИЕМ ОТ ПЕРСОНАЛЬНОГО КОМПЬЮТЕРА
+ASSEMBLY AND PROGRAMMING OF THE PC CONTROLLED ARDUINO ROBOTIC ARM
+
+РАЗРАБОТКА ЦИФРОВОГО ПРОТОТИПА НАСТОЛЬНОГО СТАНКА С ЧПУ
+THE DIGITAL PROTOTYPE OF A CNC DESKTOP MACHINE DEVELOPMENT
+
+РЕАЛИЗАЦИЯ КОЛЛЕКТИВНОГО ПРОЕКТИРОВАНИЯ СРЕДСТВАМИ ЛОЦМАН:PLM
+COLLABORATIVE DESIGN BY MEANS OF LOTSMAN:PLM REALIZATION
+
+КОМПЛЕКТОВАНИЕ И РАСЧЕТ ИНСТРУМЕНТАЛЬНЫХ НАЛАДОК В ГИБКОМ ПРОИЗВОДСТВЕ
+COMPLETING UNITS OF MACHINES AND TOOLING SETUPS CALCULATION FOR A FLEXIBLE FABRICATION
+
+РАСЧЕТ ТЕМПА ИЗНОСА ТВЕРДОСПЛАВНЫХ ПРОТЯЖЕК ПРИ ОБРАБОТКЕ ДЕТАЛЕЙ ГАЗОТУРБИННЫХ ДВИГАТЕЛЕЙ В ОПТИМАЛЬНЫХ РЕЖИМАХ РЕЗАНИЯ
+THE RATE OF ATTRITION OF CARBIDE BROACH CALCULATION WHEN MACHINING PARTS OF GAS TURBINE ENGINES IN BEST CUTTING CONDITIONS
+
+ЭКСПЕРИМЕНТАЛЬНЫЕ ИССЛЕДОВАНИЯ ВЛИЯНИЯ РЕЖИМНЫХ ПАРАМЕТРОВ НА КАЧЕСТВО СМЕСИ В НОВОМ СМЕСИТЕЛЕ СЫПУЧИХ МАТЕРИАЛОВ
+OPERATING PARAMETRES EFFECT TO THE QUALITY OF MIXTURE IN THE ADVANCED MIXING BULK TANK EXPERIMENTAL STUDIES
+
+ОСОБЕННОСТИ ПРОЕКТИРОВАНИЯ ЦИФРОВОГО ПРОТОТИПА ЗАВОДСКОЙ ЛИТЕЙНОЙ ОСНАСТКИ
+FOUNDRY PATTERN EQUIPMENT OF DIGITAL PROTOTYPE DESIGNING SPECIAL FEATURES
+
+ОСОБЕННОСТИ ПРОЕКТИРОВАНИЯ ПАРАМЕТРИЧЕСКИХ ОБЪЕКТОВ В CREOPARAMETRIC 5.0 РАЗЛИЧНЫМИ СПОСОБАМИ
+DIFFERENT WAYS OF PARAMETRIC OBJECTS BY CREOPARAMETRIC 5.0 DESIGN FEATURES
+
+РАЗРАБОТКА МФУ ДЛЯ ПРОТОТИПИРОВАНИЯ НА ОСНОВЕ МИКРОКОНТРОЛЛЕРА ATMEGA2560
+DEVELOPMENT OF MULTIFUNCTION PRINTER FOR PROTOTYPING BASED ON THE ATMEGA 2560 MICROCONTROLLER
+
+ВОПРОСЫ СОЗДАНИЯ ПРОЕКТА В ЛОЦМАН:PLM И ИНТЕГРАЦИЯ ДОКУМЕНТАЦИИ ПО ДИСЦИПЛИНАМ ОАП И ЦП В МС
+CREATING PROJECT BY LOODSMAN: PLM AND DOCUMENT INTEROP OF DISCIPLINES ON THE BASICS OF COMPUTER-AIDED DESIGN AND DIGITAL PROTOTYPING IN ENGINEERING
+
+ИССЛЕДОВАНИЕ НАСТРОЕК В ЛОЦМАН:PLM ДЛЯ КОЛЛЕКТИВНОЙ РАБОТЫ ПРИ РЕШЕНИИ КОНСТРУКТОРСКИХ И ТЕХНОЛОГИЧЕСКИХ ЗАДАЧ
+RESEARCH OF SETTINGS IN LOTSMAN:PLM COLLABORATION FOR SOLVING DESIGN AND TECHNOLOGICAL PROBLEMS
+
+КОНСТРУКТОРСКО-ТЕХНОЛОГИЧЕСКАЯ ПОДГОТОВКА ПРОИЗВОДСТВА ЛИТЕЙНОЙ ОСНАСТКИ В SOLIDWORKS
+FOUNDRY PATTERN EQUIPMENT FOR SOLIDWORKS DESIGN ENGINEERING
+
+КОГЕНЕРАЦИОННАЯ УСТАНОВКА С ДИЗЕЛЬНЫМ ЭЛЕКТРОАГРЕГАТОМ
+COGENERATION PLANT WITH DIESEL GENERATOR UNIT
+
+РАЗРАБОТКА ДЕЛИТЕЛЯ ВХОДНОГО ПОТОКА ДЛЯ СНИЖЕНИЯ КАВИТАЦИИ В НАСОСНОМ ОБОРУДОВАНИИ
+DEVELOPMENT RESULT OF THE INPUT CURRENT DIVIDER FOR PUMP COMPONENT CAVITATION REDUCING
+
+РАСЧЕТ ОПОРЫ ПОСТОЯННОГО УСИЛИЯ ТЕХНОЛОГИЧЕСКОГО ТРУБОПРОВОДА
+THE CALCULATION OF PERMANENT CRADLE REINFORCEMENT OF INDUSTRIAL PIPELINE
+
+К ВОПРОСУ ПРОЕКТИРОВАНИЯ ЛИТЕЙНОЙ ОСНАСТКИ С УЧЕТОМ ОСОБЕННОСТЕЙ ЗАТЕКАНИЯ МАТЕРИАЛА ДЕТАЛИ
+THE QUESTION OF DESIGNING OF FOUNDRY PATTERN EQUIPMENT ACCESSORIES BY REFERENCE TO THE SPECIFIC FEATURES OF INFLOWING DETAILS
+
+К ВОПРОСУ ИСПОЛЬЗОВАНИЯ ЭЛЕКТРОННЫХ РЕСУРСОВ В УЧЕБНОМ ПРОЦЕССЕ НА КАФЕДРЕ КИ ТМС
+THE QUESTION OF DIGITAL RESOURCES USE IN THE EDUCATIONAL PROCESS AT THE DEPARTMENT OF CI TMS YSTU
+
+ДООХЛАЖДЕНИЕ КОНДЕНСАТА ВЫПАРА В ДЕАЭРАЦИОННОЙ УСТАНОВКЕ
+CONDENSATED VENTED STEAM AFTERCOOLING BY DEAERATION PLANT
+
+ИССЛЕДОВАНИЕ МЕТРОЛОГИЧЕСКИХ ХАРАКТЕРИСТИК УСТРОЙСТВА ДЛЯ ИЗМЕРЕНИЯ ТОЛЩИНЫ ДВИЖУЩИХСЯ ЛИСТОВЫХ МАТЕРИАЛОВ
+RESEARCH OF METROLOGICAL CHARACTERISTICS OF DEVICE FOR MEASURING THE THICKNESS OF MOVING SHEET MATERIALS
+
+МОДИФИКАЦИЯ КОНСТРУКЦИИ МАШИНОСТРОИТЕЛЬНОЙ ДЕТАЛИ ДЛЯ ПОВЫШЕНИЯ ПРОЧНОСТИ
+MODIFICATION OF THE CONSTRUCTION OF THE MACHINE-BUILDING DETAIL FOR INCREASING STRENGTH
+
+РАСЧЁТ ШПИНДЕЛЯ НА ВИБРОУСТОЙЧИВОСТЬ
+THE VIBRATION RESISTANCE ANALYSIS OF THE SPINDEL
+
+ЦИФРОВОЕ ПРОТОТИПИРОВАНИЕ ПРИ ПРОЕКТИРОВАНИИ И МОДЕРНИЗАЦИИ КООРДИНАТОГРАФА ДО МНОГОФУНКЦИОНАЛЬНОГО СТАНКА С ЧПУ
+DIGITAL PROTOTYPING IN THE DESIGN AND MODERNIZATION OF COORDINATOGRAPH TO A MULTI-PURPOSE CNC MACHINE
+
+ОБЗОР ФИЛЬТРОВ СЕТЧАТЫХ ЖИДКОСТНЫХ ДРЕНАЖНЫХ СИСТЕМ, ОБОРУДОВАННЫХ СИСТЕМОЙ САМООЧИСТКИ
+OVERVIEW OF FILTERS OF NET FLUID DRAINAGE EQUIPPED WITH A SELF-CLEANING SYSTEM
+
+УКРЕПЛЕНИЕ ФЛАНЦА, ПРИВАРЕННОГО К КРЫШКЕ АППАРАТА, С ПОМОЩЬЮ РЕБЕР ЖЕСТКОСТИ
+FLANGE STRENGTHENING PRIVATED TO THE CAP WITH THE HELP OF A HARDENING RIB
+
+ОБЗОР СОВРЕМЕННОГО СОСТОЯНИЯ И ТЕНДЕНЦИИ РАЗВИТИЯ ГОЛОВОК ДЛЯ СОЭКСТРУЗИИ ПОЛИМЕРНЫХ МАТЕРИАЛОВ
+REVIEW OF MODERN CONDITION AND DEVELOPMENT TENDENCIES OF HEADS FOR CO-EXTRACTION OF POLYMERIC MATERIALS
+
+ПРИМЕНЕНИЕ МОДЕЛЬНО-ОРИЕНТИРОВАННОГО ПОДХОДА К ПРОЕКТИРОВАНИЮ УПРАВЛЯЮЩИХ УСТРОЙСТВ СИСТЕМ БЕЗОПАСНОСТИ ЗДАНИЯ В СРЕДЕ MATLAB-SIMULINK
+APPLICATION OF A MODEL-BASED APPROACH TO THECONTROL DESIGHN OF BUILDING SECURITY SYSTEMS DEVICES IN THE MATLAB-SEMULINK
+
+МЕТОД ВЫДЕЛЕНИЯ ТРЕНДОВ НА ОСНОВЕ ИТЕРАЦИОННОЙ АППРОКСИМАЦИИ
+TRЕND DETECTION METHOD BASED ON ITTERATIVE APROXIMATION
+
+АНАЛИЗ ЭФФЕКТИВНОСТИ ВЫДЕЛЕНИЯ ТРЕНДОВ В СИЛЬНО ЗАШУМЛЕННЫХ ВРЕМЕННЫХ РЯДАХ МЕТОДАМИ СЕРИЙ И ИНВЕРСИЙ
+ANALYSIS OF THE EFFICIENCY OF EXCRETION OF TRENDS IN STRONGLY NOISY TIME SERIES BY SERIES AND INVERSIONS METHODS
+
+ДЕКОМПОЗИЦИЯ БЛОКА РЕКТИФИКАЦИИ УСТАНОВКИ ИЗОМЕРИЗАЦИИ
+DECOMPOSITION OF THE RECTIFICATION MODULE OF ISOMERISATION PLANT
+
+ОПРЕДЕЛЕНИЕ ПРЕДПОЧТЕНИЙ ЧЕЛОВЕКА В СИСТЕМАХ “УМНЫЙ ДОМ”
+HUMAN PREFERENCES DEFINITION FOR “SMART HOUSE” SYSTEMS
+
+РАЗРАБОТКА БАЗЫ ЗНАНИЙ СИСТЕМЫ УПРАВЛЕНИЯ “УМНЫМ ДОМОМ”
+DEVELOPMENT OF THE KNOWLEDGE BASE FOR “SMART HOUSE” CONTROL SYSTEM
+
+РАЗРАБОТКА КОМПЬЮТЕРНОЙ МОДЕЛИ МУЛЬТИАГЕНТНОЙ СИСТЕМЫ УПРАВЛЕНИЯ “ИНТЕЛЛЕКТУАЛЬНЫМ ЗДАНИЕМ”
+MULTI-AGENT CONTROL SYSTEM FOR INTELLIGENT BUILDING DEVELOPMENT
+
+РАЗРАБОТКА КОНСТРУКЦИИ МОБИЛЬНОГО РОБОТА ДЛЯ ОБСЛУЖИВАНИЯ ИНЖЕНЕРНЫХ КОММУНИКАЦИЙ
+MOBILE ROBOT FOR MAINTENANCE OF ENGINEERING COMMUNICATIONS DESIGNING
+
+ИССЛЕДОВАНИЕ РАБОТЫ ТРУБОПРОВОДА КАТАЛИЗАТОРА УСТАНОВКИ КАТКРЕКИНГА НПЗ
+THE PIPELINE WORK CATALYST INSTALLATION CATRACKING REFINERY RESEARCH
+
+РАЗРАБОТКА ЭКСПЕРТНОЙ СИСТЕМЫ ДЛЯ УПРАВЛЕНИЯ “УМНЫМ ДОМОМ”
+EXPERT SYSTEM FOR CONTROL THE “SMART HOUSE” DEVELOPING
+
+ВЫБОР ОПТИМАЛЬНОГО ОТБОРА ПРОДУКТА ПРИ РЕКТИФИКАЦИИ МНОГОКОМПОНЕНТНОЙ СМЕСИ
+THE CHOICE OF OPTIMAL PRODUCT SELECTION BY RECTIFICATION OF A MULTICOMPONENT MIXTURE
+
+ОПТИМАЛЬНОЕ УПРАВЛЕНИЕ РЕКТИФИКАЦИОННОЙ СИСТЕМОЙ С РЕЦИКЛОМ
+THE OPTIMAL CONTROL OF A DISTILLATION SYSTEM WITH A RECYCLE
+
+АНАЛИЗ ВОЗМОЖНОСТИ ИСПОЛЬЗОВАНИЯ ДОБРОТНОСТИ ДЛЯ НАСТРОЙКИ СИСТЕМЫ РЕГУЛИРОВНИЯ МНОГОСВЯЗНЫХ ОБЪЕКТОВ
+THE ANALYSIS OF POSSIBILITY OF USING Q-FACTOR TO CONFIGURE THE CONTROL SYSTEMS OF MULTIVARIABLE OBJECT
+
+РАЗРАБОТКА МОДЕЛИ ПРОЦЕССА ПРОИЗВОДСТВЕННОГО КОНТРОЛЯ С ПРИМЕНЕНИЕМ МЕТОДОЛОГИИ IDEF0
+MODELING OF THE MANUFACTURING SUPERVISION PROCESS BY USING IDEF0 METHODOLOGY
+
+ПРОБЛЕМЫ ВНЕДРЕНИЯ КООРДИНАТНО-ИЗМЕРИТЕЛЬНЫХ МАШИН НА МАШИНОСТРОИТЕЛЬНЫХ ПРЕДПРИЯТИЯХ
+PROBLEMS OF INTRODUCTION OF COORDINATE MEASURING MACHINES FOR MACHINE-BUILDING ENTERPRISES
+
+ОПРЕДЕЛЕНИЕ УПРУГИХ ПЕРЕМЕЩЕНИЙ СТЕРЖНЕВОЙ КОНСТРУКЦИИ С ИСПОЛЬЗОВАНИЕМ ПРИНЦИПА ВОЗМОЖНЫХ ПЕРЕМЕЩЕНИЙ
+ESTIMATION OF ELASTIC DISPLACEMENT OF FRAMED STRUCTURE BY APPLYING THE VIRTUAL DISPLACEMENT PRINCIPLE
+
+СИСТЕМА ЗНАНИЙ КАК ЭЛЕМЕНТ ИНФОРМАЦИОННОГО ОБЕСПЕЧЕНИЯ ПРЕДПРИЯТИЯ
+KNOWLEDGE SYSTEM AS AN ELEMENT OF INFORMATION SUPPORT OF ORGANIZATION
+
+АНАЛИЗ МЕТРОЛОГИЧЕСКОГО ОБЕСПЕЧЕНИЯ ТЕХНОЛОГИЧЕСКОГО ПРОЦЕССА ПРОИЗВОДСТВА ЖЕЛЕЗОБЕТОННЫХ ИЗДЕЛИЙ НА ЭТАПЕ ФОРМОВАНИЯ
+ANALYSIS OF THE METROLOGICAL SUPPORT OF THE TECHNOLOGICAL PROCESS OF REINFORCED CONCRETE PRODUCTION AT THE MOLDING STAGE
+
+УПРАВЛЕНИЕ ПРОИЗВОДСТВОМ В ИНТЕГРИРОВАННОЙ ИНФОРМАЦИОННОЙ СРЕДЕ
+PRODUCTION MANAGEMENT IN INTEGRATED INFORMATION ENVIRONMENT
+
+АНАЛИЗ ТРЕБОВАНИЙ ЗАКОНОДАТЕЛЬНЫХ И НОРМАТИВНО-ТЕХНИЧЕСКИХ ДОКУМЕНТОВ В ОБЛАСТИ АККРЕДИТАЦИИ ИСПЫТАТЕЛЬНЫХ ЛАБОРАТОРИЙ
+ANALYSIS OF THE REQUIREMENTS OF NOMOTHETICAL AND REFERENCE DOCUMENTS IN THE FIELD OF TESTING LABORATORIES ACCREDITATION
+
+АНАЛИЗ СТАНДАРТОВ ГОСТ 21.204-13 И ГОСТ 21.408-2013
+ANALYSIS OF GOST 21.204-13 AND GOST 21.408-2013 STANDARDS
+
+РАЗРАБОТКА МЕТОДИКИ КАЛИБРОВКИ НА УРОВНЕМЕР
+DEVELOPMENT OF A CALIBRATION METHOD FOR THE LEVEL METER
+
+5 ИНСТРУМЕНТОВ МЕНЕДЖМЕНТА КАЧЕСТВА АВТОМОБИЛЬНОЙ ОТРАСЛИ
+5 TOOLS OF THE AUTOMOTIVE INDUSTRY QUALITY MANAGEMENT
+
+ОБ АКТУАЛИЗАЦИИ СТО «УПРАВЛЕНИЕ ДОКУМЕНТАЦИЕЙ» НА ПРИМЕРЕ ОАО «ЯРОСЛАВСКИЙ РАДИОЗАВОД»
+COMPANY-SPECIFIC STANDARD «DOCUMENT MANAGEMENT» UPDATING CASE STUDY OF OJSC «YAROSLAVL RADIOWORKS CORPORATION”
+
+РАЗРАБОТКА ДОКУМЕНТАЦИИ ДЛЯ ЦЗЛ НА ПРИМЕРЕ АО «ЯТУ ИМЕНИ В.Ю. ОРЛОВА»
+DEVELOPMENT OF DOCUMENTATION FOR CFL ON THE EXAMPLE OF JSC «YTU NAMED AFTER V.YU. ORLOV»
+
+РУКОВОДСТВО ПО КАЧЕСТВУ КАЛИБРОВОЧНОЙ ЛАБОРАТОРИИ
+CALIBRATION LABORATORY QUALITY MANUAL
+
+ЭКСПЕРИМЕНТАЛЬНЫЕ МЕТОДЫ ОПРЕДЕЛЕНИЯ ОСТАТОЧНЫХ НАПРЯЖЕНИЙ
+EXPERIMENTAL METHODS OF DETERMINING RESIDUAL STRESSES
+
+ВНЕДРЕНИЕ СИСТЕМЫ ЭНЕРГЕТИЧЕСКОГО МЕНЕДЖМЕНТА НА ОАО «РЫБИНСКГАЗСЕРВИС»
+ENERGY MANAGEMENT SYSTEMS IMPLEMENTATION AT «RYBINSKGASSERVICE» OJSC
+
+РАЗРАБОТКА МЕТОДИКИ КАЛИБРОВКИ НА МАНОМЕТР МТ-100
+CALIBRATION METHOD FOR MT-100 PRESSURE GAUGE TECHNIQUE DEVELOPMENT
+
+К ВОПРОСУ ОБ ОБЕСПЕЧЕНИИ БЕЗОПАСНОСТИ ДОРОЖНОГО ДВИЖЕНИЯ ПРИ ЭКСПЛУАТАЦИИ АВТОТРАНСПОРТНЫХ СРЕДСТВ
+THE ISSUE OF ROAD SAFETY OF VEHICULAR TRAFFIC
+
+УПРАВЛЕНИЕ ИНТЕГРИРОВАННОЙ СИСТЕМОЙ МЕНЕДЖМЕНТА
+CONTROL OF INTEGRATED MANAGEMENT SYSTEM
+
+АКТУАЛИЗАЦИЯ ДОКУМЕНТАЦИИ ПО ИЗГОТОВЛЕНИЮ МОТОРНО-ОСЕВЫХ ВКЛАДЫШЕЙ
+DOCUMENTATION REVISION FOR THE MOTOR-AXIAL BEARING MANUFACTURING
+
+ДОКУМЕНТАЦИОННОЕ СОПРОВОЖДЕНИЕ МЕТРОЛОГИЧЕСКОГО ОБЕСПЕЧЕНИЯ ПРОИЗВОДСТВА
+DOCUMENTATION REVISION FOR THE MOTOR-AXIAL BEARING MANUFACTURING
+
+АНАЛИЗ ТРЕБОВАНИЙ К СТРУКТУРЕ ЖИЗНЕННОГО ЦИКЛА
+ANALYSIS OF REQUIREMENTS TO THE STRUCTURE OF THE LIFE CYCLE
+
+О РАЗВИТИИ ТЕОРИИ ИЗГИБА
+ABOUT THE BENDING MOMENT THEORY EVOLUTION
+
+ПРИНЦИПЫ УСТОЙЧИВОГО РАЗВИТИЯ БЮДЖЕТНОЙ ОРГАНИЗАЦИИ
+BUDGET ORGANIZATION SUSTAINABLE DEVELOPMENT PRINCIPLES
+
+ИСПОЛЬЗОВАНИЕ СТАНДАРТИЗАЦИИ ПРИ РАЗРАБОТКЕ МЕТОДИК ВЫПОЛНЕНИЯ ИЗМЕРЕНИЙ
+USE OF STANDARDIZATION IN THE DEVELOPMENT OF MEASUREMENT IMPLEMENTATION TECHNIQUES
+
+АНАЛИЗ ТРЕБУЕМОГО МЕТРОЛОГИЧЕСКОГО ОБЕСПЕЧЕНИЯ ДЛЯ ОЦЕНКИ СОСТОЯНИЯ ИЗМЕРЕНИЙ В ИСПЫТАТЕЛЬНОЙ ЛАБОРАТОРИИ
+ANALYSIS OF THE REQUIRED METROLOGICAL SUPERVISION FOR EVALUATING THE CONDITION OF MEASUREMENTS IN THE TESTING LABORATORY
+
+СОВРЕМЕННЫЕ ТРЕБОВАНИЯ К ОЦЕНКЕ СОСТОЯНИЯ ИЗМЕРЕНИЙ ИСПЫТАТЕЛЬНОЙ ЛАБОРАТАРИИ
+MODERN REQUIREMENTS TO METROLOGICAL STATE VALUE OF TESTING LABORATORIES
+
+РАЗРАБОТКА МЕТОДИКИ ИЗМЕРЕНИЯ ОБЪЕМА И МАССЫ НЕФТИ В РЕЗЕРВУАРЕ
+THE DEVELOPMENT OF TECHNIQUE OF MEASUREMENT OF VOLUME AND MASS OF CRUDE OIL IN THE TANK
+
+ИССЛЕДОВАНИЯ ВЛИЯНИЯ МОЩНОСТИ ЛАЗЕРА НА СВОЙСТВА УПРОЧНЯЕМОГО СЛОЯ СРЕДНЕУГЛЕРОДИСТОЙ ЛЕГИРОВАННОЙ СТАЛИ ПРИ ЛАЗЕРНОЙ ЗАКАЛКЕ
+THE EFFECT OF LASER POWER ON THE HARDFACED LAYER MEDIUM CARBON ALLOY TREATED STEELS DURING LASER HARDENING PROPERTIES RESEARH
+
+АНАЛИЗ РАЗРУШЕНИЯ КОЛЕЦ ПОДШИПНИКОВ КАЧЕНИЯ ИЗ СТАЛИ МАРКИ ШХ15
+ROLLING BEARINGS RINGS IN STEEL GRADE SHKH15 FAILURE ANALYSIS
+
+АНАЛИЗ ОПТИМАЛЬНОГО РЕЖИМА ГАЗОЭЛЕКТРИЧЕСКОЙ ДУГОВОЙ СВАРКИ СТАЛИ МАРКИ 15ХСНД
+THE OPTIMAL MODE OF GAS-ARC WELDING IN STEEL GRADE 15KHSND ANALYSIS
+
+ЗНАЧЕНИЕ АВТОМАТИЗАЦИИ ТЕРМИЧЕСКОЙ ОБРАБОТКИ В ПРОИЗВОДСТВЕ
+THE IMPORTANCE OF HEAT TREATMENT AUTOMATION IN PRODUCTION
+
+ОБ ИСПОЛЬЗОВАНИИ ИНДЕКСА QRM ДЛЯ СОКРАЩЕНИЯ ВРЕМЕНИ РЕАГИРОВАНИЯ НА ИЗМЕНЕНИЯ В ПРОИЗВОДСТВЕ
+THE USE OF QRM INDEX TO REDUCE RESPONSE TIME IN MODIFICATION OF MANUFACTURING
+
+ВЛИЯНИЕ ТЕМПЕРАТУРЫ НА ПРОЧНОСТЬ БЕТОНА
+THE ACTION OF TEMPERATURE ON THE CONCRETE STRENGTH
+
+ЛИТЬЕ ДЕТАЛЕЙ СЛОЖНОЙ ФОРМЫ С ИСПОЛЬЗОВАНИЕМ АДДИТИВНЫХ ТЕХНОЛОГИЙ
+COMPLEX PARTS WITH THE ADDITIVE TECHNOLOGIES IN CASTING INDUSTRY
+
+ОСНОВНЫЕ ПРИНЦИПЫ ФЛОКЕНООБРАЗОВАНИЯ В СТАЛЬНЫХ ИЗДЕЛИЯХ
+BASIC PRINCIPLES OF STEEL PRODUCTS FLOKEN FORMATION
+
+ФУЛЛЕРЕНЫ И ПЕРСПЕКТИВЫ ИХ ИСПОЛЬЗОВАНИЯ
+FULLERENES AND PROSPECTS OF THEIR USE
+
+СТАНДАРТИЗАЦИЯ И ЕЁ РОЛЬ В ПОВЫШЕНИИ КОНКУРЕНТОСПОСОБНОСТИ МЕТАЛЛУРГИЧЕСКОЙ ОТРАСЛИ
+STANDARDIZATION AND ITS ROLE IN COMPETITIVE GROWTH OF THE METAL INDUSTRY
+
+РАЗРАБОТКА ДОПОЛНИТЕЛЬНОЙ ОБРАЗОВАТЕЛЬНОЙ ПРОГРАММЫ «МИР СОВРЕМЕННОЙ ИНЖЕНЕРИИ»
+ADDITIONAL EDUCATIONAL PROGRAM «WORLD OF MODERN ENGINEERING» DEVELOPMENT
+
+РЕШЕНИЕ ОТКРЫТЫХ ТВОРЧЕСКИХ ЗАДАЧ С ИСПОЛЬЗОВАНИЕМ ИНСТРУМЕНТОВ ТРИЗ
+THE OPEN CREATIVE TASKS WITH USE OF THE TRIZ TOOLS SOLUTION
+
+ИНФОРМАЦИОННОЕ ОБЕСПЕЧЕНИЕ УЧЕБНОГО ПРОЦЕССА ВУЗА (НА ПРИМЕРЕ НАУЧНО-ТЕХНИЧЕСКОЙ БИБЛИОТЕКИ ЯРОСЛАВСКОГО ГОСУДАРСТВЕННОГО ТЕХНИЧЕСКОГО УНИВЕРСИТЕТА)
+INFORMATION SUPPORT OF THE EDUCATIONAL PROCESS OF THE UNIVERSITY (THROUGH THE EXAMPLE OF SCIENTIFIC LIBRARY OF YAROSLAVL STATE TECHNICAL UNIVERSITY)
+
+ПРИМЕНЕНИЕ ВЕБИНАРОВ В УЧЕБНОМ ПРОЦЕССЕ
+APPLICATION OF WEBINARS IN THE EDUCATIONAL PROCESS
+
+РАЗРАБОТКА ТЕСТОВЫХ ЗАДАНИЙ В SUNRAV TESTOFFICEPRO И ПРИМЕНЕНИЕ ИХ В ЭЛЕКТРОННЫХ УЧЕБНИКАХ
+TASKS TEST DEVELOPMENT BY SUNRAV TESTOFFICEPRO AND THEIR APPLICATION IN ELECTRONIC TEXTBOOKS
+
+ВВЕДЕНИЕ АДДИТИВНЫХ ТЕХНОЛОГИЙ В СИСТЕМУ ТЕХНОЛОГИЧЕСКОЙ ПОДГОТОВКИ ШКОЛЬНИКОВ
+THE INTRODUCTION OF ADDITIVE TECHNOLOGIES IN SYSTEM OF TECHNOLOGICAL PREPARATION OF SCHOOLCHILDS
+
+РЕШЕНИЕ ПРОБЛЕМЫ ПРОФОРИЕНТАЦИИ ДЕТЕЙ В ГОРОДЕ ЯРОСЛАВЛЕ НА ПРИМЕРЕ ПЛОЩАДКИ «КИДБУРГ»
+THE SOLUTION TO THE PROBLEM OF VOCATIONAL GUIDANCE OF CHILDREN IN THE CITY OF YAROSLAVL ON THE EXAMPLE OF THE SITE "KIDBURG»
+
+РАЗРАБОТКА ДИДАКТИЧЕСКОГО ОБЕСПЕЧЕНИЯ ПО ДИСЦИПЛИНЕ АСТРОНОМИЯ ДЛЯ СРЕДНЕЙ ШКОЛЫ
+DEVELOPMENT OF DIDACTIC PROVISION IN THE DISCIPLINE OF ASTRONOMY FOR SECONDARY SCHOOL
+
+АРХИТЕКТУРА ПАМЯТИ
+MEMORIAL ARCHITECTURE
+
+ПОДХОДЫ К РЕНОВАЦИИ ТЕРРИТОРИЙ СОВЕТСКИХ АЛЬПЛАГЕРЕЙ
+APPROACHES TO THE RENOVATION OF THE SOVIET MOUNTAINEERING CAMP TERRITORIES
+
+ПРОВЕРКА ПРОЧНОСТИ И ПОДБОР СЕЧЕНИЯ БАЛОК
+BEAMS STRENGTH AND DIMENSIONING TEST
+
+АРХИТЕКТУРА В СПЕКУЛЯТИВНЫХ ПРОСТРАНСТВАХ АНТИУТОПИЙ
+SPECULATIVE SPACE ARCHITECTURE IN DYSTOPIAS
+
+МУЗЕЙНО-МЕМОРИАЛЬНЫЙ КОМПЛЕКС "МОЛОГА"
+MEMORIAL MUSEUM "MOLOGA"
+
+АРХИТЕКТУРНЫЙ РИСУНОК
+ARCHITECTURAL DRAWING
+
+АРХИТЕКТУРА АГРОТУРИСТИЧЕСКИХ КОМПЛЕКСОВ
+ARCHITECTURE OF RURAL TOURISM COMPLEXES
+
+ПРОЕКТ ДЕТСКОГО ФИЗКУЛЬТУРНО-ОЗДОРОВИТЕЛЬНОГО КОМПЛЕКСА В БАЛАШИХЕ
+THE PROJECT OF SPORTS AND RECREATION COMPLEX FOR CHILDREN IN BALASHIKHA
+
+РЕГЕНЕРАЦИЯ ИСТОРИЧЕСКОГО ЦЕНТРА ГОРОДА ПОШЕХОНЬЕ
+REGENERATION OF POSHEKHONYE'S HISTORICAL CENTER
+
+ПУТИ РАЗВИТИЯ СОВРЕМЕННОЙ АРХИТЕКТУРЫ ИСЛАМА
+WAYS OF THE DEVELOPMENT OF MODERN ISLAMIC ARCHITECTURE
+
+АРХИТЕКТУРА ГОРНЫХ ПРИЮТОВ
+ARCHITECTURE OF MOUNTAIN SHELTERS
+
+ИДЕИ СОВЕТСКОГО АВАНГАРДА И СОВРЕМЕННАЯ АРХИТЕКТУРА
+IDEAS OF SOVIET AVANT-GARDE AND MODERN ARCHITECTURE
+
+КОНВЕРСИЯ ТЕРРИТОРИИ ТУТАЕВСКОЙ ЛЬНЯНОЙ МАНУФАКТУРЫ
+CONVERSION OF THE TERRITORY OF THE TUTAEV FLAX FACTORY
+
+ТРАДИЦИОННАЯ АРХИТЕКТУРА ВЕРХНЕЙ СВАНЕТИИ
+TRADITIONAL ARCHITECTURE OF UPPER SVANETI
+
+ПРОБЛЕМЫ СОВРЕМЕННЫХ ПАССАЖИРСКИХ ТЕРМИНАЛОВ АЭРОПОРТОВ И ПОПЫТКИ ИХ РЕШЕНИЯ
+PROBLEMS OF MODERN PASSENGER AIRPORT TERMINALS AND ATTEMPTS AT THEIR SOLUTION
+
+МОДА, ВДОХНОВЛЕННАЯ АРХИТЕКТУРОЙ
+FASHION INSPIRED BY ARCHITECTURE
+
+ВЛИЯНИЕ ПРОТИВОГОЛОЛЕДНЫХ РЕАГЕНТОВ НА ГАЗОННУЮ ТРАВУ
+INFLUENCE THAWING REAGENTS HAVE ON THE LAWN GRASS
+
+РАЗРАБОТКА АППАРАТА ДЛЯ ОЧИСТКИ ГАЗОВ
+THE GASES PURIFIER DEVELOPMENT
+
+ВЛИЯНИЕ ЖИДКИХ ПРОТИВОГОЛОЛЁДНЫХ РЕАГЕНТОВ НА БЕЗОПАСНОСТЬ ДВИЖЕНИЯ НА АВТОМОБИЛЬНЫХ ДОРОГАХ
+INFLUENCE LIQUID THAWING REAGENTS HAVE ON THE SAFETY OF MOTION ON HIGHWAYS
+
+ВЛИЯНИЕ ПРИМЕНЕНИЯ ТВЕРДЫХ ХИМИЧЕСКИХ ПРОТИВОГОЛОЛЕДНЫХ РЕАГЕНТОВ НА БЕЗОПАСНОСТЬ АВТОМОБИЛЬНЫХ ДОРОГ
+INFLUENCE SOLID THAWING REAGENTS HAVE ON THE SAFETY OF MOTION ON HIGHWAYS
+
+ВЛИЯНИЕ ПРИМЕНЕНИЯ ФРИКЦИОННЫХ ПРОТИВОГОЛОЛЕДНЫХ МАТЕРИАЛОВ НА БЕЗОПАСНОСТЬ АВТОМОБИЛЬНЫХ ДОРОГ
+INFLUENCE FRICTIONAL THAWING REAGENTS HAVE ON THE SAFETY OF MOTION ON HIGHWAYS
+
+МЕТОДЫ ОБЪЕМНОГО ПРОЕКТИРОВАНИЯ, ОСНОВАННЫЕ НА ПОДБОРЕ ГРАНУЛОМЕТРИЧЕСКОГО СОСТАВА СМЕСИ ПРИ ХОЛОДНОМ РЕСАЙКЛИНГЕ
+VOLUMETRIC DESIGN PROCESS METHODS BASED ON THE SELECTION OF GRANULOMETRIC COMPOSITION OF A MIXTURE DURING COLD RECYCLING
+
+СОВЕРШЕНСТВОВАНИЕ ТЕХНОЛОГИИ ИЗГОТОВЛЕНИЯ АСФАЛЬТОБЕТОННОЙ СМЕСИ
+IMPROVING THE TECHNOLOGY OF ASPHALT-CONCRETE MIXTURE PRODUCTION
+
+ПРИМЕНЕНИЕ ГРАНУЛИРОВАННОГО ХОЛОДНОГО АСФАЛЬТОБЕТОНА ДЛЯ РЕМОНТА ПОКРЫТИЙ ПРОЕЗЖЕЙ ЧАСТИ АВТОМОБИЛЬНЫХ ДОРОГ
+APPLICATION OF GRANULATED COLD ASPHALT CONCRETE FOR REPAIRING COATINGS OF ROUTES OF AUTOMOBILE ROADS
+
+ПОДБОР СОСТАВА АСФАЛЬТОГРАНУЛОБЕТОНА ПРИ ХОЛОДНОМ РЕСАЙКЛИНГЕ
+SELECTION OF ASPHALT GRANULAR CONCRETE COMPOSITION DURING COLD RECYCLING
+
+ДИСКРЕТНЫЙ ПОДХОД К УПРАВЛЕНИЮ ПОТОКОМ ДЛЯ БОРЬБЫ С ЯВЛЕНИЕМ СЕГРЕГАЦИИ
+THE DISCRETE APPROACH TO FLOW CONTROL FOR RESISTANCE TO THE PHENOMENON OF SEGREGATION
+
+ТЕНДЕНЦИИ РАЗВИТИЯ ДОРОЖНЫХ ОГРАЖДЕНИЙ
+TRENDS IN DEVELOPMENT OF ROAD PROTECTION EQUIPMENT
+
+ОТЛИЧИЯ ТРАДИЦИОННОЙ ТЕХНОЛОГИИ ПРОЕКТИРОВАНИЯ НЕЖЕСТКИХ ДОРОЖНЫХ ОДЕЖД ОТ ТЕХНОЛОГИИ ПО ПНСТ 265-018
+DIFFERENCES BETWEEN TRADITIONAL TECHNOLOGY OF DESIGNING THE FLEXIBLE ROAD PAVEMENT FROM PNST 265-018 TECHNOLOGY
+
+ВЛИЯНИЕ СВОЙСТВ ФОСФОГИПСА НА ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ ГРАНУЛИРОВАННОГО АСФАЛЬТОБЕТОНА С ИСПОЛЬЗОВАНИЕМ ПОЛИЭТИЛЕНТЕРЕФТАЛАТНОГО ПОЛИМЕРНОГО МОДИФИКАТОРА БИТУМА
+INFLUENCE OF PHOSPHOGIPS PROPERTIES ON TECHNICAL CHARACTERISTICS OF GRANULATED ASPHALT CONCRETE WITH THE USE OF POLYETHYLENEREPHTHALATE POLYMER BITUMEN MODIFIER
+
+ПРИМЕНЕНИЕ ОКАТАННОГО АСФАЛЬТОГРАНУЛЯТА В КАЧЕСТВЕ ХОЛОДНОГО АСФАЛЬТОБЕТОНА
+APPLICATION OF ROUNDED ASPHALT GRANULATE AS A COLD-LAY ASPHALT CONCRETE
+
+ПОРТЛАНДЦЕМЕНТ КАК СТАБИЛИЗАТОР ГРУНТА. ВЛИЯНИЕ СОДЕРЖАНИЯ НА СВОЙСТВА ГЛИНИСТЫХ ГРУНТОВ
+PORTLAND CEMENT AS A SOIL BINDER. INFLUENCE OF CONTENT ON FORTIFIED CLAY SOIL PROPERTIES
+
+ПРИМЕНЕНИЕ МОДИФИЦИРОВАННОГО ПОЛИЭТИЛЕНТЕРЕФТАЛАТОМ БИТУМА В АСФАЛЬТОБЕТОНЕ
+APPLICATION OF MODIFIED POLYETHYLNETEREPHTHALATE BITUMEN IN ASPHALT CONCRETE
+
+ПРИМЕНЕНИЕ ГРАНУЛЯТА В АСФАЛЬТОБЕТОНЕ
+APPLICATION OF GRANULATE IN ASPHALT CONCRETE
+
+УСОВЕРШЕНСТВОВАНИЕ НОРМАТИВНЫХ ТРЕБОВАНИЙ К АСФАЛЬТОБЕТОНУ ПО ПНСТ 184-2016
+IMPROVING THE REGULATORY REQUIREMENTS FOR ASPHALT CONCRETE ACCORDING TO PNST 184-2016 TECHNOLOGY
+
+ОПИСАНИЕ ПРОЦЕССА СМЕШИВАНИЯ СЫПУЧИХ МАТЕРИАЛОВ В НОВОМ АППАРАТЕ НЕПРЕРЫВНОГО ДЕЙСТВИЯ
+THE BULKBLENDING DESCRIPTION IN THE NEW CONTINUOUS ACTION DEVICE
+
+ПРИМЕНЕНИЕ ГРУНТОИЗВЕСТКОВОЙ СМЕСИ В ДОРОЖНОМ СТРОИТЕЛЬСТВЕ
+THE USE OF PRIMER-SLAKED LIME MIX IN ROAD CONSTRUCTION
+
+РЕКОНСТРУКЦИЯ МОСТОВ С ИСПОЛЬЗОВАНИЕМ КОМПОЗИТНЫХ МАТЕРИАЛОВ С ЦЕЛЬЮ ПОВЫШЕНИЯ ГРУЗОПОДЪЕМНОСТИ
+RECONSTRUCTION OF BRIDGES USING COMPOSITE MATERIALS TO INCREASE THE LOAD CAPACITY
+
+СТАТИСТИЧЕСКИЙ АНАЛИЗ РЕСАЙКЛЕРОВ
+STATISTICAL ANALYSIS OF RECYCLERS
+
+МЕТОД ПРОЕКТИРОВАНИЯ ОБЪЕМНОГО СОСТАВА ПО МЕТОДОЛОГИИ «SUPERPAVE»
+METHOD OF DESIGNING A SURFACE COMPOSITION BY SUPERPAVE METHODOLOGY
+
+ПРИМЕНЕНИЕ ГЕОРЕШЕТОК В КОНСТРУКЦИЯХ ДОРОЖНЫХ ОДЕЖД
+APPLICATION OF GEOWEBS IN ROAD PAVEMENT CONSTRUCTION
+
+ОСОБЕННОСТИ ЗИМНЕГО СОДЕРЖАНИЯ ГОРОДСКИХ ДОРОГ
+FEATURES OF THE WINTER CONTENT OF CITY ROADS
+
+СРАВНИТЕЛЬНЫЙ АНАЛИЗ МЕТОДОВ ПРОЕКТИРОВАНИЯ АСФАЛЬТОБЕТОННЫХ СМЕСЕЙ ПО МЕТОДОЛОГИИ MARSHALL И SUPERPAVE
+COMPARATIVE ANALYSIS OF METHODS OF DESIGNING ASPHALT CONCRETE MIXTURES ACCORDING TO THE METHODOLOGY OF MARSHALL AND SUPERPAVE
+
+СРАВНЕНИЕ ПОКАЗАТЕЛЕЙ БИТУМОЕМКОСТИ НЕАКТИВИРОВАННОГО ИЗВЕСТНЯКОВОГО МИНЕРАЛЬНОГО ПОРОШКА, ОТХОДОВ ГАЛЬВАНИЧЕСКОГО ПРОИЗВОДСТВА И ИХ СМЕСЕЙ
+COMPARISON OF THE INDICATORS OF THE BITUMEN POTENTIAL OF NONACTIVATED LIMESTONE MINERAL POWDER, WASTE OF GALVANIC PRODUCTION AND THEIR MIXTURES
+
+ЭКОСИСТЕМНЫЕ УСЛУГИ В СОСТАВЕ ОЦЕНКИ ВОЗДЕЙСТВИЯ НА ОКРУЖАЮЩУЮ СРЕДУ
+ECOSYSTEM SERVICES CONSTITUTE TO ENVIRONMENTAL IMPACT ASSESSMENT
+
+ГЕНЕЗИС ЭКОЛОГИЧЕСКИХ ДОКЛАДОВ В КОНТЕКСТЕ УСТОЙЧИВОГО РАЗВИТИЯ ТЕРРИТОРИЙ
+GENESIS OF ENVIRONMENTAL REPORTS IN THE CONTEXT OF SUSTAINABLE DEVELOPMENT OF TERRITORIES
+
+ОПТИМАЛЬНОЕ ПРОЕКТИРОВАНИЕ ЭЛЕМЕНТОВ КОНСТРУКЦИЙ
+OPTIMAL DESIGN OF STRUCTURAL COMPONENTS
+
+УГРОЗЫ СНИЖЕНИЯ ВОДНОГО ПОТЕНЦИАЛА РОССИИ, АНТРОПОГЕННЫЕ И ПРИРОДНЫЕ ФАКТОРЫ
+THE THREAT OF DECREASING WATER POTENTIAL OF RUSSIA, MAN-MADE AND NATURAL FACTORS
+
+ИЗМЕНЕНИЕ КАЧЕСТВА ВОДЫ В ВОЛГЕ ЗА 2009-2018 ГОДЫ
+CHANGE OF WATER QUALITY IN THE VOLGA FOR 2009 - 2018
+
+МЕРОПРИЯТИЯ ПО ОХРАНЕ ОКРУЖАЮЩЕЙ СРЕДЫ ПРИ РЕКОНСТРУКЦИИ ПЛОТИНЫ В ПОС. ВОХМА КОСТРОМСКОЙ ОБЛАСТИ
+MEASURES FOR ENVIRONMENTAL PROTECTION DURING RECONSTRUCTION OF THE DAM IN THE VILLAGE OF VOKHMA, KOSTROMA REGION
+
+О КАЧЕСТВЕ ПОДЗЕМНОЙ ВОДЫ В ПЕРЕСЛАВСКОМ МР ЯРОСЛАВСКОЙ ОБЛАСТИ
+ABOUT THE QUALITY OF UNDERGROUND WATERS IN THE PERESLAVSKY MUNICIPAL DISTRICT OF THE YAROSLAVL OBLAST
+
+РАСЧЕТ ПРОЦЕССОВ ОХЛАЖДЕНИЯ В ПРЯМОТОЧНЫХ РАСПЫЛИТЕЛЬНЫХ ТЕПЛО-МАССООБМЕННЫХ АППАРАТАХ ДЛЯ ОХЛАЖДЕНИЯ ТЕХНОЛОГИЧЕСКИХ ЖИДКОСТЕЙ
+CALCULATION OF COOLING PROCESSES IN HEAT AND MASS TRANSFER FLOW OF A SPRAY APPARATUS FOR COOLING FLUIDS
+
+ТЕПЛО-МАССООБМЕН В ПРЯМОТОЧНЫХ РАСПЫЛИТЕЛЬНЫХ АППАРАТАХ ДЛЯ ОХЛАЖДЕНИЯ ОБОРОТНОЙ ВОДЫ
+HEAT AND MASS TRANSFER IN A PARALLEL FLOW SPRAY APPARATUS FOR COOLING CIRCULATING WATER
+
+ГИДРОДИНАМИКА И ТЕПЛО-МАССООБМЕН В ПРЯМОТОЧНЫХ РАСПЫЛИТЕЛЬНЫХ АППАРАТАХ ДЛЯ АЭРАЦИИ ПРИРОДНЫХ И СТОЧНЫХ ВОД
+
+THE HYDRODYNAMICS AND HEAT AND MASS EXCHANGE IN DIRECT-FLOW SPRAY DEVICES FOR AERATION OF NATURAL AND WASTE WATERS
+
+ДЕКАРБОНИЗАЦИЯ ПРИРОДНЫХ ВОД В СИСТЕМАХ ВОДОПОДГОТОВКИ В ПРЯМОТОЧНЫХ РАСПЫЛИТЕЛЬНЫХ АППАРАТАХ
+DECARBONIZATION OF NATURAL WATER IN WATER TREATMENT SYSTEMS IN DIRECT-FLOW SPRAY DEVICES
+
+ДЕАЭРАЦИЯ ВОДЫ В СИСТЕМАХ ВОДОПОДГОТОВКИ В ПРЯМОТОЧНЫХ РАСПЫЛИТЕЛЬНЫХ АППАРАТАХ
+DEAERATION OF WATER IN WATER TREATMENT SYSTEMS IN DIRECT-FLOW SPRAY DEVICES
+
+ЭКСПРЕСС-АНАЛИЗ КАЧЕСТВА СМЕСЕЙ СЫПУЧИХ СРЕД
+RAPID QUALITY TEST OF GRANULAR MEDIA MIXTURES
+
+ОСОБЕННОСТИ ПРИМЕНЕНИЯ ПОЛОЖЕНИЙ СП 296.1325800.2017 В РАСЧЕТАХ НА ПРОГРЕССИРУЮЩИЕ ОБРУШЕНИЯ
+FEATURES OF THE APPLICATION OF THE PROVISIONS OF THE SP 296.1325800.2017 IN THE CALCULATION FOR PROGRESSIVE COLLAPSE
+
+АНАЛИЗ СОВМЕСТНОЙ РАБОТЫ НЕСУЩИХ ЭЛЕМЕНТОВ КРОВЛИ СО СТРОПИЛЬНЫМИ КОНСТРУКЦИЯМИ В ЗДАНИЯХ СО СТАЛЬНЫМ КАРКАСОМ
+ANALYSIS OF JOINT WORK OF BEARING ELEMENTS OF THE ROOF WITH TRUSS STRUCTURES IN BUILDINGS WITH A STEEL FRAME
+
+НЕЛИНЕЙНОСТЬ В РАБОТЕ КОНСТРУКЦИЙ. УЧЕТ ГЕОМЕТРИЧЕСКОЙ НЕЛИНЕЙНОСТИ В РАСЧЕТАХ МЕТАЛЛИЧЕСКИХ КОНСТРУКЦИЙ
+THE NON-LINEARITY IN THE DESIGNS. THE ACCOUNT OF GEOMETRICAL NON-LINEARITY IN THE CALCULATION OF METAL CONSTRUCTIONS
+
+АНАЛИЗ ВАРИАНТОВ РАСЧЕТА ФУНДАМЕНТОВ, УСТРОЕННЫХ НА СЛАБЫХ ГРУНТАХ
+ANALYSIS OF OPTIONS FOR CALCULATING THE FOUNDATIONS BUILT ON WEAK SOILS
+
+ОПРЕДЕЛЕНИЕ КОЭФФИЦИЕНТА НЕОДНОРОДНОСТИ СЫПУЧИХ СМЕСЕЙ
+DETERMINATION OF THE COEFFICIENT OF THE BULK MIXTURES INHOMOGENEITY
+
+ВИДЫ УСИЛЕНИЯ ИЗГИБАЕМЫХ ЖЕЛЕЗОБЕТОННЫХ КОНСТРУКЦИЙ
+THE TYPES OF STRENGTHENING OF FLEXIBLE REINFORCED CONCRETE STRUCTURES
+
+АНАЛИЗ ВЛИЯНИЯ ЖЕСТКОСТИ ОТДЕЛЬНЫХ ЭЛЕМЕНТОВ НА ПЕРЕРАСПРЕДЕЛЕНИЕ УСИЛИЙ В МОНОЛИТНОМ ЖЕЛЕЗОБЕТОННОМ КАРКАСЕ
+ANALYSIS OF THE EFFECT OF HARDNESS OF INDIVIDUAL ELEMENTS ON THE REDISTRIBUTION OF EFFORTS IN THE MONOLITHIC REINFORCED CARBON
+
+АНАЛИЗ НАПРЯЖЕННО-ДЕФОРМИРОВАННОГО СОСТОЯНИЯ ПОДКРАНОВЫХ КОНСТРУКЦИЙ В ЗДАНИЯХ СО СТАЛЬНЫМ КАРКАСОМ
+
+ANALYSIS OF STRESS-STRAIN STATE OF CRANE STRUCTURES IN BUILDINGS WITH STEEL FRAME
+
+УСИЛЕНИЕ ЖЕЛЕЗОБЕТОННЫХ КОНСТРУКЦИЙ КОМПОЗИТНЫМИ МАТЕРИАЛАМИ
+STRENGTHENING REINFORCED CONCRETE STRUCTURES WITH COMPOSITE MATERIALS
+
+АРКА НАД ЧЕРНОБЫЛЬСКИМ ЭНЕРГОБЛОКОМ
+THE ARCH OVER THE CHERNOBYL POWER UNIT
+
+ДЕРЕВЯННЫЙ ГЕОДЕЗИЧЕСКИЙ КУПОЛ
+THE WOODEN GEODESIC DOME
+
+ИССЛЕДОВАНИЕ И РАСЧЕТ ЭЛЕМЕНТОВ КАРКАСА АДМИНИСТРАТИВНОГО ЗДАНИЯ В Г. ПЕРЕСЛАВЛЬ-ЗАЛЕССКИЙ С УЧЕТОМ ПУЛЬСАЦИОННОЙ СОСТАВЛЯЮЩЕЙ ВЕТРОВОЙ НАГРУЗКИ
+RESEARCH AND CALCULATION OF ELEMENTS OF THE FRAMEWORK OF THE ADMINISTRATIVE BUILDING IN PERESLAVL-ZALESSKY TAKING INTO ACCOUNT THE PULSATIVE COMPONENT OF WIND LOAD
+
+РЕСТАВРАЦИЯ И ВОССОЗДАНИЕ КУПОЛОВ ПАМЯТНИКОВ АРХИТЕКТУРЫ
+THE RESTORATION OF THE DOMES OF THE MONUMENTS
+
+УЧЕТ ТЕМПЕРАТУРНО-КЛИМАТИЧЕСКИХ ВОЗДЕЙСТВИЙ ПРИ РАСЧЕТЕ КИРПИЧНОГО ЗДАНИЯ НА СВАЙНОМ ФУНДАМЕНТЕ
+TAKING INTO ACCOUNT THE TEMPERATURE AND CLIMATIC EFFECTS IN THE PROPORTIONING OF A BRICK BUILDING ON PILED FOUNDATION
+
+КОНТРОЛЬ КАЧЕСТВА ПРИ ПРОЦЕССАХ СМЕШЕНИЯ
+QUALITY CONTROL DURING MIXING PROCESSES
+
+ОСОБЕННОСТИ КОНСТРУКЦИЙ ЭНЕРГОЭФФЕКТИВНОГО ДОМА «ГЕЛИОТРОП»
+DESIGN FEATURES OF ENERGY EFFICIENT HOUSE «HELIOTROP»
+
+ИССЛЕДОВАНИЕ НАПРЯЖЕННО-ДЕФОРМИРОВАННОГО СОСТОЯНИЯ ЗДАНИЯ В ПРОЦЕССЕ ЕГО ВОЗВЕДЕНИЯ С УЧЕТОМ ИЗМЕНЕНИЯ СВОЙСТВ ГРУНТОВОГО ОСНОВАНИЯ
+THE RESEARCH OF THE STRAIN-STRESS STATE OF A BUILDING DURING THE BUILDING PROCESS FACTORING IN THE EARTH FOUNDATION PROPERTIES
+
+ИССЛЕДОВАНИЕ ВЛИЯНИЯ СОБСТВЕННЫХ КОЛЕБАНИЙ НА НАПРЯЖЕННО-ДЕФОРМИРОВАННОЕ СОСТОЯНИЕ ВЫСОТНОГО СООРУЖЕНИЯ
+THE RESEARCH OF THE EFFECT OF NATURAL VIBRATIONS ON THE STRESS-STRAIN STATE OF A HIGH-RISE STRUCTURE
+
+СПОСОБЫ ПОВЫШЕНИЯ ЭФФЕКТИВНОСТИ НАВЕСНЫХ ВЕНТИЛИРУЕМЫХ ФАСАДОВ В ГРАЖДАНСКОМ СТРОИТЕЛЬСТВЕ
+METHODS OF INCREASING THE EFFICIENCY OF HINGED VENTILATED FACADES IN CIVIL CONSTRUCTION
+
+ИСТОРИЧЕСКИЙ ОБЗОР СТАЛЬНЫХ РАМ ПЕРЕМЕННОГО СЕЧЕНИЯ И ИХ ПРИМЕНИМОСТЬ В СТРОИТЕЛЬСТВЕ
+HISTORICAL REVIEW OF VARIABLE SECTION STEEL FRAMES AND THEIR APPLICABILITY IN CONSTRUCTION
+
+ИССЛЕДОВАНИЕ ЧАСТОТ СОБСТВЕННЫХ КОЛЕБАНИЙ ОТ ЭТАЖНОСТИ ЖЕЛЕЗОБЕТОННОГО КАРКАСА ГРАЖДАНСКОГО ЗДАНИЯ
+RESEARCH OF THE FREQUENCIES OF NATURAL VIBRATIONS FROM THE AMOUNT OF FLOORS OF A REINFORCED CONCRETE FRAMEWORK OF A CIVIL BUILDING
+
+СПОСОБЫ УМЕНЬШЕНИЯ СОБСТВЕННОГО ВЕСА МОНОЛИТНЫХ ЖЕЛЕЗОБЕТОННЫХ БЕЗБАЛОЧНЫХ ПЕРЕКРЫТИЙ
+WAYS TO REDUCE SELF-WEIGHT OF MONOLITHIC REINFORCED CONCRETE BEAMLESS SLABS
+
+ВЛИЯНИЕ ПОВЫШЕННОЙ ТЕМПЕРАТУРЫ НА МЕХАНИЧЕСКИЕ ХАРАКТЕРИСТИКИ СТАЛИ
+THE HIGH TEMPERATURE EFFECT ON MECHANICAL CHARACTEISTICS OF THE STEEL
+
+ИССЛЕДОВАНИЕ НАПРЯЖЕННО-ДЕФОРМИРОВАННОГО СОСТОЯНИЯ ЭЛЕМЕНТОВ СБОРНОГО ЖЕЛЕЗОБЕТОННОГО КАРКАСА С УЧЕТОМ ПОДАТЛИВОСТИ СТЫКОВ
+THE RESEARCH OF THE STRESS-STRAIN STATE OF ELEMENTS OF A PRECAST REINFORCED CONCRETE FRAMEWORK TAKING INTO ACCOUNT THE FLEXIBILITY OF JOINTS
+
+АНАЛИЗ ВЛИЯНИЯ ДЕФОРМАТИВНОСТИ СВАЙНОГО ОСНОВАНИЯ ПРИ ПРОЕКТИРОВАНИИ ЖЕЛЕЗОБЕТОННОГО КАРКАСА ЖИЛОГО ЗДАНИЯ
+ANALYSIS OF THE IMPACT OF DEFORMABILITY OF A PILE FOUNDATION IN THE DESIGN OF REINFORCED CONCRETE FRAME OF A RESIDENTIAL BUILDING
+
+УПРАВЛЕНИЕ ПРОЕКТОМ С ЦЕЛЬЮ СНИЖЕНИЯ СЕБЕСТОИМОСТИ СТРОИТЕЛЬСТВА
+PROJECT MANAGEMENT WITH THE AIM OF REDUCING CONSTRUCTION COSTS
+
+МЕТОДЫ СНИЖЕНИЯ СЕБЕСТОИМОСТИ СТРОИТЕЛЬСТВА
+METHODS OF CONSTRUCTION COST REDUCTION
+
+МОДЕЛИ И МЕТОДЫ ОРГАНИЗАЦИИ СТРОИТЕЛЬСТВА
+MODELS AND METHODS OF CONSTRUCTION ORGANIZATION
+
+РЕКОНСТРУКЦИЯ ФУНДАМЕНТОВ ЗДАНИЯ № 15 ПО УЛ. ВОЛЖСКАЯ НАБЕРЕЖНАЯ В Г. ЯРОСЛАВЛЕ
+RECONSTRUCTION OF THE FOUNDATIONS OF THE BUILDING NO. 15 ON VOLZHSKAYA NABEREZHNAYA STREET IN YAROSLAVL
+
+КИНЕТИКА ВОДОПОГЛОЩЕНИЯ И ПОКАЗАТЕЛИ ПОРИСТОСТИ КОНСТРУКЦИОННЫХ СТЕНОВЫХ МАТЕРИАЛОВ
+THE KINETICS OF WATER ABSORPTION AND POROSITY RATIOS OF WALL CONSTRUCTION MATERIALS
+
+АНАЛИЗ ФАКТОРОВ, ОПРЕДЕЛЯЮЩИХ ЭФФЕКТИВНОСТЬ ДРЕНАЖНЫХ СИСТЕМ В УСЛОВИЯХ РЕКОНСТРУКЦИИ
+ANALYSIS OF THE FACTORS, DETERMINING THE EFFICIENCY OF DRAINAGE SYSTEMS IN TERMS OF RECONSTRUCTION
+
+РЕШЕНИЕ СТАТИЧЕСКИ НЕОПРЕДЕЛИМЫХ ЗАДАЧ НА РАСТЯЖЕНИЕ-СЖАТИЕ МЕТОДОМ СИЛ
+SOLUTION OF STATICALLY INDETERMINATE TASKS IN TENSION-COMPRESSION BY THE FLEXIBILITY METHOD
+
+РАЗРАБОТКА ТЕХНОЛОГИИ РЕКОНСТРУКЦИИ ПРОИЗВОДСТВЕННОГО ЗДАНИЯ С ПОЛНЫМ КАРКАСОМ
+DEVELOPMENT OF RECONSTRUCTION TECHNOLOGY OF INDUSTRIAL BUILDING WITH FULL FRAME
+
+СРАВНИТЕЛЬНЫЙ АНАЛИЗ СВАЙНЫХ ФУНДАМЕНТОВ В ВЫШТАМПОВАННЫХ КОТЛОВАНАХ ДЛЯ СТРОИТЕЛЬСТВА МАЛОЭТАЖНЫХ ЗДАНИЙ В ЯРОСЛАВСКОЙ ОБЛАСТИ
+COMPARATIVE ANALYSIS OF PILED FOUNDATIONS IN STAMPED PITS FOR THE CONSTRUCTION OF LOW-RISE BUILDINGS IN THE YAROSLAVL OBLAST
+
+ВОДОПОГЛОЩЕНИЕ И ПРОЧНОСТЬ МОДИФИЦИРОВАННОГО ТОНКОМОЛОТОЙ СЕРОЙ БЕТОНА НА ОСНОВЕ НАТРИЕВОГО ЖИДКОГО СТЕКЛА
+WATER ABSORPTION AND DURABILITY OF THE CONCRETE MODIFIED WITH FINE SULFUR BASED ON LIQUID SODIUM GLASS
+
+ТЕМПЕРАТУРНОЕ ПОЛЕ ОГРАЖДАЮЩЕЙ КОНСТРУКЦИИ С ТОЧЕЧНЫМ ТЕПЛОПРОВОДНЫМ ВКЛЮЧЕНИЕМ
+THE TEMPERATURE GRADIENT OF THE ENCLOSING STRUCTURE WITH A POINT HEAT-CONDUCTING INCLUSION
+
+БЕТОННАЯ ПЛИТКА ДЛЯ СИСТЕМ НАВЕСНЫХ ФАСАДОВ
+CONCRETE TILE FOR SUSPENDED FACADE SYSTEMS
+
+НОВЫЕ ВИДЫ БЕТОНОВ В СОВРЕМЕННОМ СТРОИТЕЛЬСТВЕ
+NEW TYPES OF CONCRETE IN MODERN CONSTRUCTION
+
+ИНЪЕКЦИОННАЯ ГИДРОИЗОЛЯЦИЯ В КАМЕННЫХ КОНСТРУКЦИЯХ
+INJECTION WATERPROOFING OF STONE STRUCTURES
+
+РАЗРУШЕНИЕ СТОЙКИХ ЭМУЛЬСИЙ МЕТОДОМ РАСПЫЛЕНИЯ
+THE DESTRUCTION OF STABLE EMULSIONS BY SPRAYING METHOD
+
+ТЕХНОЛОГИЧЕСКИЕ ОСОБЕННОСТИ РАБОТ ПРИ УСИЛЕНИИ ЖЕЛЕЗОБЕТОННЫХ ЭЛЕМЕНТОВ КОМПОЗИТНЫМИ МАТЕРИАЛАМИ
+TECHNOLOGICAL SPECIFICS OF WORKS AT REINFORCING THE REINFORCED CONCRETE ELEMENTS WITH COMPOSITE MATERIALS
+
+АНАЛИЗ НАПРЯЖЕННО-ДЕФОРМИРОВАННОГО СОСТОЯНИЯ МАССИВНЫХ ГУСТОАРМИРОВАННЫХ ЛЕСТНИЦ В БОЛЬШОЙ СПОРТИВНОЙ АРЕНЕ “ЛУЖНИКИ”
+ANALYSIS OF THE STRESS-STRAIN STATE OF MASSIVE HIGH-DENSITY REINFORCEMENT CONCRETE STAIRS IN A LARGE SPORTS ARENA “LUZHNIKI”
+
+О ПРИМЕНЕНИИ ПРОЗРАЧНОГО БЕТОНА
+ON THE APPLICATION OF TRANSPARENT CONCRETE
+
+АРМИРОВАНИЕ ДЕКОРАТИВНЫХ БЕТОННЫХ ИЗДЕЛИЙ
+REINFORCEMENT OF DECORATIVE CONCRETE PRODUCTS
+
+ЗАКРЕПЛЕНИЕ ГРУНТОВ ИНЪЕЦИРОВАНИЕМ
+SUCTIONING OF GROUNDS BY INJECTION
+
+BIM-ТЕХНОЛОГИИ В ЭКСПЛУАТАЦИИ ЗДАНИЙ И СООРУЖЕНИЙ
+BIM-TECHNOLOGY IN THE OPERATION OF BUILDINGS AND STRUCTURES
+
+ОСОБЕННОСТИ ДИНАМИКИ ДВИГАТЕЛЕЙ С ОТКЛЮЧАЕМЫМИ ЦИЛИНДРАМИ
+THE ENGINES MOTOR DINAMICS WITH CYLINDER COMPONENT DEACTIVATION SPECIAL FEATURES
+
+ОСОБЕННОСТИ РЕКОНСТРУКЦИИ ЗДАНИЙ И СООРУЖЕНИЙ С НЕСУЩИМИ И ОГРАЖДАЮЩИМИ КОНСТРУКЦИЯМИ ИЗ КЕРАМИЧЕСКОГО КИРПИЧА
+THE SPECIFICS OF RECONSTRUCTION OF BUILDINGS WITH LOAD-BEARING AND ENCLOSURE STRUCTURES FROM CERAMIC BRICK
+
+ВЛИЯНИЕ ОТКЛОНЕНИЯ СВАЙ ПРИ ЗАБИВКЕ ОТ ИХ ПРОЕКТНОГО ПОЛОЖЕНИЯ НА НЕСУЩУЮ СПОСОБНОСТЬ ЦЕНТРАЛЬНО НАГРУЖЕННОГО СВАЙНОГО КУСТА
+THE INFLUENCE DEVIATION OF PILES AT PILE DRIVING FROM PROJECT POSITION TO BEARING ABILITY CENTRAL LOADED PILE GROUP
+
+АНАЛИЗ СУЩЕСТВУЮЩИХ ПРОБЛЕМ В ОБЛАСТИ ОБЕСПЕЧЕНИЯ НАДЕЖНОСТИ КРОВЕЛЬНЫХ СИСТЕМ С ИСПОЛЬЗОВААНИЕМ ШТУЧНЫХ ИЗДЕЛИЙ
+ANALYZIS OF EXISTING PROBLEMS IN RELIABILITY OF ROOFING SYSTEMS WITH TILES
+
+ИССЛЕДОВАНИЕ МОРОЗОСТОЙКОСТИ МЕЛКОЗЕРНИСТОГО ФИБРОБЕТОНА
+FREEZE-THAW RESISTANCE RESEARCH OF POLYPROPYLENE FIBER REINFORCED CONCRETE
+
+РАЗРАБОТКА WEB СИСТЕМЫ С ИСПОЛЬЗОВАНИЕМ СУБД И JAVA - СЕРВЛЕТОВ
+DEVELOPMENT OF WEB SYSTEMS WITH THE USE OF DBMS AND JAVA - SERVELETS
+
+РАЗРАБОТКА ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ ДЛЯ АВТОМАТИЧЕСКОГО ФОРМИРОВАНИЯ OLAP-КУБОВ, ИХ ПОСЛЕДУЮЩЕГО АВТОМАТИЧЕСКОГО ЗАПОЛНЕНИЯ И ПРОСМОТРА СРЕЗОВ
+DEVELOPMENT OF SOFTWARE FOR AUTOMATIC FORMATION OF OLAP-CUBES, THEIR FOLLOW-UP AUTOMATIC FILLING AND VIEWING OF CUTS
+
+ПРИМЕНЕНИЕ ТЕХНОЛОГИИ ДОПОЛНЕННОЙ РЕАЛЬНОСТИ В РАЗЛИЧНЫХ ОТРАСЛЯХ
+APPLICATION OF TECHNOLOGY OF ADDED REALITY IN VARIOUS INDUSTRIES
+
+РАЗРАБОТКА IOS - ПРИЛОЖЕНИЯ ДЛЯ ПЛАНИРОВАНИЯ ЗАДАЧ
+DEVELOPMENT OF IOS-APPLICATION FOR TASK PLANNING
+
+РАЗРАБОТКА ЭКСПЕРТНОЙ СИСТЕМЫ ДЛЯ ВЫБОРА КОНФИГУРАЦИИ КОМПЬЮТЕРА
+DEVELOPMENT EXPERT SYSTEM FOR CHOOSING COMPUTER CONFIGURATION
+
+ОБЗОР СППР ДЛЯ ПРОМЫШЛЕННЫХ ПРЕДПРИЯТИЙ
+REVIEW OF DSSFORINDUSTRIALENTERPRISES
+
+ИМИТАЦИОННОЕ МОДЕЛИРОВАНИЕ ТЕЛЕФОННЫХ ВЫЗОВОВ НА ОТГРУЗКУ ГОТОВОЙ ПРОДУКЦИИ
+IMITATION MODELING OF TELEPHONE CALLS FOR SHIPMENT OF FINISHED PRODUCTS
+
+МЕТОДЫ ОПТИМИЗАЦИИ БОЛЬШИХ БАЗ ДАННЫХ
+МETHODS OF OPTIMITHETION OF LARDGE DATABAZES
+
+ЭТИКЕТ И БЕЗОПАСНОСТЬ ЭЛЕКТРОННОЙ ПОЧТЫ
+ETIQUETTE AND EMAIL SECURITY
+
+РАЗРАБОТКА ПРОГРАММНОГО КОМПЛЕКСА ДЛЯ РАСЧЕТА ГРАНИЦ СТАБИЛЬНОЙ РАБОТЫ УСТАНОВОК ПОСЛОЙНОГО ЛАЗЕРНОГО СПЛАВЛЕНИЯ ПРИМЕНЯЕМОГО ДЛЯ ПРОИЗВОДСТВА МЕТАЛЛИЧЕСКИХ ДЕТАЛЕЙ ПО АДДИТИВНОЙ ТЕХНОЛОГИИ
+DEVELOPMENT OF A SOFTWARE COMPLEX FOR CALCULATION OF THE BORDERS OF THE STABLE WORK OF INSTALLATIONS OF A LAYERED LASER ALLOYS APPLIED TO THE PRODUCTION OF METAL PARTS ON ADDITIVE TECHNOLOGY
+
+МОДЕЛИРОВАНИЕ ПРОЦЕССА УПРАВЛЕНИЯ ПЛАСТИНЧАТОГО ВОДНО- МАСЛЯНОГО ТЕПЛООБМЕННИКА В СРЕДЕ MATLAB
+MODELINGOFTHEPROCESSOFMANAGEMENTOFPLATE WATER-OIL HEAT EXCHANGER IN MATLAB ENVIRONMENT
+
+РАЗРАБОТКА ANDROID - ПРИЛОЖЕНИЯ C ИСПОЛЬЗОВАНИЕМ АРХИТЕКТУРЫ MVVM
+CREATION OF AN ANDROID - APPLICATION USING MVVM ARCHITECTURE
+
+РАЗРАБОТКА WEB СИСТЕМЫ С ИСПОЛЬЗОВАНИЕМ JSP СТРАНИЦ, СЕРВЛЕТОВ И СУБД
+DEVELOPMENT OF WEB SYSTEMS WITH THE USE OF JSP PAGES, SERVELETS AND DBMS
+
+РАЗРАБОТКА КЛИЕНТ - СЕРВЕРНОГО ПРИЛОЖЕНИЯ ДЛЯ МЕДИЦИНСКОГО ЦЕНТРА ARGO-KOSTROMA
+CUSTOMER DEVELOPMENT - SERVER APPLICATION FOR ARGO-KOSTROMA MEDICAL CENTER
+
+О РЕГУЛИРОВКЕ КОНТРАСТА ЧЕРНО-БЕЛЫХ ИЗОБРАЖЕНИЙ ПУТЕМ ПРИВЕДЕНИЯ ГИСТОГРАММЫ ЯРКОСТИ К ДВУХУРОВНЕВОМУ КУСОЧНО-РАВНОМЕРНОМУ РАСПРЕДЕЛЕНИЮ
+ON GRAYSCALE IMAGE CONTRAST ADJUSTMENT BY CREATING BRIGHTNESS HISTOGRAM TO TWO-LEVEL PIECE-UNIFORM DISTRIBUTION
+
+ИССЛЕДОВАНИЕ МЕТОДОВ МИГРАЦИИ КОРПОРАТИВНОЙ ИНФОРМАЦИОННОЙ СИСТЕМЫ
+RESEARCH OF MIGRATION METHODS OF CORPORATE INFORMATION SYSTEM
+
+РЕШЕНИЕ ЗАДАЧИ НАХОЖДЕНИЯ ПЛОЩАДИ ФИГУРЫ НА ОСНОВЕ ПАРАЛЛЕЛЬНЫХ ЧИСЛЕННЫХ АЛГОРИТМОВ ВЫЧИСЛЕНИЯ ЧАСТНЫХ СУММ
+THE DECISION OF THE PROBLEM OF FINDING AREA OF THE FIGURE ON THE BASIS OF PARALLEL NUMERICAL ALGORITHMS FOR CALCULATING PRIVATE SUM
+
+РАЗРАБОТКА BI СИСТЕМЫ ДЛЯ ITSM
+DEVELOPMENT OF BI SYSTEM FOR ITSM
+
+ИСТОРИЯ ИНТЕРНЕТА
+INTERNET HISTORY
+
+РАСЧЁТ ЭФФЕКТИВНОСТИ ГОЛОСОВОЙ БИОМЕТРИКИ ПРИ АУТЕНТИФИКАЦИИ КЛИЕНТА В ПРОГРАММЕ CRM AMDOCS 8.1
+CALCULATION OF THE EFFICIENCY OF VOICE BIOMETRICS DURING CUSTOMER AUTHENTICATION IN CRM AMDOCS 8.1 PROGRAM
+
+РАЗРАБОТКА ИГРОВОГО АНДРОИД - ПРИЛОЖЕНИЯ ДЛЯ ДЕТЕЙ
+DEVELOPMENT GAME THE ANDROID- APPLICATION FOR CHILDREN
+
+ПРОЕКТИРОВАНИЕ ПОДВОДНОЙ ВОЛС ПО СЕВЕРНОМУ МОРСКОМУ ПУТИ
+DESIGN UNDERWATER FIBER NETWORK ACROSS THE NORTHERN SEA ROUTE
+
+ОСНОВНЫЕ ЭЛЕМЕНТЫ СИСТЕМЫ УПРАВЛЕНИЯ ИНФОРМАЦИОННОЙ БЕЗОПАСНОСТЬЮ ПРЕДПРИЯТИЯ
+MAIN ELEMENTS OF THE MANAGEMENT SYSTEM OF INFORMATION SECURITY OF THE ENTERPRISE
+
+ITIL -ОСНОВА КОНЦЕПЦИИ УПРАВЛЕНИЯ ИТ-СЕРВИСАМИ
+ITIL - THE BASIS OF IT SERVICE MANAGEMENT CONCEPT
+
+АНАЛИЗ АЛГОРИТМОВ ДЛЯ РАБОТЫ С НАБОРОМ ОТКРЫТЫХ ДАННЫХ МИНИСТЕРСТВА НАУКИ И ВЫСШЕГО ОБРАЗОВАНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ ПО РЕЗУЛЬТАТАМ СДАЧИ ЕДИНОГО ГОСУДАРСТВЕННОГО ЭКЗАМЕНА
+ANALYSIS OF ALGORITHMS FOR WORKING WITH THE OPEN DATA SET OF THE MINISTRY OF EDUCATION AND SCIENCE OF THE RUSSIAN FEDERATION BASED ON THE RESULTS OF PASSING THE UNIFIED STATE EXAM
+
+ИМИТАЦИОННОЕ МОДЕЛИРОВАНИЕ ПРОДАЖИ АВТОБУСНЫХ БИЛЕТОВ
+IMITATION MODELING FOR SALE OF TICKETS
+
+ОБ ИЗМЕНЕНИИ КОНТРАСТА ИЗОБРАЖЕНИЯ ЛОКАЛЬНО-ФРАГМЕНТАРНЫМ МЕТОДОМ
+ABOUT CHANGING THE CONTRAST OF IMAGE BY LOCAL-FRAGMENTAL METHOD
+
+ИСПОЛЬЗОВАНИЕ ПРИРОДНЫХ ЭВРИСТИК В ЗАДАЧАХ МАРШРУТИЗАЦИИ
+SOLVE ROUTING TASKS USING NATURAL HEURISTICS
+
+ИНТЕГРИРОВАННАЯ СИСТЕМА МЕНЕДЖМЕНТА НЕФТЕПЕРЕРАБАТЫВАЮЩЕГО ПРЕДПРИЯТИЯ ОАО «СЛАВНЕФТЬ-ЯНОС» И ПРОБЛЕМЫ ЕЕ ПРОЕКТИРОВАНИЯ
+THE INTEGRATED MANAGEMENT SYSTEM OF THE REFINERY JSC «SLAVNEFT-YANOS» AND PROBLEMS OF ITS DESIGN
+
+УПРАВЛЕНИЕ ЯРКОСТЬЮ И КОНТРАСТНОСТЬЮ ИЗОБРАЖЕНИЯ ПОСРЕДСТВОМ СТЕПЕННОЙ ФУНКЦИИ
+MANAGEMENT OF BRIGHTNESS AND CONTRAST OF THE IMAGE BY MEANS OF A POWERED FUNCTION
+
+ОБЗОР ПРОГРАММНЫХ СРЕДСТВ ДЛЯ БИОМЕТРИЧЕСКОЙ ИДЕНТИФИКАЦИИ ПОЛЬЗОВАТЕЛЯ ПО ГОЛОСУ
+OVERVIEW OF SOFTWARE PRODUCTS FOR BIOMETRICAL USER IDENTIFICATION BY VOICE
+
+ПРОБЛЕМЫ МАСШТАБИРУЕМОСТИ РАСПРЕДЕЛЕННЫХ ИНФОРМАЦИОННЫХ СИСТЕМ
+PROBLEMS OF SCALABILITY OF DISTRIBUTED INFORMATION SYSTEMS
+
+ВЛИЯНИЕ КОРПОРАТИВНОЙ КУЛЬТУРЫ НА ЭФФЕКТИВНОСТЬ ДЕЯТЕЛЬНОСТИ ОРГАНИЗАЦИИ
+THE IMPACT OF CORPORATE CULTURE ON EFFECTIVENESS OF ORGANIZATION
+
+ПРИМЕНЕНИЕ МЕТОДА ДЕЛЬФИ ПРИ ПРИНЯТИИ УПРАВЛЕНЧЕСКИХ РЕШЕНИЙ
+APPLICATION OF THE METHOD DELPHI IN MAKING MENEGEMENT DECISION
+
+СТРАТЕГИЯ ВНЕДРЕНИЯ CALS-ТЕХНОЛОГИЙ НА РОССИЙСКИХ ПРЕДПРИЯТИЯХ
+THE STRATEGY OF IMPLEMENTATION OF CALS TECHNOLOGIES AT THE RUSSIAN ENTERPRISES
+
+СОЗДАНИЕ ANDROID - ПРИЛОЖЕНИЯ ДЛЯ РЕШЕНИЯ АЛГОРИТМИЧЕСКИХ ЗАДАЧ НА МАССИВЫ
+CREATING ANDROID - APPLICATIONS FOR SOLVING ALGORITHMIC TASKS FOR ARRAYS
+
+ИНСТРУМЕНТАЛЬНЫЕ СТРЕДСТВА ДЛЯ ОРГАНИЗАЦИИ ПРИЕМА ЗАЯВЛЕНИЙ ЧЕРЕЗ ЭЛЕКТРОННЫЙ КАБИНЕТ АБИТУРИЕНТА
+TOOLS FOR THE ORGANIZATION OF RECEPTION OF APPLICATIONS THROUGH INTERNET
+
+ПОНЯТИЕ ИНКЛЮЗИВНОЙ ОРГАНИЗАЦИИ
+THE CONCEPT OF INCLUSIVE ORGANIZATION
+
+МАРКЕТИНГОВОЕ ИССЛЕДОВАНИЕ РЫНКА ГАЗИРОВАННОЙ ВОДЫ В Г. ЯРОСЛАВЛЕ
+MARKETING STUDY OF THE MARKET OF GASED WATER IN YAROSLAVL
+
+ОСОБЫЕ ЭКОНОМИЧЕСКИЕ ЗОНЫ В РОССИИ: ПРОБЛЕМЫ И РЕШЕНИЯ
+SPECIAL ECONOMIC ZONES IN RUSSIA: PROBLEMS AND SOLUTIONS
+
+РАЗРАБОТКА ИНФОРМАЦИОННОЙ СИСТЕМЫ ДЛЯ РЕКЛАМНОГО АГЕНТСТВА
+DEVELOPMENT OF INFORMATION SYSTEM FOR ADVERTISING AGENCIES
+
+СТРАТЕГИЯ РАЗВИТИЯ СТРАНЫ 2018-2024. РАЗВИТИЕ ГОРОДОВ И РЕГИОНОВ
+COUNTRY DEVELOPMENT STRATEGY 2018-2024. DEVELOPMENT OF CITIES AND REGIONS
+
+КОРПОРАТИВНАЯ КУЛЬТУРА ПАО «ВЫМПЕЛКОМ»
+THE CORPORATE CULTURE OF OJSC "VIMPELCOM»
+
+РАЗВИТИЕ МОТИВАЦИИ ПЕРСОНАЛА НА ПРИМЕРЕ АССОЦИАЦИИ САМОРЕГУЛИРУЕМОЙ ОРГАНИЗАЦИИ «ГЛАВВЕРХНЕВОЛЖСКСТРОЙ»
+THE DEVELOPMENT OF PERSONNEL'S MOTIVATION ON THE EXAMPLE OF THE ASSOCIATION OF THE SELF-REGULATORY ORGANIZATION «GLAVVERHNVOLZHSKSTROY»
+
+ОСОБЕННОСТИ ПРОДВИЖЕНИЯ БРЕНДА КОМПАНИЙ В АВИАЦИОННОЙ ОТРАСЛИ ПОСРЕДСТВОМ ВЗАИМОДЕЙСТВИЯ С ПОТРЕБИТЕЛЯМИ В СОЦИАЛЬНЫХ СЕТЯХ
+FEATURES OF BRAND PROMOTION COMPANIES IN THE AIRLINE INDUSTRY THROUGH INTERACTION WITH CONSUMERS IN SOCIAL NETWORKS
+
+ПРОБЛЕМЫ И ПЕРСПЕКТИВЫ ИСПОЛЬЗОВАНИЯ ЦИФРОВЫХ ДЕНЕЖНЫХ СРЕДСТВ В РОССИИ
+PROBLEMS AND PROSPECTS OF THE USE OF DIGITAL MONETARY FUNDS IN RUSSIA
+
+ИННОВАЦИОННОЕ РАЗВИТИЕ ПРОМЫШЛЕННОСТИ ЯРОСЛАВСКОЙ ОБЛАСТИ
+INNOVATIVE DEVELOPMENT OF INDUSTRY OF THE YAROSLAVL REGION
+
+АНАЛИЗ ВЛИЯНИЯ ФАКТОРОВ МАКРОСРЕДЫ НА ДЕЯТЕЛЬНОСТЬ ПРЕДПРИЯТИЯ
+ANALYSIS OF THE EFFECT OF MACRO ENVIRONMENT FACTORS ON ENTERPRISE ACTIVITIES
+
+СОВЕРШЕНСТВОВАНИЕ СИСТЕМЫ МЕТОДОВ УПРАВЛЕНИЯ ПЕРСОНАЛОМ НА ПРЕДПРИЯТИИ «СТУДИЯ ДИЗАЙНА ВЗГЛЯДА BONJOUR»
+PERFECTION OF THE SYSTEM OF PERSONNEL MANAGEMENT METHODS AT THE ENTERPRISE «STUDIO OFLOOKDESIGN BONJOUR»
+
+ПРОБЛЕМА ВНЕДРЕНИЯ СИСТЕМЫ СТАНДАРТОВ GMP НА РОССИЙСКИХ ПРЕДПРИЯТИЯХ
+THE PROBLEM OF THE SYSTEM IMPLEMENTATION OF GMP STANDARDS BY RUSSIAN ENTERPRISES
+
+РОЛЬ ГРУЗОВОГО ЖЕЛЕЗНОДОРОЖНОГО ТРАНСПОРТА КАК КЛЮЧЕВОГО ЗВЕНА РАЗВИТИЯ ПРОМЫШЛЕННОСТИ РОССИИ
+ROLE OF CARGO RAILWAY TRANSPORT AS A KEY DEVELOPMENT LINK INDUSTRIES OF RUSSIA
+
+МЕСТО ЭКОНОМИЧЕСКОГО АНАЛИЗА В СИСТЕМЕ УПРАВЛЕНИЯ ПРЕДПРИЯТИЯ
+PLACE OF ECONOMIC ANALYSIS IN THE ENTERPRISE MANAGEMENT SYSTEM
+
+СОЗДАНИЕ ANDROID - ПРИЛОЖЕНИЯ «КАЛЬКУЛЯТОР»
+CREATING ANDROID - “CALCULATOR” APPLICATION
+
+СОВЕРШЕНСТВОВАНИЕ СИСТЕМЫ МЕНЕДЖМЕНТА КАЧЕСТВА ВУЗА НА ПРИМЕРЕ ЯРОСЛАВСКОГО ГОСУДАРСТВЕННОГО ТЕХНИЧЕСКОГО УНИВЕРСИТЕТА
+IMPROVEMENT OF THE QUALITY MANAGEMENT SYSTEM OF THE UNIVERSITY ON THE EXAMPLE OF YAROSLAVLSTATETECHNICALUNIVERSITY
+
+МИКРОЭКОНОМИЧЕСКИЙ АНАЛИЗ КОРРУПЦИИ В РОССИЙСКОЙ ЭКОНОМИКЕ
+MICROECONOMIC ANALYSIS OF CORRUPTION IN THE RUSSIAN ECONOMY
+
+ТЕНДЕНЦИИ РАЗВИТИЯ ИНТЕРНЕТ-МАРКЕТИНГА В 2019 ГОДУ
+TENDENCIES OF DEVELOPMENT OF INTERNET MARKETING IN 2019
+
+ВЛИЯНИЕК ФИНАНСОВЫХ РЕЗУЛЬТАТОВ ПРОИЗВОДСТВЕННОЙ ДЕЯТЕЛЬНОСТИ ПРЕДПРИЯТИЯ СТРОИТЕЛЬНОЙ ОТРАСЛИ НА ПРИНЯТИЕ УПРАВЛЕНЧЕСКИХ РЕШЕНИЙ НА ПРИМЕРЕ ООО «ХЕЙЛУНЦЗЯНСКАЯ КОМПАНИЯ «ЭНЕРГО СТРОЙ»
+THE EFFECT OF THE FINANCIAL RESULTS OF THE PRODUCTION ACTIVITY OF THE ENTERPRISE OF THE CONSTRUCTION INDUSTRY ON THE ADOPTION OF MANAGERIAL DECISIONS ON THE EXAMPLE OF LLC «HEILUNTSZYANSKY COMPANY «ENERGO STORY»
+
+ВЛИЯНИЕ КОРПОРАТИВНОЙ КУЛЬТУРЫ НА ЭФФЕКТИВНОСТЬ ДЕЯТЕЛЬНОСТИ ОРГАНИЗАЦИИ
+MANAGING THE DEVELOPMENT OF THE DIGITAL ECONOMY
+
+АКТУАЛЬНОСТЬ И ПРОБЛЕМЫ РАЗВИТИЯ ТУРИЗМА В МАЛЫХ ГОРОДАХ РОССИИ
+ACTUALITY OF DEVELOPMENT OF NEW TOURIST ROUTES ON THE OBJECTS OF HISTORICAL AND CULTURAL HERITAGE
+
+СОБИРАЕМОСТЬ НАЛОГОВ В РФ КАК ФАКТОР ОБЕСПЕЧЕНИЯ ЭФФЕКТИВНОГО МАКРОЭКОНОМИЧЕСКОГО РАЗВИТИЯ
+TAX COLLECTION IN RUSSIA THE PROBLEM OF EFFECTIVE MACROECONOMIC DEVELOPMENT OF THE COUNTRY
+
+ТИПОЛОГИЯ РЕГИОНОВ РОССИЙСКОЙ ФЕДЕРАЦИИ
+TYPOLOGY OF THE REGIONS OF THE RUSSIAN FEDERATION
+
+АНАЛИЗ ЭФФЕКТИВНОСТИ ИСПОЛЬЗОВАНИЯ ТРУДОВЫХ РЕСУРСОВ
+ANALYSIS OF EFFICIENCY OF USE OF LABOUR RESOURCES
+
+О ПРОБЛЕМАХ ПРИМЕНЕНИЯ ИНСТРУМЕНТОВ ИНТЕРНЕТ-МАРКЕТИНГА В СФЕРЕ УСЛУГ
+ABOUT THE PROBLEMS OF TOOLS APPLICATION INTERNET MARKETING IN THE SERVICE AREA
+
+ДЕЯТЕЛЬНОСТЬ АДМИНИСТРАЦИИ ЯРОСЛАВСКОЙ ОБЛАСТИ ПО ПОДДЕРЖКЕ МАЛОГО БИЗНЕСА: ОЦЕНКА СОСТОЯНИЯ И ПРЕДЛОЖЕНИЯ ПО УЛУЧШЕНИЮ
+ACTIVITIES OF THE ADMINISTRATION OF THE YAROSLAVL REGION TO SUPPORT SMALL BUSINESS: ASSESSMENT AND SUGGESTIONS FOR IMPROVEMENT
+
+ТАЙМ-БЭТЧИНГ РАБОЧЕГО ПРОЦЕССА В ОРГАНИЗАЦИИ
+TIME-BATCHING OF WORKING PROCESS IN A COMPANY
+
+ПРОБЛЕМЫ ОРГАНИЗАЦИИ И ПРОВЕДЕНИЯ АУКЦИОНОВ ПО ПРОДАЖЕ ЗЕМЕЛЬНЫХ УЧАСТКОВ
+PROBLEMS OF ORGANIZING AND CONDUCTING AUCTIONS FOR THE SALE OF LAND
+
+СОВРЕМЕННЫЕ МЕТОДИКИ ВНЕДРЕНИЯ ПРОЦЕССНОГО ПОДХОДА В УПРАВЛЕНИЕ ДЕЯТЕЛЬНОСТЬЮ КОМПАНИЙ
+MODERN METHODS OF INTRODUCTION OF THE PROCESS APPROACH IN THE MANAGEMENT OF THE COMPANIES
+
+СРАВНИТЕЛЬНАЯ ХАРАКТЕРИСТИКА ТРАДИЦИОННЫХ И СОВРЕМЕННЫХ МЕТОДОВ ПРОЕКТНОГО УПРАВЛЕНИЯ
+COMPARATIVE CHARACTERISTICS OF TRADITIONAL AND MODERN METHODS OF PROJECT MANAGEMENT
+
+МОНЕТИЗАЦИЯ МОБИЛЬНЫХ БЕСПЛАТНЫХ ИГР НА МЕЖДУНАРОДНОМ И НАЦИОНАЛЬНОМ УРОВНЯХ
+MONETIZATION MOBILE FREE GAMES ON THE INTERNATIONAL AND NATIONAL LEVELS
+
+ПРОБЛЕМЫ ФОРМИРОВАНИЯ ОРГАНИЗАЦИОННОЙ КУЛЬТУРЫ ПРЕДПРИЯТИЯ И МЕТОДЫ ИХ РЕШЕНИЯ
+PROBLEMS OF FORMATION OF ORGANIZATIONAL CULTURE OF THE ENTERPRISE AND METHODS OF THEIR SOLUTION
+
+РАЗРАБОТКА МИДЛЕТА ДЛЯ РАБОТЫ С ДВУМЕРНЫМИ МАССИВАМИ
+DEVELOPING A MIDLET FOR WORK WITH TWO-DIMENSIONAL ARRAYS
+
+ПРОБЛЕМЫ И МЕРЫ ПОДДЕРЖКИ ИННОВАЦИОННОЙ ДЕЯТЕЛЬНОСТИ ПРЕДПРИЯТИЙ
+PROBLEMS AND MEASURES OF SUPPORT OF INNOVATION ACTIVITY OF ENTERPRISES
+
+ОБЕСПЕЧЕНИЕ ЛОЯЛЬНОСТИ ПОТРЕБИТЕЛЕЙ КАК СОВРЕМЕННАЯ ПРОБЛЕМА ЭКОНОМИЧЕСКОЙ НАУКИ И ПРАКТИКИ
+ENSURING CUSTOMER LOYALTY AS A MODERN ECONOMIC SCIENCE AND PRACTICE
+
+ВОЗМОЖНОСТИ ИСПОЛЬЗОВАНИЯ АМЕРИКАНСКОГО МЕНЕДЖМЕНТА В ПРАКТИКЕ УПРАВЛЕНИЯ КОМПАНИЯМИ ДРУГИХ СТРАН
+THE POSSIBILITY OF USING AMERICAN MANAGEMENT IN MANAGEMENT COMPANIES FROM OTHER COUNTRIES
+
+АНАЛИЗ МАКРОЭКОНОМИЧЕСКИХ УСЛОВИЙ РАЗВИТИЯ РЫНКА ЖИЛОЙ НЕДВИЖИМОСТИ
+ANALYSIS OF MACROECONOMIC CONDITIONS OF DEVELOPMENT OF THE MARKET OF THERESIDENTIAL REAL ESTATE
+
+ВЫБОР СИСТЕМЫ НАЛОГООБЛОЖЕНИЯ
+THE CHOICE OF TAX SYSTEM
+
+КРИТИЧЕСКИЙ АНАЛИЗ ОСНОВНЫХ ПОДХОДОВ К ОПРЕДЕЛЕНИЮ ПОНЯТИЯ КРЕДИТ
+A CRITICAL ANALYSIS OF THE MAIN APPROACHES TO THE DEFINITION OF CREDIT
+
+ОСНОВНЫЕ НАПРАВЛЕНИЯ РАЗВИТИЯ БАНКОВСКОГО БИЗНЕСА ЧЕРЕЗ ВНЕДРЕНИЕ ИННОВАЦИОННЫХ ТЕХНОЛОГИЙ
+THE MAIN DIRECTIONS OF DEVELOPMENT OF THE BANKING BUSINESS THROUGH THE INTRODUCTION OF INNOVATIVE TECHNOLOGIES
+
+ПРИМЕНЕНИЕ ПРИНЦИПОВ УПРАВЛЕНИЯ КАЧЕСТВОМ В ЦЕЛЯХ ПОВЫШЕНИЯ ЭФФЕКТИВНОСТИ ДЕЯТЕЛЬНОСТИ ОРГАНИЗАЦИИ
+APPLICABLE PRINCIPLES OF QUALITY CONTROL FOR IMPROVING THE EFFECTIVENESS IN ORGANIZATIONS
+
+РАЗРАБОТКА СИСТЕМЫ СБАЛАНСИРОВАННЫХ ПОКАЗАТЕЛЕЙ В ЦЕЛЯХ ПОВЫШЕНИЯ ЭФФЕКТИВНОСТИ ДЕЯТЕЛЬНОСТИ ОРГАНИЗАЦИИ
+DEVELOPMENT OF A BALANCED SCORECARD IN ORDER TO IMPROVE THE EFFECTIVENESS OF THE ORGANIZATION
+
+СПАМ И МЕТОДЫ БОРЬБЫ С НИМ
+SPAM AND METHODS OF DEALING WITH IT
+
+СОВРЕМЕННЫЕ ПОДХОДЫ В УПРАВЛЕНИИ ДЕНЕЖНЫМИ ПОТОКАМИ
+MODERN APPROACHES IN MANAGING MONETARY
+
+ОСОБЕННОСТИ ПРОЕКТНОЙ ДЕЯТЕЛЬНОСТИ В СОВРЕМЕННЫХ УСЛОВИЯХ
+FEATURES OF DESIGN ACTIVITIES IN MODERN CONDITIONS
+
+СОВРЕМЕННЫЕ ТЕХНОЛОГИИ ВОВЛЕЧЕНИЯ ПЕРСОНАЛА В ПРОЦЕСС НЕПРЕРЫВНЫХ УЛУЧШЕНИЙ
+MODERN TECHNOLOGIES OF PERSONNEL INVOLVEMENT IN THE PROCESS OF CONTINUOUS IMPROVEMENTS
+
+ТРУДОВЫЕ РЕСУРСЫ ПРЕДПРИЯТИЯ: ЭФФЕКТИВНОСТЬ ИСПОЛЬЗОВАНИЯ
+LABOR RESOURCES OF ENTERPRISE: EFFICIENCY OF USE
+
+ОЦЕНКА ЭКОНОМИЧЕСКОЙ ЭФФЕКТИВНОСТИ ВНЕДРЕНИЯ БЕРЕЖЛИВЫХ ТЕХНОЛОГИЙ: МЕТОДЫ И ПРОБЛЕМЫ ИХ ПРИМЕНЕНИЯ
+EVALUATION OF ECONOMIC EFFECTIVENESS OF IMPLEMENTATION OF THROWING TECHNOLOGIES: METHODS AND PROBLEMS OF APPLICATION
+
+СОВРЕМЕННЫЕ ТЕХНОЛОГИИ ПОВЫШЕНИЯ ЭФФЕКТИВНОСТИ ИСПОЛЬЗОВАНИЯ ОСНОВНЫХ ПРОИЗВОДСТВЕННЫХ ФОНДОВ
+MODERN TECHNOLOGIES OF INCREASE OF EFFICIENCY OF USE OF THE BASIC PRODUCTION ASSETS
+
+AНAЛИЗ ЭФФЕКТИВНOСТИ МЕТOДИК РAСЧЕТA AВТOРСКOГO ВOЗНAГРAЖДЕНИЯ
+ANALYSIS OF THE EFFICIENCY OF CALCULATION METHODS OF AUTHOR'S REMUNERATION
+
+НАПРАВЛЕНИЯ СНИЖЕНИЯ ЗАТРАТ В ТСЖ
+WAYS TO REDUCE COSTS IN THE HOA
+
+СОКРАЩЕНИЕ ПРОИЗВОДСТВЕННЫХ ПОТЕРЬ НА ОСНОВЕ ОПТИМИЗАЦИИ ПОТОКА СОЗДАНИЯ ЦЕННОСТЕЙ
+REDUCTION OF PRODUCTION LOSSES BАSED ON THE OPTIMIZАTION OF THE FLOW OF VАLUE CREАTION
+
+ПРИНЦИПЫ ВНЕДРЕНИЯ СИСТЕМЫ KPI «КЛЮЧЕВЫЕ ПОКАЗАТЕЛИ ЭФФЕКТИВНОСТИ» - ОСНОВА УСПЕШНОЙ РЕАЛИЗАЦИИ ПРОГРАММЫ
+IMPLEMENTATION OF SYSTEM KPI "KEY PERFORMANCE INDICATORS" - THE BASIS OF SUCCESSFUL IMPLEMENTATION OF THE PROGRAM
+
+РАЗРАБОТКА ANDROID - ПРИЛОЖЕНИЯ «УЧЕБНОЕ РАСПИСАНИЕ»
+ANDROID DEVELOPMENT - “SCHEDULED SCHEDULE” APPLICATIONS
+
+АНАЛИЗ ФИНАНСОВОГО СОСТОЯНИЯ МУП ГОРОДСКОГО ПАССАЖИРСКОГО ТРАНСПОРТА «ЯРГОРТРАНС» ГОРОДА ЯРОСЛАВЛЯ
+ANALYSIS OF THE FINANCIAL CONDITION OF THE MUNICIPAL UNITARY ENTERPRISE OF PASSENGER TRANSPORT «YARGORTRANS» OF THE CITY YAROSLAVL
+
+АНАЛИЗ ДИНАМИКИ РАЗВИТИЯ РЫНКА ЛЕГКОВЫХ АВТОМОБИЛЕЙ ОТЕЧЕСТВЕННОГО ПРОИЗВОДСТВА
+ANALYSIS OF THE DYNAMICS OF DEVELOPMENT OF THE MARKET OF PASSENGER CARS IN THE DOMESTIC PRODUCTION
+
+ЭКОНОМИЧЕСКИЕ АСПЕКТЫ ИСПОЛЬЗОВАНИЯ СОВРЕМЕННЫХ ДИАГНОСТИЧЕСКИХ СИСТЕМ ПРИ ПРОВЕДЕНИИ ТЕХНИЧЕСКОГО ОБСЛУЖИВАНИЯ И РЕМОНТА
+ECONOMIC ASPECTS OF THE USE OF MODERN DIAGNOSTIC SYSTEMS IN THE MAINTENANCE AND REPAIR
+
+СОВЕРШЕНСТВОВАНИЕ СТИМУЛИРОВАНИЯ ИЗОБРЕТАТЕЛЬСКОЙ И РАЦИОНАЛИЗАТОРСКОЙ ДЕЯТЕЛЬНОСТИ
+PROGRESS IN STIMULATING INVENTIVE AND RATIONALIZATION ACTIVITY
+
+СРАВНЕНИЕ ДИНАМИКИ ПЕРЕВОЗОК ПАССАЖИРОВ ВОЗДУШНЫМ ТРАНСПОРТОМ НА ПРИМЕРЕ РОССИИ И ГЕРМАНИИ
+COMPARISON OF THE DYNAMICS OF PASSANGER TRAFFIC BY AIR ON THE EXAMPLE OF RUSSIA AND GERMANY
+
+СРАВНЕНИТЕЛЬНЫЙ АНАЛИЗ ТЕХНИКО-ЭКОНОМИЧЕСКИХ ПОКАЗАТЕЛЕЙ АВТОБУСОВ МАЗ-241 И ПАЗ-320412
+COMPARATIVE ANALYSIS OF TECHNICAL AND ECONOMIC INDICATORS OF BUSES MAZ-241 AND PAZ-320412
+
+АНАЛИЗ РАБОТЫ ВОЗДУШНОГО ПАССАЖИРСКОГО ТРАНСПОРТА В РОССИЙСКОЙ ФЕДЕРАЦИИ
+ANALYSIS OF AIR PASSENGER TRANSPORT IN THE RUSSIAN FEDERATION
+
+ИСПОЛЬЗОВАНИЕ ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ В РЕЖИМЕ ONLINE ДЛЯ ЭКОНОМИИ РЕСУРСОВ ПРЕДПРИЯТИЯ
+THE USE OF INFORMSTION TECHNOLOGY IN ONLINE MODE FOR SAVING RESOURCES OF THE ENTERPISE
+
+ОЦЕНКА КОНТРАСТНОСТИ ЧЕРНО - БЕЛЫХ ИЗОБРАЖЕНИЙ НА ОСНОВЕ УСЛОВНОЙ ИНТЕРВАЛЬНОЙ ДИСПЕРСИИ ЯРКОСТИ
+CONTRAST ESTIMATION OF GRAYSCALE IMAGES USING CONDITIONAL VARIANCE ON LUMA INTERVALS
+
+ЗАМЕНА ЧЕЛОВЕЧЕСКОГО ТРУДА МАШИННЫМ
+REPLACEMENT OF HUMAN LABOR WITH MACHINE LABOR
+
+ОБЩЕСТВО ПЛОСКОЙ ЗЕМЛИ КАК АНТИНАУЧНОЕ НАПРАВЛЕНИЕ
+THE FLAT EARTH SOCIETY AS ANTI-SCIENTIFIC DIRECTION
+
+ШЕСТОЙ ТЕХНОЛОГИЧЕСКИЙ УКЛАД: ПРОБЛЕМЫ И ПЕРСПЕКТИВЫ РОССИИ
+PROBLEMS AND PROSPECTS OF RUSSIA IN THE SIXTH TECHNOLOGICAL ORDER
+
+СПОРТИВНАЯ ФОТОГРАФИЯ В ЖУРНАЛАХ НАЧАЛА ХХ В. КАК ИСТОРИЧЕСКИЙ ИСТОЧНИК
+SPORTS PHOTOGRAPHY IN MAGAZINES OF THE EARLY TWENTIETH CENTURY AS A HISTORICAL SOURCE
+
+ИНТЕЛЛЕКТУАЛЬНАЯ СОБСТВЕННОСТЬ И ЦИФРОВАЯ ЭКОНОМИКА
+INTELLECTUAL PROPERTY AND THE DIGITAL ECONOMY
+
+ОБ АЛГОРИТМЕ ЯРКОСТНО-КОНТРАСТНОЙ ЛУПЫ ДЛЯ УСИЛЕНИЯ ЛОКАЛЬНОЙ РАЗЛИЧИМОСТИ ДЕТАЛЕЙ ЦИФРОВЫХ ИЗОБРАЖЕНИЙ
+ABOUT THE ALGORITHM ARKISTO-CONTRAST MAGNIFYING GLASS TO ENHANCE THE LOCAL DISTINCTIVENESS OF PARTS OF DIGITAL IMAGES
+
+ЭВОЛЮЦИЯ МЕСТНОГО САМОУПРАВЛЕНИЯ В РОССИЙСКОМ ОБЩЕСТВЕ
+THE EVOLUTION OF LOCAL GOVERNMENT IN THE RUSSIAN SOCIETY
+
+ПЕРСПЕКТИВЫ РАЗВИТИЯ МЕСТНОГО САМОУПРАВЛЕНИЯ НА СОВРЕМЕННОМ ЭТАПЕ
+PROSPECTS OF DEVELOPMENT OF LOCAL SELF-GOVERNMENT ON THE MODERN STAGE OF DEVELOPMENT
+
+ПРОИЗВОДСТВО АВТОБУСОВ МАЗ НА «ЦЕНТРАЛЬНОЙ ИНЖЕНЕРНОЙ БАЗЕ № 81» Г. ЯРОСЛАВЛЯ - ИСТОРИЧЕСКИЙ ПРИМЕР КОНВЕРСИИ
+THE PRODUCTION OF MAZ BUSES IN THE «CENTRAL ENGINEERING BASE NO. 81» THE CITY OF YAROSLAVL IS A HISTORICAL EXAMPLE OF CONVERSION
+
+СИСТЕМА ОРГАНОВ МЕСТНОГО САМОУПРАВЛЕНИЯ МУНИЦИПАЛЬНОГО ОБРАЗОВАНИЯ Г. ЯРОСЛАВЛЯ
+THE LOCAL GOVERMENT SYSTEM OF THE MUNICIPAL FORMATION OF THE CITY OF YAROSLAVL
+
+ИССЛЕДОВАНИЕ ПАРАБОЛИЧЕСКОГО ЗАКОНА РАСПРЕДЕЛЕНИЯ ДЛЯ ИЗМЕНЕНИЯ КОНТРАСТА ЧЕРНО-БЕЛОГО ИЗОБРАЖЕНИЯ
+RESEARCH OF THE PARABOLIC LAW OF DISTRIBUTION FOR GRAYSCALE IMAGE CONTRAST ADJUSTMENT
+
+СОЦИАЛЬНО-ФИЛОСОФСКАЯ ДОКТРИНА К.П. ПОБЕДОНОСЦЕВА
+SOCIO-PHILOSOPHICAL DOCTRINE OF K. POBEDONOSTSEV
+
+ВЛИЯНИЕ ГЛОБАЛЬНОГО ИЗМЕНЕНИЯ КЛИМАТА НА ПРОЕКТИРОВАНИЕ И СТРОИТЕЛЬСТВО ЗДАНИЙ И СООРУЖЕНИЙ
+THE IMPACT OF GLOBAL CLIMATE CHANGE ON THE DESIGN AND CONSTRUCTION OF BUILDBNGS AND STRUCTURES
+
+О ПРИЧИНАХ ИЗНОСА ПАРЫ "ПОЛИМЕР - ЗАМША"
+ABOUT THE REASONS WEAR A PAIR OF "POLYMER - SUEDE"
+
+ИМИТАЦИОННОЕ МОДЕЛИРОВАНИЕ ПРОЦЕССА РАСПРОСТРАНЕНИЯ АВТОМОБИЛЕЙ
+IMITATION MODELING OF THE PROCESS OF DISTRIBUTION OF CARS
+
+БУДДИЗМ. ЕГО ИДЕОЛОГИЯ И ВЛИЯНИЕ НА ОБЩЕСТВО
+BUDDHISM. ITS IDEOLOGY AND INFLUENCE ON SOCIETY
+
+ЭКЗИСТЕНЦИАЛИЗМ – «ФИЛОСОФИЯ СУЩЕСТВОВАНИЯ»
+EXISTENTIALISM - «PHILOSOPHY OF EXISTENCE»
+
+РЕКОМЕНДАЦИИ ПО ПОДГОВКЕ К ПУБЛИКАЦИИ НАУЧНОЙ СТАТЬИ НА АНГЛИЙСКОМ ЯЗЫКЕ В ИНОСТРАННОМ ЖУРНАЛЕ
+GUIDELINES FOR THE PREPARATION OF A SCIENTIFIC PAPER TO BE PUBLISHED IN THE ENGLISH LANGUAGE IN A FOREIGN SCIENTIFIC JOURNAL
+
+АНАЛИЗ АНГЛОЯЗЫЧНЫХ ЗАИМСТВОВАНИЙ В ЭКОНОМИЧЕСКОЙ И ЭКОЛОГИЧЕСКОЙ СФЕРАХ ДЕЯТЕЛЬНОСТИ
+ENGLISH BORROWED WORDS IN ECONOMIC AND ENVIRONMENTAL FIELDS
+
+СЛЕНГ В ЯЗЫКЕ КАК ЧАСТЬ СНИЖЕННОЙ ЛЕКСИКИ НЕМЕЦКОГО ЯЗЫКА
+SLANG LANGUAGE AS PART OF A REDUCED VOCABULARY OF THE GERMAN LANGUAGE
+
+НЕКОТОРЫЕ ПРОБЛЕМЫ МАШИННОГО ПЕРЕВОДА
+SOME PROBLEMS OF MACHINE TRANSLATION
+
+ЛИНГВОСТРАНОВЕДЧЕСКИЙ АСПЕКТ В ИЗУЧЕНИИ ИНОСТРАННОГО ЯЗЫКА В ТЕХНИЧЕСКОМ ВУЗЕ
+LINGUACULTURAL ASPECT IN THE STUDY OF A FOREIGN LANGUAGE IN A TECHNICAL UNIVERSITY
+
+НЕКОТОРЫЕ ОСОБЕННОСТИ РАЗВИТИЯ ФАРМАЦЕВТИЧЕСКОЙ ТЕРМИНОЛОГИИ
+SOME PECULIAR PROPERTIES OF PHARMACEUTICAL TERMINOLOGY DEVELOPMENT
+
+АУТЕНТИЧНОЕ КИНО КАК СПОСОБ ИЗУЧЕНИЯ ИНОСТРАННЫХ ЯЗЫКОВ
+AUTHENTIC CINEMA AS A WAY OF LEARNING OF FOREIGN LANGUAGES
+
+ЧТО ЭТО ЗНАЧИТ «БЫТЬ В ТЕМЕ»?
+WHAT DOES IT MEAN “TO BE IN HIP”?
+
+ПРОГРАММЫ ПО ОБМЕНУ СТУДЕНТАМИ КАК ОСНОВНОЙ ИНСТРУМЕНТ ПОЗНАНИЯ ТРАДИЦИЙ И КУЛЬТУРЫ СТРАНЫ ИЗУЧАЕМОГО ЯЗЫКА
+STUDENT EXCHANGE PROGRAMS AS THE MAIN TOOL OF TRADITIONS AND CULTURE FOREGHN LANGUAGE LEARNING
+
+АДЕКВАТНОЕ УПОТРЕБЛЕНИЕ ЗАИМСТВОВАННЫХ ЛЕКСИЧЕСКИХ ЕДИНИЦ
+BORROWINGS VALID USE
+
+О СИНТАКСИЧЕСКОМ ПАРСИНГЕ ИНТЕРНЕТ-РЕСУРСОВ
+ABOUT SYNTACTIC PARSING OF INTERNET RESOURCES
+
+ЗАИМСТВОВАНИЯ КАК ПРОЦЕСС ИЗМЕНЕНИЯ ЯЗЫКА
+BORROWINGS AS A PROCESS OF LANGUAGE CHANGE
+
+АМЕРИКАНСКИЙ И БРИТАНСКИЙ АНГЛИЙСКИЙ ЯЗЫК
+AMERICAN AND BRITISH ENGLISH LANGUAGES
+
+ОСОБЕННОСТИ ИСПОЛЬЗОВАНИЯ ПОЛИТКОРРЕКТНОЙ ЛЕКСИКИ В АНГЛОЯЗЫЧНОЙ ЛИНГВОКУЛЬТУРЕ
+FEATURES OF THE USE OF POLITICALLY CORRECT VOCABULARY IN ENGLISH LINGUISTIC CULTURE
+
+СРАВНИТЕЛЬНЫЙ АНАЛИЗ ПОСЛОВИЦ И ФРАЗЕОЛОГИЗМОВ АНГЛИЙСКОГО И РУССКОГО ЯЗЫКОВ
+COMPARATIVE ANALYSIS OF PROVERBS AND IDIOMS OF ENGLISH AND RUSSIAN LANGUAGES
+
+ОСОБЕННОСТИ И СРАВНИТЕЛЬНЫЙ АНАЛИЗ РОССИЙСКОЙ И БРИТАНСКОЙ КУЛЬТУРЫ
+CHARACTERISTICS AND COMPARATIVE ANALYSIS OF RUSSIAN AND BRITISH CULTURE
+
+ВЛИЯНИЕ РОССИЙСКОЙ И АНГЛО-АМЕРИКАНСКОЙ КУЛЬТУР НА МОЛОДЕЖЬ
+RUSSIAN AND ANGLO-AMERICAN CULTURES INFLUENCE TO YOUNG PEOPLE
+
+СОКРАЩЕНИЯ В АНГЛИЙСКОМ ЯЗЫКЕ
+ABBREVIATIONS IN THE ENGLISH LANGUAGE
+
+К ВЫБОРУ ОПТИМАЛЬНОГО ОТБОРА ПРОДУКТОВ ПРИ РЕКТИФИКАЦИИ МНОГОКОМПОНЕНТНОЙ СМЕСИ
+FOR THE SELECTION OF OPTIMAL PRODUCT SELECTION IN THE RECTIFICATION OF A MULTICOMPONENT MIXTURE
+
+ПЕРЕВОД КОМПЬЮТЕРНОЙ ЛЕКСИКИ В ЯЗЫКОВОЙ ПАРЕ АНГЛИЙСКИЙ-РУССКИЙ
+TRANSLATION OF COMPUTER SCIENCE VOCABULARY IN THE ENGLISH-RUSSIAN LANGUAGE PAIR
+
+ИССЛЕДОВАНИЕ ИДИОМАТИЧЕСКИХ ВЫРАЖЕНИЙ С ГЛАГОЛОМ «TO TAKE»
+STUDY OF IDIOMATIC EXPRESSIONS WITH THE VERB «TO TAKE»
+
+РАЗВИТИЕ АУДИОВИЗУАЛЬНОГО ПЕРЕВОДА В РОССИИ. АУДИОВИЗУАЛЬНЫЙ ПЕРЕВОД КАК ОТДЕЛЬНЫЙ ВИД ПЕРЕВОДА
+EVOLUTION OF AUDIOVISUAL TRANSLATION IN RUSSIA. AUDIOVISUAL TRANSLATION AS A SEPARATE TYPE OF TRANSLATION
+
+ТРУДНОСТИ ПЕРЕВОДА СТРОИТЕЛЬНЫХ ТЕРМИНОВ НА РУССКИЙ ЯЗЫК
+DIFFICULTIES OF THE TRANSLATION OF CONSTRUCTION TERMS INTO THE RUSSIAN LANGUAGE
+
+АНАЛИЗ ФРАЗОВОГО ГЛАГОЛА «TO GET» И ИДИОМАТИЧЕСКИХ ВЫРАЖЕНИЙ С ЕГО ИСПОЛЬЗОВАНИЕМ
+THE ANALYSIS OF THE PHRASAL VERB «TO GET» AND IDIOMATIC EXPRESSIONS WITH ITS USAGE
+
+ИССЛЕДОВАНИЕ ПОЛИСЕМИИ НА ПРИМЕРЕ СТРОИТЕЛЬНОГО ТЕРМИНА «BEAM»
+POLYSEMY STUDY BY WAY OF EXAMPLE OF THE CONSTRUCTION TERM "BEAM"
+
+ПЕРЕВОД ИДИОМАТИЧЕСКИХ ВЫРАЖЕНИЙ С ИСПОЛЬЗОВАНИЕМ НАЗВАНИЙ ЖИВОТНЫХ
+TRANSLATION OF THE IDIOMATIC EXPRESSIONS USING THE NAMES OF ANIMALS
+
+СПОСОБЫ ПЕРЕВОДА АНГЛИЙСКИХ СРАВНЕНИЙ С ИСПОЛЬЗОВАНИЕМ НАЗВАНИЙ ЖИВОТНЫХ НА РУССКИЙ ЯЗЫК
+METHODS OF TRANSLATION OF ENGLISH COMPARISONS INCLUDING THE NAMES OF ANIMALS INTO THE RUSSIAN LANGUAGE
+
+МОЛОДЕЖНЫЙ СЛЕНГ В АНГЛИЙСКОМ ЯЗЫКЕ
+YOUTH SLANG IN THE ENGLISH LANGUAGE
+
+НЕЙРОСЕТЕВЫЕ ТЕХНОЛОГИИ В ФИНАНСОВО-ЭКОНОМИЧЕСКОЙ ДЕЯТЕЛЬНОСТИ
+NEURAL NETWORK TECHNOLOGY IN THE FINANCIAL-ECONOMIC ACTIVITIES
+
+ВОССТАНОВЛЕНИЕ МЕЛКОЙ МОТОРИКИ ПОСЛЕ ИНСУЛЬТА ПРИ ПОМОЩИ ДОПОЛНЕННОЙ РЕАЛЬНОСТИ
+REHABILITATION OF SMALL MOTORICS AFTER A STROKE BY TECHNOLOGY AUGMENTED REALITY
+
+АНАЛИЗ МЕТОДОВ ВЫДЕЛЕНИЯ ТРЕНДА
+ANALYSIS OF TREND SELECTION METHODS
+
+ОПТИМАЛЬНОЕ УПРАВЛЕНИЕ СЛОЖНОЙ СИСТЕМОЙ СО СЛУЧАЙНЫМИ ОГРАНИЧЕНИЯМИ НА РЕСУРСЫ
+OPTIMAL CONTROL OF LARGE SCALE SYSTEM WITH STOCHASTIC RESOURCE CONSTRA
+
+О ПОЛИНОМИАЛЬНЫХ ДИФФЕРЕНЦИАЛЬНЫХ УРАВНЕНИЯХ ПЕРВОГО ПОРЯДКА, ГРУБЫХ НА ПРОЕКТИВНОЙ ПЛОСКОСТИ
+ON FIRST ORDER POLYNOMIAL DIFFERENTIAL EQUATIONS, STRUCTURALLY STABLE ON THE PROJECTIVE PLANE
+
+СИСТЕМА КОНТРОЛЯ СОСТОЯНИЯ АВТОМОБИЛЯ С ФУНКЦИЕЙ ВЫЗОВА ЭКСТРЕННОЙ ПОМОЩИ НА МЕСТО ДТП
+DEVELOPMENT OF A VEHICLE CONDITION MONITORING SYSTEM WITH THE FUNCTION OF CALLING EMERGENCY ASSISTANCE TO THE SCENE OF AN ACCIDENT
+
+ЭКСПРЕСС-МЕТОД ОЦЕНКИ ОБЪЁМОВ СЫПУЧИХ ГРУЗОВ
+EXPRESS METHOD OF ESTIMATION OF VOLUMES OF BULK CARGO
+
+СПОСОБ ПОЛУЧЕНИЯ СЁДЕЛ КЛАПАНОВ ПРИ ВОССТАНОВЛЕНИИ МЕТОДОМ ЭЛЕКТРОДУГОВОЙ НАПЛАВКИ
+METHOD OF PRODUCING SUCKS OF VALVES WHEN RECOVERED BY METHOD OF ELECTRIC RAW MATERIAL
+
+ЧИСЛЕННЫЙ АНАЛИЗ УРАВНОВЕШЕННОСТИ И ОБУСЛОВЛЕННОЙ ЕЮ НИЗКОЧАСТОТНОЙ ВИБРАЦИИ ДВИГАТЕЛЕЙ
+NUMERICAL ANALYSIS OF THE BALANCING AND THE RESULTING LOW-FREQUENCY VIBRATION MOTORS
+
+ДЛЯ ПОВЫШЕНИЯ НАДЁЖНОСТИ ВОДЯНЫХ НАСОСОВ СИСТЕМЫ ОХЛАЖДЕНИЯ
+FOR INCREASING THE RELIABILITY OF WATER PUMPS OF THE COOLING SYSTEM
+
+УСТРОЙСТВО ДЛЯ ПРИВОДА ТОЛКАТЕЛЕЙ ПЛУНЖЕРОВ ТНВД ЭКСЦЕНТРИКОВОГО ТИПА
+ECCENTRIC TYPE DEVICE FOR ACTUATOR OF HIGH-PRESSURE FUEL PUMP PLUG PRESSURE PUMP DRIVERS
+
+ОСОБЕННОСТИ ДИНАМИКИ ДВИГАТЕЛЕЙ С ШЕСТИТАКТНЫМ РАБОЧИМ ПРОЦЕССОМ
+PECULIARITY OF THE DYNAMICS OF ENGINES WITH SIX STROKE WORKING PROCESS
+
+СИНТЕЗ АМИДОВ КАРБОНОВЫХ КИСЛОТ С ИМИДНЫМ И АЛИЦИКЛИЧЕСКИМ ФРАГМЕНТАМИ И ИССЛЕДОВАНИЕ ИХ ГЕНОТОКСИЧЕСКОЙ АКТИВНОСТИ В ALLIUM-ТЕСТ-СИСТЕМЕ
+SYNTHESIS AMIDES OF CARBONIC ACIDS WITH IMIDES AND CYCLICALIPHATIC FRAGMENTS AND THE STUDY OF GENOTOXIC ACTIVITY USING THE ALLIUM TEST METHOD
+
+ЗАРЯДОВАЯ КОМПЕНСАЦИЯ В ПОЛИФЕРРИТЕ КАЛИЯ ПРИ ЛЕГИРОВАНИИ ЧЕТЫРЕХЗАРЯДНЫМИ ИОНАМИ
+CHARGE COMPENSATION IN POTASSIUM POLYFERRITE AT DOPING WITH FOUR-CHARGED IONS
+
+ВЛИЯНИЕ МЕХАНОМАГНИТНОЙ АКТИВАЦИИ РАСТВОРОВ CACL2 И NA2S2O3 НА ФАЗОВЫЙ СОСТАВ ЦЕМЕНТНОГО КАМНЯ
+INFLUENCE OF MECHANOMAGNETIC ACTIVATION OF SOLUTIONS CACL2 AND NA2S2O3 ON PHASE STRUCTURE OF CEMENT STONE
+
+ОСОБЕННОСТИ РАБОЧЕГО ПРОЦЕССА ПОРШНЕВОГО ДВИГАТЕЛЯ ПРИ РАБОТЕ НА КЕРОСИНЕ
+FEATURES OF THE PISTON ENGINE WORKING PROCESS WHEN WORKING ON KEROSENE
+
+УЧЕТ И ОЦЕНКА ЭКОСИСТЕМНЫХ УСЛУГ НОВОКУЗНЕЦКОГО УГЛЕДОБЫВАЮЩЕГО РАЙОНА (КЕМЕРОВСКАЯ ОБЛАСТЬ)
+ACCOUNTING AND ASSESSMENT OF ECOSYSTEM SERVICES OF NOVOKUZNETSK COAL-MINING AREA (KEMEROVO OBLAST)
+
+СИНТЕЗ ПРОИЗВОДНЫХ 4’’O,5O-БИС(2-АМИНО-2-ТИОКСОАЦЕТИЛ)ИВЕРМЕКТИНА
+SYNTHESIS OF 4’’О,5О-BIS(2-AMINO-2-THIOXOACETYL)IVERMECTIN DERIVATIVES
+
+ВЛИЯНИЕ ВИДА АМИННОГО СШИВАЮЩЕГО АГЕНТА, МОДИФИЦИРОВАННОГО ПОЛИАНИЛИНОМ, НА ФОРМИРОВАНИЕ ЭПОКСИДНЫХ ПОКРЫТИЙ
+INFLUENCE OF KIND OF AMINE HARDENER MODIFIED BY POLYANILINE ON FORMATION OF EPOXY COATINGS
+
+КОМПЛЕКСНО- ЛЕГИРОВАННЫЕ ЧУГУНЫ ДЛЯ ИЗНОСОСТОЙКИХ ОТЛИВОК С КАРБОНИТРИДНЫМ УПРОЧНЕНИЕМ
+COMPLEX-ALLOYED IRON FOR WEAR-RESISTANT CASTINGS WITH CARBONITRIDE STRENGTHENING
+
+СИСТЕМА МЕНЕДЖМЕНТА КАЧЕСТВА КАК ИНСТРУМЕНТ ОБЕСПЕЧЕНИЯ БЕЗОПАСНОСТИ ПРОДУКЦИИ ПРИ ДЕКЛАРИРОВАНИИ СООТВЕТСТВИЯ
+QUALITY MANAGEMENT SYSTEM AS AN ADDITIONAL TOOL TO ENSURE SAFETY OF PRODUCTS DURING DECLARATION OF CONFORMITY
+
+ФОРМИРОВАНИЕ КОМПЛЕКТОВ МАШИН ДЛЯ УСТРОЙСТВА АСФАЛЬТОБЕТОННЫХ ПОКРЫТИЙ В НЕБЛАГОПРИЯТНЫХ ПОГОДНЫХ УСЛОВИЯХ
+FORMING SETS OF MACHINES FOR CONSTRUCTION OF ASPHALT CONCRETE PAVEMENTS IN ADVERSE WEATHER CONDITIONS
