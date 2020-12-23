@@ -43,7 +43,7 @@ import Readline from './readline';
             }
 
             case 'extract': {
-                await parser.ExtractTitles('titles_p_100', 'out/titles');
+                await parser.ExtractTitles(['artitles', 'all_titles'], 'out/titles');
                 break;
             }
 

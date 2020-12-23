@@ -265,8 +265,12 @@ export class Parser {
         };
     }
 
-    public async ExtractTitles(cacheName: string, toFile: string) {
-        let arTitles = (await cm.read(cacheName)) as IArticleTitle[];
+    public async ExtractTitles(cacheName: string | string[], toFile: string) {
+        let { arTitles } = (await cm.read(cacheName)) as { arTitles: IArticleTitle[] };
+        if (!arTitles) {
+            logger.warn(`Cache "${cacheName}" dosn't contain titles`);
+            return;
+        }
 
         let dataAll = arTitles.map((e) => `${e.title}\n${e.titleEng}`).join('\n\n');
         let dataEng = arTitles.map((e) => `${e.titleEng}`).join('\n\n');
@@ -275,5 +279,6 @@ export class Parser {
         await Fs.writeFile(`${toFile}.all.txt`, dataAll);
         await Fs.writeFile(`${toFile}.en.txt`, dataEng);
         await Fs.writeFile(`${toFile}.ru.txt`, dataRus);
+        logger.info(`Titles wee successfully extracted: ${arTitles.length}`);
     }
 }
