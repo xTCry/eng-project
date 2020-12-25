@@ -1,7 +1,7 @@
 import Fs from 'fs-extra';
 import { load } from 'cheerio';
 import chTableParser from 'cheerio-tableparser';
-import randomUseragent from 'random-useragent';
+// import randomUseragent from 'random-useragent';
 import cm from './cacheman';
 import Readline from './readline';
 import axios from 'axios';
@@ -28,20 +28,20 @@ interface ICachedArticlesTitles {
     lastArticleId: number;
 }
 
-const SCookieIDPath = './SCookieID.txt'
+const SCookieIDPath = './CookieData.txt'
 try {
     if (!Fs.existsSync(SCookieIDPath)) {
-        Fs.writeFileSync(SCookieIDPath, '00000');
+        Fs.writeFileSync(SCookieIDPath, ';');
     }
 } catch (err) {}
-const SCookieID = parseInt(Fs.readFileSync(SCookieIDPath, 'utf-8'));
+const CookieData = Fs.readFileSync(SCookieIDPath, 'utf-8');
 
 export async function request(url: string, httpsAgent?: Agent): Promise<string> {
     let response = await axios({
         headers: {
-            Cookie: `SCookieID=${SCookieID};`,
-            'user-agent': randomUseragent.getRandom(),
-                // 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36',
+            Cookie: CookieData,
+            'user-agent': //randomUseragent.getRandom(),
+                'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36',
             Connection: 'keep-alive',
         },
         httpsAgent,
@@ -162,6 +162,7 @@ export class Parser {
             lastArticleId > 0 &&
             ['', 'y'].includes(await Readline.question(`Skip existing article titles (last artId ${lastArticleId})? [y]: `))
         ) {
+            i = arTitles.length;
             data.arTitles = arTitles;
             let lastLen = articleIds.length;
             articleIds = articleIds.slice(articleIds.indexOf(lastArticleId));
@@ -236,7 +237,7 @@ export class Parser {
         if (!body || body.length < 1500) {
             if (body) {
                 const $ = load(body!);
-                console.log('body', $('html').text());
+                console.log('body', $('html').text().replace(/\n\n/g, ''));
             } else {
                 console.log('body', body);
             }
