@@ -6,7 +6,7 @@ import Readline from './readline';
 import axios from 'axios';
 import logger from './logger';
 import { Agent } from 'https';
-import { config } from './config';
+import { config, IsDebug } from './config';
 
 export interface IArticleTitle {
     title: string;
@@ -79,7 +79,7 @@ export class Parser {
         }
 
         let startTime = Date.now();
-        logger.debug('try request');
+        IsDebug && logger.debug('try request');
 
         let response;
         try {
@@ -90,7 +90,7 @@ export class Parser {
             return undefined;
         }
 
-        logger.debug(`New data loaded (${Date.now() - startTime}ms) - ${url}`);
+        IsDebug && logger.debug(`New data loaded (${Date.now() - startTime}ms) - ${url}`);
         await cm.update(['site', file], response);
 
         return response;
@@ -116,7 +116,9 @@ export class Parser {
             logger.info(`Loaded ${data.arArticles.length} articles; lastPage: ${data.lastPage}`);
             if (
                 !loadNext &&
-                ['', 'y'].includes(await Readline.question('contunue use only cached data ([y]/n) or continue parsing pages: '))
+                ['', 'y'].includes(
+                    await Readline.question('contunue use only cached data ([y]/n) or continue parsing pages: ')
+                )
             ) {
                 return data.arArticles;
             }
@@ -155,7 +157,9 @@ export class Parser {
         let { lastArticleId, arTitles } = (await cm.read(['artitles', `all_titles`])) as ICachedArticlesTitles;
         if (
             lastArticleId > 0 &&
-            ['', 'y'].includes(await Readline.question(`Skip existing article titles (last artId ${lastArticleId})? ([y]/n): `))
+            ['', 'y'].includes(
+                await Readline.question(`Skip existing article titles (last artId ${lastArticleId})? ([y]/n): `)
+            )
         ) {
             i = arTitles.length;
             data.arTitles = arTitles;
@@ -166,11 +170,11 @@ export class Parser {
 
         for (let id of articleIds) {
             try {
-                // logger.debug('try load article');
+                IsDebug && logger.debug('try load article');
 
                 let titleObj = await this.getArticleTitle(id);
                 if (!titleObj || !titleObj.titleEng) {
-                    logger.debug('skip article');
+                    IsDebug && logger.debug('skip article');
                     continue;
                 }
                 logger.info.lightBlue('ENG found');
@@ -178,7 +182,7 @@ export class Parser {
                 ++i;
                 data.arTitles.push(titleObj);
                 if (i % 25 == 0) {
-                    logger.debug('update titles');
+                    IsDebug && logger.debug('update titles');
                     await cm.update(['artitles', `titles_p_${i}`], data.arTitles.slice(-i), 86400);
                 }
                 if (i % 2 == 0) {
@@ -187,7 +191,7 @@ export class Parser {
                             articleIds.length
                         }] Parse title (${id})`
                     );
-                    logger.debug('update all titles');
+                    IsDebug && logger.debug('update all titles');
                     await cm.update(['artitles', `all_titles`], data, 86400);
                 }
                 data.lastArticleId = id;
@@ -196,7 +200,7 @@ export class Parser {
             }
         }
 
-        logger.debug('end update title');
+        IsDebug && logger.debug('end update title');
         await cm.update(['artitles', `all_titles`], data, 86400);
 
         return data.arTitles;
@@ -227,7 +231,7 @@ export class Parser {
     public async getArticleTitle(id: number, useCache = true): Promise<IArticleTitle | undefined> {
         const url = `${URL_EL}/item.asp?id=${id}`;
         const body = await this.request(url, useCache);
-        logger.debug('end request');
+        IsDebug && logger.debug('end request');
 
         if (!body || body.length < 1500) {
             if (body) {

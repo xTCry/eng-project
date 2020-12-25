@@ -29,6 +29,12 @@ export const configSchema = {
         env: 'COOKIE',
         arg: 'cookie',
     },
+    DEBUG: {
+        doc: 'See debug info',
+        default: true,
+        env: 'DEBUG',
+        arg: 'debug',
+    },
 };
 
 const configPath = './config.json';
@@ -44,3 +50,5 @@ function loadConfig(conv: convict.Config<any>, pathFile: string) {
 }
 
 loadConfig(config, configPath);
+
+export const IsDebug = config.get('DEBUG');

@@ -21,7 +21,7 @@ const socksHost = config.get('PROXY_HOST');
         agent = new sAgent({ socksPort, socksHost });
         try {
             let agentIp = await request('https://ipv4.icanhazip.com', agent);
-            logger.debug('[Proxy] agentIp', agentIp);
+            logger.info('[Proxy] agentIp', agentIp);
         } catch (error) {
             logger.error('[Proxy] Error', error.message);
             agent = undefined;
@@ -31,8 +31,7 @@ const socksHost = config.get('PROXY_HOST');
 
     const parser = new Parser(agent);
     try {
-        LLoop:
-        while (true) {
+        LLoop: while (true) {
             switch (await Readline.question('cmd (start/test/clear_bad_cache/remove_duplicate_1/extract/end): ')) {
                 case 's':
                 case 'start': {
