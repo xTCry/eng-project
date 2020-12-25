@@ -1,21 +1,19 @@
 import Fs from 'fs-extra';
 import { load } from 'cheerio';
 import chTableParser from 'cheerio-tableparser';
-// import randomUseragent from 'random-useragent';
 import cm from './cacheman';
 import Readline from './readline';
 import axios from 'axios';
 import logger from './logger';
 import { Agent } from 'https';
+import { config } from './config';
 
-const URL_EL = 'https://www.elibrary.ru';
-
-interface IArticleTitle {
+export interface IArticleTitle {
     title: string;
     titleEng?: string;
 }
 
-interface IArticleInfo {
+export interface IArticleInfo {
     // Id of the article on the site
     id: number;
     // Article number from the sellected company
@@ -23,32 +21,32 @@ interface IArticleInfo {
     title: string;
 }
 
-interface ICachedArticlesTitles {
+export interface ICachedArticles {
+    arArticles: IArticleInfo[];
+    lastPage: number;
+}
+
+export interface ICachedArticlesTitles {
     arTitles: IArticleTitle[];
     lastArticleId: number;
 }
 
-const SCookieIDPath = './CookieData.txt'
-try {
-    if (!Fs.existsSync(SCookieIDPath)) {
-        Fs.writeFileSync(SCookieIDPath, ';');
-    }
-} catch (err) {}
-const CookieData = Fs.readFileSync(SCookieIDPath, 'utf-8');
+const URL_EL = 'https://www.elibrary.ru';
+const Cookie = config.get('COOKIE');
 
 export async function request(url: string, httpsAgent?: Agent): Promise<string> {
     let response = await axios({
+        url,
+        httpsAgent,
         headers: {
-            Cookie: CookieData,
-            'user-agent': //randomUseragent.getRandom(),
+            Cookie,
+            'user-agent':
                 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36',
             Connection: 'keep-alive',
         },
-        httpsAgent,
+        method: 'GET',
         timeout: 1e4,
         maxRedirects: 8,
-        method: 'GET',
-        url,
     });
     return response.data;
 }
@@ -61,7 +59,7 @@ export class Parser {
         let articleIds = arArticles.map((e) => e.id);
         logger.info(`Articles loaded: ${articleIds.length}`);
 
-        if (['', 'y'].includes(await Readline.question('Parse articles? [y]: '))) {
+        if (['', 'y'].includes(await Readline.question('Parse articles? ([y]/n): '))) {
             let titles = await this.parseArticlesTitle(articleIds);
             logger.info('Titles:', titles);
         } else {
@@ -107,29 +105,26 @@ export class Parser {
         }
         const $ = load(body);
 
-        let lastPage = parseInt($('.menurb>:last-child a').attr('href')!.replace(/\D/g, ''));
-        logger.info(`Total pages: ${lastPage}`);
+        let lastPageNum = parseInt($('.menurb>:last-child a').attr('href')!.replace(/\D/g, ''));
+        logger.info(`Total pages: ${lastPageNum}`);
 
-        let tempArticles = (await cm.read(['article', `all_articles`])) as {
-            arArticles: IArticleInfo[];
-            lastPage: number;
+        let data: ICachedArticles = (await cm.read(['article', `all_articles`])) || {
+            arArticles: [],
+            lastPage: offsetPage,
         };
-        if (tempArticles?.arArticles.length > 0) {
-            logger.info(`Loaded ${tempArticles.arArticles.length} articles; lastPage: ${tempArticles.lastPage}`);
+        if (data.arArticles.length > 0) {
+            logger.info(`Loaded ${data.arArticles.length} articles; lastPage: ${data.lastPage}`);
             if (
                 !loadNext &&
-                ['', 'y'].includes(await Readline.question('contunue use cached data [y] or use next: '))
+                ['', 'y'].includes(await Readline.question('contunue use only cached data ([y]/n) or continue parsing pages: '))
             ) {
-                return tempArticles.arArticles;
+                return data.arArticles;
             }
         }
 
-        offsetPage = offsetPage || tempArticles?.lastPage || 0;
-        let data = { arArticles: tempArticles?.arArticles ?? ([] as IArticleInfo[]), lastPage: offsetPage };
-
         data.arArticles.push(...this.getListLinks($));
 
-        for (let pageNum = offsetPage + 1; pageNum <= lastPage; ++pageNum) {
+        for (let pageNum = data.lastPage + 1; pageNum <= lastPageNum; ++pageNum) {
             try {
                 const body = await this.request(`${URL_EL_YSTU}&pagenum=${pageNum}`);
                 if (!body) {
@@ -160,7 +155,7 @@ export class Parser {
         let { lastArticleId, arTitles } = (await cm.read(['artitles', `all_titles`])) as ICachedArticlesTitles;
         if (
             lastArticleId > 0 &&
-            ['', 'y'].includes(await Readline.question(`Skip existing article titles (last artId ${lastArticleId})? [y]: `))
+            ['', 'y'].includes(await Readline.question(`Skip existing article titles (last artId ${lastArticleId})? ([y]/n): `))
         ) {
             i = arTitles.length;
             data.arTitles = arTitles;
@@ -248,7 +243,7 @@ export class Parser {
 
             let checked = false;
             while (!checked) {
-                let ans = await Readline.question('confirm retry [y] or [skip]: ');
+                let ans = await Readline.question('confirm retry (y/skip): ');
                 if (ans == 'skip') {
                     return undefined;
                 } else if (ans == 'y') {

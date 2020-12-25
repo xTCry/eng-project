@@ -1,5 +1,7 @@
+config.json
+
 node_modules/
 temp/
 .temp_*
+
 py/training_checkpoints/
-CookieData.txt
