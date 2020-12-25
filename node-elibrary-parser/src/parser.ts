@@ -1,10 +1,12 @@
 import Fs from 'fs-extra';
 import { load } from 'cheerio';
 import chTableParser from 'cheerio-tableparser';
+import randomUseragent from 'random-useragent';
 import cm from './cacheman';
 import Readline from './readline';
 import axios from 'axios';
 import logger from './logger';
+import { Agent } from 'https';
 
 const URL_EL = 'https://www.elibrary.ru';
 
@@ -21,16 +23,29 @@ interface IArticleInfo {
     title: string;
 }
 
-async function request(url: string): Promise<string> {
+interface ICachedArticlesTitles {
+    arTitles: IArticleTitle[];
+    lastArticleId: number;
+}
+
+const SCookieIDPath = './SCookieID.txt'
+try {
+    if (!Fs.existsSync(SCookieIDPath)) {
+        Fs.writeFileSync(SCookieIDPath, '00000');
+    }
+} catch (err) {}
+const SCookieID = parseInt(Fs.readFileSync(SCookieIDPath, 'utf-8'));
+
+export async function request(url: string, httpsAgent?: Agent): Promise<string> {
     let response = await axios({
         headers: {
-            Cookie: 'SCookieID=1005637369;',
-            'user-agent':
-                'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36',
+            Cookie: `SCookieID=${SCookieID};`,
+            'user-agent': randomUseragent.getRandom(),
+                // 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36',
             Connection: 'keep-alive',
         },
-
-        timeout: 5e3,
+        httpsAgent,
+        timeout: 1e4,
         maxRedirects: 8,
         method: 'GET',
         url,
@@ -39,6 +54,8 @@ async function request(url: string): Promise<string> {
 }
 
 export class Parser {
+    constructor(public proxy?: Agent) {}
+
     public async Start() {
         let arArticles = await this.parseArticlesList();
         let articleIds = arArticles.map((e) => e.id);
@@ -55,11 +72,11 @@ export class Parser {
     /**
      * request with cache
      */
-    public async request(url: string): Promise<string | undefined> {
+    public async request(url: string, useCache = true): Promise<string | undefined> {
         let file = url.slice(24);
         let isTimed = await cm.isTimed(['site', file]);
 
-        if (isTimed === false) {
+        if (isTimed === false && useCache) {
             return await cm.read(['site', file]);
         }
 
@@ -68,9 +85,10 @@ export class Parser {
 
         let response;
         try {
-            response = await request(url);
+            response = await request(url, this.proxy);
         } catch (err) {
-            console.error(err);
+            logger.error(err.message);
+            // console.error(err);
             return undefined;
         }
 
@@ -136,8 +154,19 @@ export class Parser {
     }
 
     public async parseArticlesTitle(articleIds: number[]) {
-        let data = { arTitles: [] as IArticleTitle[], lastArticleId: 0 };
+        let data: ICachedArticlesTitles = { arTitles: [], lastArticleId: 0 };
         let i = 0;
+
+        let { lastArticleId, arTitles } = (await cm.read(['artitles', `all_titles`])) as ICachedArticlesTitles;
+        if (
+            lastArticleId > 0 &&
+            ['', 'y'].includes(await Readline.question(`Skip existing article titles (last artId ${lastArticleId})? [y]: `))
+        ) {
+            data.arTitles = arTitles;
+            let lastLen = articleIds.length;
+            articleIds = articleIds.slice(articleIds.indexOf(lastArticleId));
+            logger.info(`Count skipped ids: ${lastLen - articleIds.length}`);
+        }
 
         for (let id of articleIds) {
             try {
@@ -199,12 +228,19 @@ export class Parser {
             .filter(Boolean) as IArticleInfo[];
     }
 
-    public async getArticleTitle(id: number): Promise<IArticleTitle | undefined> {
+    public async getArticleTitle(id: number, useCache = true): Promise<IArticleTitle | undefined> {
         const url = `${URL_EL}/item.asp?id=${id}`;
-        const body = await this.request(url);
+        const body = await this.request(url, useCache);
         logger.debug('end request');
 
         if (!body || body.length < 1500) {
+            if (body) {
+                const $ = load(body!);
+                console.log('body', $('html').text());
+            } else {
+                console.log('body', body);
+            }
+
             logger.warn('Human intervention is needed!');
 
             cm.delete(['site', url.slice(24)]);

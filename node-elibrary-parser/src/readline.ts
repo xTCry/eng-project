@@ -1,6 +1,5 @@
 import ReadLine from 'readline';
 import chalk from 'chalk';
-import { log } from './logger';
 
 export type HandlerCallback = (...args: any) => boolean | unknown;
 
@@ -38,11 +37,6 @@ export class CReadline {
             switch (key.toLocaleLowerCase()) {
                 case '':
                     break;
-
-                case 'test': {
-                    log.info('Q', ...args);
-                    break;
-                }
             }
 
             if (this.handlers.has(key)) {
